@@ -1,0 +1,53 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
+```{r, include=F}
+# Placeholder for clinical evaluation
+# = history and physical
+# Nutritional evaluation
+```
+## Jejunostomy + Diabetes {#jejunostomy_diabetes}
+
+**Inpt – Jejunostomy ~ Diabetes**
+
+Patients on tube feeds are typically started on continuous (around-the-clock) tube feedings, and subsequently changed to a nocturnal regimen (typically 6pm to 10am). The diabetic management for these patients differs depending upon their tube feeding regimen:
+
+**Diabetics on Continuous Tube Feeds.**
+
+Non-insulin diabetic patients are generally initially given Osmolite 1.5 as it provides higher caloric density and does not contain fiber, which tends to clog the feeding tubes. Diabetic patients requiring insulin can be initially trialed on Osmolite 1.5 but are changed to Promote or Glucerna 1.5 if their blood sugars prove difficult to control (as evidence by either the need for EndoTool or requiring a q6 hour regimen of insulin N + insulin R).
+
+Diabetic patients who need insulin while receiving tube feedings are typically treated initially with continuous tube feedings and around-the-clock insulin. Patients with large insulin requirements may need hourly intravenous insulin (with dosages calculated via EndoTool). Once their insulin requirements are stabilized, they are transitioned to a q6 hour regimen consisting of N and R insulin, typically twice as many units of N insulin as R (for instance, 6Units of N + 3 Units of R insulin every six hours). Patients who require EndoTool or a q6hr regimen need an endocrinology consultation with Dr Kelli Dunn to assist in diabetic management.
+
+**Diabetics on Nocturnal Tube Feeds**
+
+Most patients are transitioned from continuous tube feeds to nocturnal prior to discharge. Diabetic patients on nocturnal tube feedings typically receive tube feeding from 6pm to 10am and receive insulin at initiation of tube feeds (6pm) and again at 6 hours later (midnight). A typical regimen might be 18U of 70/30 at 1800 and 18U of 70/30 at MN. An alternative might be 12U NPH + 6U Regular at 1800 and 16U NPH and 8U Regular insulin at MN. Because it can take several days to determine the correct insulin regimen, diabetic patients receiving jejunostomy feedings are cycled as early in their hospital course as possible to avoid delaying discharge for blood sugar management.
+
+Diabetic patients receiving insulin will need careful coordination of tube feeding and insulin administration when they are being transitioned from continuous to nocturnal tube feeds. Patients on continuous tube feeds may receive insulin on a q6 hour schedule, while those receiving nocturnal tube feeds receive insulin at 1800 and MN. When patients on continuous tube feeds are transitioned, the tube feeds are stopped at 10am, to be restarted at 6pm that evening. It is critical that as soon as the tube feeds are stopped at 10am, that the q6 hour insulin as stopped as well.
+
+In either case it is critical that if tube feedings are stopped, standing insulin administration (either q6 hour OR 1800 and MN) be stopped as well. In these cases, sliding scale insulin is generally continued.
+
+| Day | Time | Tube Feeds | Insulin |
+|-----|------|------------|---------|
+| SUN | MN   | 60mL/hr    | 8N+4R   |
+| Mon | 6am  | 60mL/hr    | 8N+R    |
+| Mon | Noon | Stop       | None    |
+| Mon | 6pm  | 75mL/hr   | 16N + 8R    |
+| Mon | MN | 75mL/hr       | 16N+ 8R    |
+| Tues | 10am | Stop       | None    |
+| Tues | 6pm | 75mL/hr       | 16N+ 8R|
+| Tues | MN | 75mL/hr       | 16N+ 8R|
+| Weds | 10am | Stop       | None    |
+
+In this example, the patient was receiving 8N + 4R every 6 hours, so total insulin units per day is (8+4) x 4 = 48units. Because the carbohydrate load of 60mL/hour x 24 is roughly equivalent to 75mL/hour x 16 hours, the total insulin administered is roughly the same. When converted to nocturnal dosing, the patient now received 16+8 = 24 units twice (6pm and MN) = 48U. In practice, it may be wiser to begin by adjusting the dose down a little, to perhaps 14U N and 7U R for the first night.
+
+**Weaning Tube Feeds**
+
+As outpatients begin eating more orally, their tube feeds are reduced.
+
+Weaning from 5 cans to 4 cans: Easiest method is to maintain the same schedule (16 hours) and reduce insulin dosage by 20%.  For instance, the above patient who is on 5 cans at 75mL/hour x 16 hours is receiving 16N + 8R at start of tube feeds and 6 hours later. This patient could be weaned by reducing rate form 75mL/hour x 16 hours to 60mL/hour x 16 hours and reducing insulin to 12N + 6R at the start of tube feeds AND another dose of 12N + 6R after 6 hours. 
+
+Weaning from 4 cans to 3 cans:  One option is to decrease the duration of tube feeds from 16 hours to 12 hours, while maintaining rate of 60mL/hour. In this case, the insulin dosage could be kept the same at the start of tube feeds, BUT the dose 6 hours after the start of tube feeds could be omitted.
+
+Once patients are on 3 cans per night, further weaning can be accomplished by skipping tube feeds (and insulin) every other night in a “tube feed holiday”. This allows an evening of interrupted sleep and can tend to increase the appetite the morning after tube feeds are held.

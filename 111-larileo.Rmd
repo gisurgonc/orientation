@@ -1,0 +1,144 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
+```{r, include=F}
+# Placeholder for clinical evaluation
+# = history and physical
+# Nutritional evaluation
+```
+# LAR + Ileostomy
+
+**Clinic**
+
+- Opiod Cessation
+- Smoking Cessation
+- EtOH/Drugs of Abuse – Social Work
+- Nutritional Evaluation
+  - All Patients – Ensure for 3d preop
+  - Poor nutrition – ?Delay surgery
+- *Arrange Wound Ostomy Nursing*
+- *Pre-approval for Home Health*
+- Preop Anesthesia/ERAS Class
+- Expectations of Surgery:
+  - Length of Stay 1-3 days
+  - Diet (self-limiting)
+  - Pain control (low-opoid)
+  - Activity (OOB at 6am, OOB 3x/day)
+- Bowel Prep – Abx and mechanical
+
+**Preop Holding**
+
+- Colon PowerPlan (Hill)
+- *CCM order*
+- *WOCN order*
+- Antibiotic PowerPlan
+- No PCN only for severe allergy
+- Entereg (if no preop opiods)
+- VTE prophylaxis
+- Carbohydrate load (2hr preop)
+- Confirm stoma marking
+- Confirm CCM aware of ostomy
+
+**OR**
+
+- Goal-directed fluid administration
+  - 2L total in OR
+  - 3L total/first 24hrs
+- Open procedures: No epidural
+
+**Postop Day 0**
+
+- Goal-directed fluid administration
+- OOB (Dangling not compliant)
+- Diet
+  - Low Residue diet
+  - Ensure Supplements
+- Teaching
+- Gum, Mag & Entereg
+- Pain Management
+  - PCA
+  - Tylenol 1gm q6 ATC
+  - Gabapentin 300mg TID
+  - Oxycodone once at night
+  - Tramadol PRN
+  - Resume all baseline pain meds
+- Home Medications
+  - Resume all home medications
+  - No therapeutic anti-coagiation
+  - Diabetes medicines
+    - Prefer to resume all
+    - Sliding-scale insulin if needed
+- *Wound Ostomy teaching*
+- *CCM for Home Health for stoma care*
+
+**Postop Day 1**
+
+- Labs: K+ and CBC only
+- d/c “pre” plan & colon visit
+- Heparin lock IV
+- Remove Foley
+- d/c PCA (unless laparotomy)
+- Out of bed > 6 hrs
+- Diet: low residue
+- Pain management
+  1) d/c PCA
+  2) Tylenol
+  3) Gabapentin 300 tid
+  4) Tramadol
+  5) Home meds
+  6) Oxy if lots of pain
+- Discharge planning
+1) Possible home today!(25% will go home POD1)
+2) Check patient 2-3PM
+- Afternoon rounds
+1) Possible home today!
+2) Check patient 2-4PM
+3) Ambulation 2x’s by PM
+4) Patient education
+
+**Postop Day 2**
+
+- No IV fluids unless indicated
+- No labs unless indicated
+- OOB >6 hrs
+- No PT unless going to rehab or SNF (ask Hill first)
+- Pain management
+  - Same as POD#1
+- *Wound Ostomy Teaching*
+- Discharge planning
+  - Consider early D/C (median LOS=2d)
+- Otherwise plan
+  - Patient
+  - Nursing
+  - *CCM for home health for stoma care*
+- Afternoon rounds
+1) Possible home today!
+2) Check patient 2-3PM
+3) Ambulation 2x’s by PM
+4) Check for dehydration
+5) Patient education
+6) Give estimated date of discharge
+
+**Postop Day 3-5**
+- IVF
+  - Consider bolus of IV fluids
+  - Consider maintenance IV if we feel won’t resolve soon
+- Labs
+  - No labs unless indicated
+  - Consider ordering QOD Chem7 if prolonged ileus
+  - OOB >6 hrs
+  - No PT unless likely to go to rehab or SNIF (ask Hill first)
+- Pain management
+  - Same as POD#1
+- Afternoon rounds
+1) Possible home today!
+2) Check patient 2-3PM
+3) Ambulation 2x’s by PM
+4) Check for dehydration
+5) Patient education
+6) Give estimated date of discharge
+
+
+

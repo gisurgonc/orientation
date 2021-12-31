@@ -1,0 +1,51 @@
+# Locally Advanced EsoCa {#locally_advanced}
+
+Tumors that are T2N^+^M0 or T3NxM0 are considered locally-advanced.  The high rate of failure with surgery alone has led to development of adjunctive therapies.
+
+## Trimodality Therapy {#trimodality}
+
+Trimodality therapy consists of chemoradiation followed by surgery.  
+
+CROSS trial randomized 364 patients with resectable esophageal and gastroesophageal junction tumors (75% adenocarcinoma) to neoadjuvant chemoradiation consisting of 4,140 cGy of radiation with concurrent carboplatin and paclitaxel or surgery alone.[@vanhagen2074] Clinical node-positive disease was present in 16%. Pathologic complete response was seen in 23% of adenocarcinoma and 49% of squamous cell carcinomas. Median overall survival was 49 months after trimodality vs 24 months after surgery alone (p=0.003). Squamous cell carcinomas appeared to have particular benefit, with a hazard ratio of 0.42 for squamous cell vs 0.74 for adenocarcinoma. Median survival was improved for adenocarcinoma from 27.1 months to 43.2 months, but the median survival for squamous cell increased from 27.1months to 81.6 months for squamous cell.   Rate of R0 resection was higher with chemoradiation (92% vs 69% p<0.001) andlocal recurrence rates lower (14% vs 34% P<0.001), and peritoneal recurrence lower (4% vs 14% P<0.001). Despite the relatively low dose of radiation, in-field recurrences were less than 5%. The primary cause of failure was distant disease (31%) and local/regional failure (14%).[@oppedijk385]
+
+Alternative to carbotaxol is FOLFOX (SOG trial [@leichman4555])
+
+Ongoing PROTECT trial compares FOLFOX to paclitaxel and carboplatin [@messager318]
+
+See also [Definitive ChemoRT](#eso_dcrt)
+
+### Neoadjuvant chemoRT for SCCA
+
+NeoCRTEC5010 [@yang2796] <!--- JCO 2018 --->
+
+Meta-abalysis of chemoRT vs chemo [@zhaoe0202185]
+
+
+
+### Neoadjuvant chemotheraphy followed by surgery
+
+POET Trial (Pre-Operative therapy in Esophageal adenocarcinoma Trial) treated patients with adenocarcinoma of the gastroesophageal junction with either neoadjuvant chemotherapy (5-FU, leucovorin, cisplatin) followed by surgery or induction chemotherapy with the same agents, followed by chemoradiation (4000cGy with concurrent cisplatin and etoposide).  The study failed to meet its accrual goal, but there was a suggestion of improved 3-year survival with preoperative chemoradiation (47.4% vs 27.7% *p*=0.07) as well as improved local control (76.5% vs 59%). In addition, chemoradiation was associated with a higher pathologic complete response rate (15.6% vs 2%)[@stahl851].  A meta-analysis of 33 randomized trials further suggested a greater benefit from neoadjuvant chemoradiation followed by surgery compared with neoadjuvant chemotherapy followed by surgery[@pasquali481] and a similar meta-analysis [@sjoquist681]
+
+
+#Active Surveillance
+
+EGD is poor predictor of pCR [@sarkaria764]
+
+
+## GE Junction
+
+[@siewert260]
+
+## Induction chemotherapy followed by chemoRT 
+
+See NCCN pages M-25 and M-26
+
+Stahl [@stahl851] randomized patients to preoperative chemotherapy (A) vs preoperative chemotherapy followed by preoperative chemoradiation (B). Higher pcR rate in arm B (15.6% vs 2%) and ypN0 resection (64.4% vs 37.7%).  
+
+## Postoperative chemoradiation
+
+Intergroup-0116 [@macdonald725]  [@smalley2327] treated 556 patients with adenocarcinoma of the stomach or GE junction with surgery along vs surgery followed by postoperative chemoradiation. After a median followup of over 5 years, median overall survival iin the surgery alone group was 27 months vs 36 months in the postoperative chemoradiation group (p=0.005)  Decrease in local failure as the first site of failure in the chemoradiation group (19% versus 29%).
+
+Chemoradiation afte resectdion of GE junction tumors [@kofoed26] among a group of 211 patients with GE junction adenocarcinoma with positive lymph nodes with improved 3-year disease-free survival (37% s 24%).
+
+

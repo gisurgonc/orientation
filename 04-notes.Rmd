@@ -1,0 +1,79 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+<!---
+# Diagnosis
+
+The diagnosis of esophageal cancer is generally made at upper endscopy. Several findings at EGD are important in the subsequent workup and treatment:
+
+ - Location of the tumor from the incisors
+ - Length of the tumor
+ - Location of the gastroesophageal junction relative to the tumor
+ - Presence and extent of Barrett's changes
+ - Presence and extent of invasion of tumor into the gastric cardia, particularly along the lesser curvature side. This is best seen with a retroflexed view
+--->
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+```{r, include=F}
+# Placeholder for clinical evaluation
+# = history and physical
+# Nutritional evaluation
+```
+# Progress Notes
+
+Progress notes should include a comprehensive summary of pertinent information for the patient’s medical care.
+
+A running summary of events is recorded in the Shared Hospital Course under Inpatient Workflow
+
+Each day, this section is carried from note to note so that each progress note contains the cancer history and the daily events.
+
+The Progress Note then includes the date and a one-line summary of the operation performed and any intraoperative complications or events which impact the post-operative care.
+
+Each day, an additional line is added to the Shared Hospital Course which summarizes events for that day. This makes it possible to see within each Progress Note the pertinent events for the hospitalization. These events would include extubation, re-intubation, positive cultures, dates lines are inserted or removed, dates of removal of NG tubes and drains, and transfer to ward or re-admission to ICU. This chronology assists in treatment decisions (“how old is the IJ line” or “when did we start antibiotics?” or “when is the planned antibiotic stop date”?) but also makes the discharge summary much easier to prepare.
+
+Assessment/Plan
+The medical problems currently being managed are addressed in the assessment.
+
+**Esophagectomy Events to be Documented (in Shared Hospital Course):**
+
+- Extubation date/time
+- NG Removal date
+- Chest tube removal date
+- MBS date(s) and results (aspiration  | penetration)
+- ICU DC orders written
+- ICU discharge (transfer to ward)
+
+**Esophagectomy Complications to be Documented (in Shared Hospital Course):**
+
+|||
+|----|-----------------------------------------------------------------|
+| N  | Delirium                                                       |
+|    | Stroke                                                         |
+| CV | New arrhythmia req Rx                                          |
+|    | MI                                                             |
+| R  | Pneumonia (3 of fever \| WBC \| infiltrate \| abx \| sputum cx) |
+|    | Effusion req drainage                                          |
+|    | Reintubation                                                   |
+|    | Atelectasis req bronchoscopy                                   |
+|    | ARDS                                                           |
+|    | PE                                                             |
+|    | Ventilation >48 hours after leaving OR                         |
+|GI	|Anastomotic leak (medical rx \| stent \| surgery)|
+|    |Delayed gastric emptying req botox or NG >7d|
+|     |C Diff|
+|GU	|Urinary Retention|
+|  |Discharge with foley catheter|
+|H	|DVT req treatment|
+||Return to OR|
+||Return to ICU|
+
+**Communication**
+
+Please add an addendum at the BOTTOM of each progress note which includes a means for contacting the team:
+
+Please message "CMC LCI GI Surgical 1st Call" via Halo 24/7.  Messages are automatically forwarded to the General Surgery Resident on Call evenings and weekends.

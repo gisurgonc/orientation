@@ -1,0 +1,128 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+```{r, include=F}
+# Placeholder for clinical evaluation
+# = history and physical
+# Nutritional evaluation
+```
+# Lap Jejunostomy
+
+**Room Prep**
+
+-   EGD cart near patient’s LEFT SHOULDER (with ADULT EGD scope)
+-   If central venous port is placed at the same time:
+  - Slider bed (Skytron 3600B) with head section
+  - Radiology technician alerted to need for C-Arm
+  - BK Ultrasound with hockey-stick probe near patient’s RIGHT SHOULDER
+
+**Instruments**
+
+- 5mm 30 degree scope AND 5mm 0 degree scope
+- SRI laparoscopic Pan
+- Salo laparoscopic instruments
+
+**Disposables/Meds**
+
+- Veress needle (with 10mL syringe and saline)
+- 5mm Z-thread optical port (3 on table, 2 more in room)
+- Transverse drape AND laparoscopy drape
+- Confirm choice of port with surgeon. Usual options
+  - Bard PowerPort 8Fr xx8062
+  - Bard PowerPort 8Fr xx8000 (low profile)
+- Heparinized saline: 100U/ml (dilute) and 1000U/ml (concentrated)
+- 1000 drape x3 AND blue paper drapes 4 packs of 2 each = 8 total
+- Micropuncture kit available/not open (from Anesthesia)
+- Jejunostomy tube: MIC 0301-14
+- Silk 2-0 on RB-1 needle (on Surgical Oncology suture cart)
+
+**Position**
+
+- Supine with left arm tucked, right arm on armboard at side.
+- Foley catheter: Usually required – *check with surgeon*
+- Lower body Bair Hugger on thighs. ONE layer of blankets on top of Bair Hugger. Velcro strap on thighs. NO PILLOW UNDERNEATH LEGS.
+
+**Prep**
+
+Chloroprep (two sticks) of abdomen (need to keep pubis in field, as well as right anterior superior iliac spine), both costal margins.
+
+If port: RIGHT chest, neck to chin and earlobe, shoulder to include deltopectoral groove
+
+**Drape**
+
+If central venous port: Perimeter of field draped with 1000 (clear adhesive) drapes. Four 1000 drapes around port site:
+
+- Medial border: From Angle of Louis superiorly along midline to chin.
+- Superior border: Inferior to jaw (to allow access to right internal jugular vein and SCM)
+- Laterally: From inferior to ear down to right shoulder
+- Inferior: From lateral shoulder medially to Angle of Louis
+
+Abdomen: Two 1000 drapes used inferiorly keeping pubis and right anterior inferior iliac spine in field. This is critical as the far inferior/lateral RLQ needs to be in the field for optimal port placement.
+
+Six Blue Paper Drapes around perimeter of field (on top of 1000 drapes)
+
+If central venous port: Transverse sheet TURNED HEAD-TO-FOOT turned at an angle to keep deltopectoral groove and SCM within the field
+
+Laparoscopy drape skewed to inferior and right to keep pubis and right ASIS in the field.
+
+Turn on Bair Hugger only AFTER drapes in place
+
+**Indications**
+
+Laparoscopic jejunostomy is used for enteral nutrition in patients prior to planned (or possible) esophagectomy or gastrectomy or those for whom the stomach is otherwise not available (ie after esophagectomy or gastrectomy). Patients with metastatic esophageal cancer who need enteral access are generally treated with a gastrostomy, which does not require feeding with a pump
+
+Preop (Resident)
+Preop orderset: search for “Jejunostomy”
+
+Review Clinical Information (Resident)
+Review staging scans (especially PET scan) to identify suspicious areas on imaging which need to be investigated at the time of laparoscopy
+Outpatient anticoagulation use (warfarin, Xaralto, aspirin, Plavix)
+Review dietitian’s recommendations (how many cans of feeding per day?)
+If patient is scheduled for central venous port
+Confirm that a port has not already been placed
+Prior history of central venous lines?
+Confirm location of port placement with surgeon (left vs right)
+
+**Operation**
+
+If a central venous port is placed, the port is performed first. See [IJ Port](#cv_port_salo)
+
+Abdominal access is obtained in one of two ways:
+
+Infraumbilical approach using modified Hasson technique. If the peritoneum is not easily entered, a Veress needle is used to insufflate, followed by incision of the fascia with a 15 blade, and a 5mm optical port (Applied Medical Kii Fios First Entry Z-Thread Trocar)
+Veress needle inserted in LEFT upper quadrant just inferior to costal margin. Abdominal entry with 5mm optical Z-Thread port.
+5mm port in right upper quadrant, 5mm port in RLQ just lateral to rectus, 5mm camera port between RUQ and RLQ ports
+
+The transverse colon is now elevated (using the umbilical port, if used) and the ligament of Treitz is identified. The proximal bowel is arranged in a “C” configuration to confirm the proximal and distal ends of bowel.
+
+A site for placement of the jejunostomy is selected on the skin, left lateral and just superior to the umbilicus. A site is selected on the bowel in the most proximal site on the jejunostomy selected which would allow for placement of the jejunostomy without tension, but at least 20cm from ligament of Treitz.
+
+The proximal jejunum is sutured to the anterior abdominal wall with 2-0 silk. This is usually done with a 9″ suture which is introduced into the abdomen with a needle driver “Korean Style” or “Paraguayan Style.” Two cm distal to this suture, a diamond of sutures is placed around the proposed tube site, and one suture placed distal to avoid torsion.  The final arrangement of sutures is one proximal and one distal and 4-6 sutures around the tube. All sutures were marked with hemostatic clips to facilitate replacement of the tube via fluoroscopy should the tube become dislodged.
+
+Using Seldinger technique, a 16Fr Cook catheter introducer kit is placed within the jejunum.
+
+A MIC 14Fr jejunostomy tube (0301-14) with the tabs trimmed with a scalpel, is inserted through the sheath and positioned in the jejunum. The tube was secured with a suture of 0 silk.
+
+If a balloon tube is used, an 18Fr Cook dilater and sheath is used, followed by a MIC 14Fr jejunustomy tube (0200-14) and the balloon inflated with 7mL of sterile WATER.
+
+The tube is secured with 0 silk and dressed with a BioPatch and a Tagederm dressing.
+
+The abdomen is desufflated and the port sites closed with 4-0 Monocryl, followed by dermabond.
+
+After dressings are applied, a Lopez valve is attached with the long Christmas-tree end placed into the jejunostomy tube.
+
+Endoscopy
+The scope is set up:
+
+Suction and aspiration valves inserted and working
+Suction tubing attached
+Biopsy valve attached and not leaking
+Cart set up for recording by powering on the Stryker SDC digital capture box
+A bite block is used and the scope lubricated. A neonatal scope may be necessary in patients with a tight stricture. Important findings to record:
+
+Level in cm from the incisors, of the most proximal area of Barrett’s esophagus.
+Level in cm from the incisors of the GE junction
+Appearance of the GE junction on retroflexed view. Extent of invasion of the tumor into the cardia or fundus.
+The scope is withdrawn and the hypopharynx suctioned. The liquid from the ‘First Step’ disinfectant is suctioned through the scope, followed by water.

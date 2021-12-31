@@ -1,0 +1,22 @@
+# (PART\*) Colon Cancer {-}
+
+# Colectomy
+
+## Extended Node dissection
+
+Short-term outcomes of complete mesocolic excision versus D2 dissection in patients undergoing laparoscopic colectomy for right colon cancer (RELARC): a randomised, controlled, phase 3, superiority tria
+
+ 
+Short-term outcomes of a multicentre randomized clinical trial comparing D2 versus D3 lymph node dissection for colonic cancer (COLD trial).
+Karachun A, Panaiotti L, Chernikovskiy I, Achkasov S, Gevorkyan Y, Savanovich N, Sharygin G, Markushin L, Sushkov O, Aleshin D, Shakhmatov D, Nazarov I, Muratov I, Maynovskaya O, Olkina A, Lankov T, Ovchinnikova T, Kharagezov D, Kaymakchi D, Milakin A, Petrov A.
+Br J Surg. 2020 Apr;107(5):499-508. doi: 10.1002/bjs.11387. Epub 2019 Dec 24.
+PMID: 31872869 Clinical Trial.
+
+# Chemotherapy
+
+## Neoadjuvant Chemotherapy
+
+Seymour MT, Morton D. FOxTROT: an international randomised controlled trial in 1052 patients (pts) evaluating neoadjuvant chemotherapy (NAC) for colon cancer. J Clin Oncol. 2019 May;37(15 Suppl):3504-3504.
+
+
+

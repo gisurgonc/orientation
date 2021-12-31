@@ -1,0 +1,26 @@
+# (PART\*) Esophageal Cancer {-}
+
+
+# Esophageal Overview {#EsoIntro}
+
+Esophageal cancers can be grouped into 4 treatment categories:
+
+- [Superficial](#superficial) $\rightarrow$ Endoscopic therapy
+- [Localized](#localized) $\rightarrow$ Primary surgery
+- [Locally Advanced](#locally_advanced) $\rightarrow$ Trimodality therapy
+- [Metastatic](#metastatic) $\rightarrow$ Systemic therapy
+
+Patients with minimal dysphagia, no weight loss, and small (<3cm length) tumors are evaluated with endoscopic ultrasound:
+
+ - If uT1 on EUS and <2cm in size, [endoscopic mucosal resection](#emr) yields more information and may be therapeutic for tumors with negative margins and without high-risk features.
+ - If uT2N0 on EUS, and PET scan shows a small tumor (MTV <10cm^3^), [primary surgery](#primary_surgery) is preferred in patients who are good surgical risks
+ - If T3 or N+ on EUS, if PET shows no metastatic disease, [trimodality therapy](#trimodality) is optimal)
+ 
+ Patients with dysphagia to solids or weight loss or tumor length >3cm are unlikely to have T1-2 tumors and can be evaluated with [PET scan](#pet).
+ 
+ - If PET shows disease confined to the esophagus and regional nodes, [trimodality therapy](#trimodality) (chemoradiation followed by surgery) is optimal.
+ - If PET shows metastatic disease, patients are eligible for palliative chemotherapy with radiation for treatment of symptoms of dysphagia.
+ - If PET shows extra-regional lymph node disease, patient is at high risk for distant disease and can be treated with induction chemotherapy followed by chemoradiation and surgical evaluation.
+
+
+

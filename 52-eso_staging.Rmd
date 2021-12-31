@@ -1,0 +1,24 @@
+# Staging
+
+The staging workup begins once a diagnosis is made on endoscopy. 
+
+The first step is to make a preliminary determination whether the tumor is early stage (and can be treated with endoscopy or primary surgery) or later stage (and treated with chemoradiation followed by surgery or with) 
+
+The diagnostic studies needed for these treatment groups are different, so the workup can be make more efficient by sorting patients at presentation in to two groups:
+
+Patients with minimal dysphagia, no weight loss, and tumors with less than 3cm cranio-caudal extent have a reasonable change of being T1 or T2 tumors. Tumors <3cm in length are much more likely to represent T1-2 lesions than those $\geq$ 3cm[@hollis1114]
+ 
+Superficial and Localized tumors generally present with minimal dysphagia or weight loss.  These tumors may present with bleeding, or dysphagia without weight loss.  For these patients, determining the precise T stage is important in their workup, so **endoscopic ultrasound** is the most frequent staging study after diagnosis.
+
+Locally-advanced or metastatic tumors tend to present with dysphagia and weight loss. At first approximation, these tumors are usually clinical T3 lesions, and the important bifurcation in their treatment is the presence or absence of metastatic disease.  For patients with dysphagia and weight loss, **PET** is the most frequent initial staging study after diagnosis.
+
+Patients who present with dysphagia are likely to have T3 or T4 disease, which is generally treated with neoadjuvant chemoradiation followed by surgery.  Data from Memorial Sloan Kettering [Ripley 226] among 61 patients with esophageal cancer who presented with dysphagia, 54 (89%) were found on EUS to have uT3-4 tumors. On the other hand, among 53 patients without dysphagia, 25 (47%) were uT1-2, and were potentially candidates for primary surgery.  Their conclusion was that EUS could be omitted from the workup of patients with dysphagia, but is useful in patients without dysphagia.
+
+PET can be helpful in evaluating patients who may have T1-2 disease, and might be candidates for primary surgical therapy. A comparison of PET and EUS [malik,claxton,1] showed that uT1-2 tumors had median metabolic tumor volume (MTV) of 6.7cm^3^, compared with uT3-4 tumors, with a median SUV of 35.7cm^3^.
+
+<!---
+# PET scan {#pet}
+PET is more sensitive than CT alone for cM staging [@kato921]. PET may detect occult metastatic disease not seen on CT scan [@tirumani309]
+
+--->
+

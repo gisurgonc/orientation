@@ -1,0 +1,49 @@
+# Localized EsoCa {#localized}
+
+## T1b Tumors
+
+## T2N0 Tumors
+
+Multiple studies have failed to show the additional benefit of chemotherapy or chemoradiation for pT2N0M0 esophageal cancer patients treated with radiation.
+
+Neoadjuvant chemo not likey to be helpful for early stage disease - FFCD 9901 [Mariette 2416] enrolled patients with T1-2 or T3N0 tumors to chemoradiation followed by surgery versus surgery alone. The majority of the tumors (72%) were squamous cell carcinoma.Postoperative mortality was significaly increased in the chemoradiation arm (11.1% vs 3.4%).
+
+
+Meta-analysis of 5265 patients in 10 studies showed that while neoadjuvant therapy was associated with a reduction in positive margin rate, there was no difference in terms of recurrence or survival.[MOta 176]
+
+
+French trial FREGAT[@markar59]
+
+Retrospective review of the National Cancer DataBase failed to demonstrate a difference in survival of cT2N0M0 esophageal cancer with or without preoperative chemoradiation.[@speicher1195]
+
+A retrospective report from Johns Hopkins examined outcomes of T2N0 squamous cell carcinoma patients and showed equivalent outcomes for primary surgery vs neoadjuvant chemoradiation followed by surgery [@zhang429]
+
+## Staging of T2N0 Tumors
+
+The challenge for treatment decision-making is the limited sensitivity of endoscopic ultrasound in ruling out pT3 or pN+ disease.  In other words, if a patient who is thought to have cT2N0 disease undergoes resection, and is found on pathology to have pT3 or pN^+^ disease, this would dictate the need for postoperative chemoradiation. In general, chemoradiation after esophagectomy is difficult for patients to tolerate, with a ___ % chance of failure to complete therapy.
+
+Data from the Cleveland Clinic looked at 53 patients judged to be T2N0 by endoscopic ultrasound (uT2N0) were treated with primary surgery. Pathologic examination showed that 17 (37%) were understaged by endoscopic ultrasound, and were pathologic (pT3)  in 4 or node positive (pN^+^) in 13 cases. These patients were treated with postoperative adjuvant chemoradiation.[@rice317]
+
+It is critical, therefore, in patients for whom primary surgery is contemplated, to attempt to identify those with occult T3 or N+ disease.
+
+Patients who appear to have limited stage disease benefit from evaluation with a combination of 
+
+See also PMID:25047477
+
+(MTV)
+
+(Tumor Length)
+
+(dysphagia)
+
+##Primary Surgery {#primary_surgery}
+
+NCCN recommends PET scanS
+
+Most common sites of metastasis are liver, lung, bones, adrenal.
+
+PET detects occult metastasis in 10-20% of cases [@kato921,@kim403]. Among 129 patients with esophageal cancer, PET detected additional sites of disease in 41% and changed management in 38% [@chatterton354]
+
+
+PET for restaging detects interval development of metastatic disease in 8-17% of cases [@vanvliet547]
+

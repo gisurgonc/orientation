@@ -1,0 +1,44 @@
+# Superficial EsoCa {#superficial}
+
+Superficial esophageal cancer is usually asymptomatic, which means that the diagnosis is generally made in the context of surveillance for Barrett's esophagus.
+
+Nodular Barrett's esophagus can be best evaluation with endoscopic mucosal resection, which can provide further staging information if an adenocarcinoma is found, such as depth of invasion, differentiation, and lymphovascular invasion.
+
+Larger lesions should first be evaluated with endoscopic ultrasound (EUS)?
+
+EUS is less sensitive for T1 lesions [@bergeron765] -> use EMR for diagnosis [@maish1777]
+
+(Should nodular Barrett's be evaluated with EUS prior to EMR?)
+
+T1a tumors have a low risk of nodal metastasis [@dunbar850]
+
+## Endscopic Mucosal Resection (EMR) {#emr}
+
+For patients with nodular Barrett's esophagus or small tumors judged to be T1 by endoscopic ultrasound, endoscopic mucosal resection (EMR) can be diagnostic and potentially curative.[@thomas1609]
+
+
+EMR also helps establish the difference between T1a and T1b compared with pathology [@worrell484]
+
+EMR is likely sufficient for small tumors with favorable patholgic factors[@pech652] [@nurkin1090]:
+
+- Size less than 2cm
+- Lateral and deep margins clear
+- Absence of lymphovascular invasion
+- Well- or moderately- differentiated
+
+EMR: [@soetikno4490] <!---JCO --->
+
+See MOlina JTCVS 153:1206
+
+EMR for high-grade dysplasia [@shaheen2277]
+
+EMR for low-grade dysplasia [@phoa1209] resulted in 25% riskd reduction in progression go HGD.
+
+Endoscopic submucosal dissection is a technique for deeper endoscopic removal of esophageal lesions using endoscopic cautery, which dissects through the submucosa. ESD has a higher rate of curative resection [@cao751] albiet at the cost of prolonged operative times and increased risk of complications such a bleeding. [@repici715]
+
+ESD takes more time and has higher R0 resection rate but similar recurrence erate at 2 eyars [@terheggen783]
+
+Need for RFA of Barrett's after EMR:  [@haidry87] Combination therapy with EMR and RFA results in lower rate of recurence than EMR alone.[@pech1200]
+
+
+RFA for Barrett's national registry [@ganz35] <!--- GI Endosc--->

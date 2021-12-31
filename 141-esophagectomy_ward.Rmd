@@ -1,0 +1,104 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
+```{r, include=F}
+# Placeholder for clinical evaluation
+# = history and physical
+# Nutritional evaluation
+```
+# Esophagectomy Ward
+
+**Ward Care**
+
+Once stable, patients are transferred to 6T. If a 6T bed is not available, please notify Dr Salo. Historically, over 95% of patients are transferred to 6T after leaving the ICU.
+
+
+## Anti-Hypertensives
+
+Patients are transitioned to enteral metoprolol once they are transferred to the ward. Patients on IV metoprolol at 2.5mg IV q6 hours are started on 25mg enteral bid, while patients receiving 5mg IV q6 hours are started on 50mg bid. For patients who are not taking medicines by mouth, liquid metoprolol can be ordered while an inpatient. (Liquid metoprolol is not available as a home medicine.)
+
+Home anti-hypertensives are usually held in order to allow beta-blockade. Patients who have elevated blood pressures once they are adequately beta-blocked (eg HR 60-70) are usually restarted on their home anti-hypertensives. *Home anti-hypertensives are not routinely restarted postoperatively*.  Home antihypertensives are restarted on a selective basis
+
+## Chest tubes
+
+Chest tubes generally consist of a 28Fr Blake drain placed into the right chest. This is placed to water seal when output is less than 200mL/day and there is no leak visible in the Pleurevac container. Chest tubes are usually removed once output is less than 150mL/day and drainage is clear without evidence of chyle (milky appearance). A chest x-ray is obtained after removing a chest tube to look for a pneumothorax.
+
+## GI Medicines##
+
+All patients receive pantoprazole 40mg IV daily and metoclopramide 5-10mg IV q 6hrs.  This is later switched to enteric PPI and reglan.  For patients <age 75, remeron is added as 15mg enteral qhs.
+
+## Evaluation for leak {#leak_evaluation}
+
+Experience suggests that the median time to the diagnosis of leak is 7 day after surgery. Currently the risk of anastomotic leak at CMC after transthoracic esophagectomy is 2%. The most sensitive test for the diagnosis of leak is CT esophagram (see below). Based upon institutional experience, patients are divided into low risk of leak vs high risk for leak based upon drain amylase level and white blood cell count. Patients with a normal drain amylase (400IU/ml) between postoperative day 4 and day 7 AND white blood cell count less than 12 are considered low risk. Patients with either an elevated drain amylase or WBC greater than 12 are evaluated with CT esophagram. In a group of 100 patients, several were found to have elevated drain amylase in the first four days (up to 2000Iu/ml) which subsequently declined, and no evidence of leak was found
+
+### Drain Amylase {#drain_amylase}
+
+JP2 is placed into the right pleura, passes through the hiatus, and is brought out through a trocar site in the medial left upper quadrant. Drain amylase from JP2 is tested beginning on postoperative day #4 until discharge or postoperative day #9. JP2 is generally removed prior to patient discharge. JP1 is placed in the left pleura and is generally not tested for amylase.
+
+### CT esophagram {#ct_esophagram}
+
+This is the most sensitive study for the detection of anastomotic leak. In order to obtain sufficient sensitivity, it requires a pre-contrast scan and the administration of contrast into the esophagus. The need for a pre-contrast scan means that the presence of remnant barium in the esophagus (from a Modified Barium Swallow) makes it more difficult to interpret the scan and should be avoided. Awake patients can drink the contrast. Patients with an NG tube present at the time of the study generally will have contrast administered through their NG tube. Almost all esophagectomy patients will have a Covidien silicone Salem Sump 18Fr tube in place. This has four marks on the tube at 45, 55, 65, and 75cm. The tube is typically positioned with the 4th mark at the nares, which means that the tip is 45cm from the nares and is usually within the gastric conduit AND below the anastomosis. The NG tube also contains side holes which extend 8.5cm above the tip of the tube. The optimal study is done with the NG tube withdrawn so that there are two side-holes above the anastomosis, which means that the tip is approximately 6cm below the anastomosis. A scout CT will be performed, and the radiologist will determine how far back the NG tube needs to be withdrawn. This is communicated to the CT technician, who asks the nurse (or physician) to withdraw the tube the calculated amount (making a note of the starting position of the tube relative to the four marks). This should keep the tip below the level of the anastomosis, so that after the CT scan, the NG tube can be (blindly) advanced back to its original position (at approximately 45cm from the nares).
+
+Patients who clinically deteriorate prior to post-operative day 7 in whom there is high suspicion for a leak (fevers, pleural effusion on chest X-ray, elevated JP amylase, respiratory failure) will undergo a CT esophagram earlier than post-operative day 7.
+
+## Anastomotic Leak Treatment
+
+If a patient is demonstrated to have a leak, they are made NPO AND will have any pleural effusion treated with a pigtail catheter. Conservative management will generally be successful for most patients with leaks provided 1) there is no evidence of conduit necrosis 2) nutrition is optimized and 3) empyema is treated. Patients with leaks may even need a decortication, which emphasizes the importance of CT scan in the sick post-operative esophagectomy patient, so that an empyema can be diagnosed and treated. Patients with leaks who show signs of systemic illness may need to be considered for an intraluminal stent. Patients who are profoundly ill need to be evaluated for gastric necrosis with upper endoscopy.
+
+**Nutrition**
+
+All esophagectomy patients receive a feeding jejunostomy at the time of operation. In the immediate post-operative period, patients receive Osmolite 1.5 starting the day of surgery once they are off pressors. Tube feeds are started at 20mL/hour until flatus and then advanced at 10mL per hour every 8 hours, up to a goal of 60mL per hour (x24 hours). Patients who are on tube feeds prior to surgery are generally restarted on their home tube feed formula.
+
+Patients who do not tolerate Osmolite are switched to Vital 1.5, which is pre-hydrolyzed. In order to allow enough time for switching of tube feedings, patients are generally switched from Vital to their home tube feeding formula 3-4 days prior to discharge. This is typically done when they are transferred out of the ICU.
+
+Obese patients (BMI>30) are started on Promote at 20mL/hour and increased to a goal of 60mL/hour. Promote contains a more protein relative to carbohydrdates. An alternative is Vital High Protein, which is similar to Promote but using hydrolyzed proteins.
+
+Diarrhea in patients on tube feeds (especially nocturnal diarrhea) needs to be addressed. Despite STICU guidelines for nutrition in trauma patients, diarrhea (especially night-time diarrhea) is justification for alteration in tube feeds. See Diarrhea and Jejunstomy Feeding
+
+*Diabetic Patients*
+
+Patients on tube feeds are typically started on continuous (around-the-clock) tube feedings, and subsequently changed to a nocturnal regimen (typically 6pm to 10am). See [Jejunostomy Feeds in Diabetic Patients](#jejunostomy_diabetes)
+
+*‘Free Water’*
+
+In addition to tube feeds, most patients will receive ‘free’ water flushes through the jejunostomy. This is typically done as 240mL four times per day (for a total of 32oz)
+
+*Nasogastric Tubes*
+
+A silicone nasogastric tube (Covidien Salem Sump) is placed in all patients during surgery and the position confirmed by ultrasound intraoperatively. Tubes are positioned so that all 4 dots are outside.  Gastric emptying is evaluated with upper GI prior to NG tube removal. Once extubated, upper GI is typically performed on the 2nd through 4th postoperative day. Conversely, patients who are intubated will keep their nasogastric tube until extubated. 
+
+*Drains*
+
+- JP1: 19Fr Blake drain in left pleura. The exit site the most lateral drain and is secured with a blue suture
+- JP2: 19Fr Blake drain in right pleura. The exit site is medial to JP1 and is secured with a black suture
+- JP3: 19 Fr Blake drain in abdomen.  If used, the exit site is most medial and is secured with a blue suture
+- JP4: 15Fr Blake drain in neck (for cervial incision)
+- JP5: 15Fr Blake drain in subcutaneous tissue of incision
+
+*Evaluation for Anastomotic leak*
+
+Drain amylase is an inexpensive, specific, and relatively sensitive test for anastomotic leak. Fluid from JP2 (right chest) is sent for “Body Fluid Amylase” starting on postoperative day #4 and continued until postoperative day 9. Drain amylase over 400IU/ml is considered positive and prompts a CT esophagram for confirmation. See also Evaluation for Anastomotic Leak
+
+**Renal**
+Total fluids (IV + tube feeds) are generally run at 75mL/hour. Foley catheter is removed on the first or second day after surgery. Some patients will need diuresis on the 3rd or 4th postoperative day
+
+**Heme**
+All patients require VTE prophylaxis with Lovenox or heparin SQ.
+
+Preoperative anti-platelet agents are started on the first (aspirin) or second (Plavix) postoperative day if there is no excessive bleeding from the chest tube or JP drains.  Patients on preoperative anticoagulation are transitioned to therapeutic Lovenox on the second postoperative day if no signs of bleeding.
+
+**ID**
+Prophylactic Cefazolin and Flagyl are administered for 24 hours and stopped
+
+Discharge Medicines
+Patients after esophagectomy typically go home with the following medicines:
+
+Proton pump inhibitors (will continue for 2 years)
+Oxycodone elixir via feeding tube. Current STOP guidelines dictate that patients receive no more than a 7 day supply of opiods at discharage
+Reglan 10mg po qid (will stop at 6 weeks post-op)
+Remeron 15mg qhs (will continue for 3 months post-op)
+Tylenol 1000mg q6 hours as elixir (pediatric form)
+Gabapentin 300mg as liquid tid x 14 days
+Metoprolol if started postoperatively (most patients). If not on beta blockers preoperatively, this will be cut in half at the first visit and stopped at the second postoperative visit. It is important to limit the use of medicines via jejunostomy in order to lower the risk of clogging the feeding tube. While liquid metoprolol is available for inpatients, it is not available from outpatient pharmacies.

@@ -1,0 +1,120 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+```{r, include=F}
+# Placeholder for clinical evaluation
+# = history and physical
+# Nutritional evaluation
+```
+
+# (PART\*) Salo OR {-}
+
+# Central Venous Port (IJ){#cv_port_salo}
+
+**Room Prep**
+
+- Slider bed (Skytron 3600B) with head section
+- C-Arm
+  - Radiology technician alerted to need for C-Arm
+  - Will need lead and thyroid shields for everyone in room
+- BK Ultrasound with hockey-stick probe near patient’s RIGHT SHOULDER
+
+**Instruments**
+- Minor instrument pan
+
+**Disposables/Meds**
+
+- Confirm choice of port with surgeon. Usual options
+  - Bard PowerPort VUE with 8Fr attachable catheter (1708062)
+  - Bard PowerPort slim Implanted port (for patients with low BMI)
+  -Heparin 5mL of 1000U/ml labeled as “1000 U/ml”
+  -Heparin 5mL of 1000U/ml + 45mL  saline labeled as “100 U/ml”
+  - Local
+    - If general anesthesia: Marcaine 0.5% with epinephrine
+    - If MAC: Xylocains 1% with epinephrine
+- 1000 drape x3 AND blue paper drapes 4 packs of 2 each = 8 total
+- Suture
+  - 3-0 Prolene RB-1 double-arm
+  - 3-0 Vicryl SH
+  - 4-0 Monocryl PS2
+
+
+**Position**
+
+- Supine with left arm tucked, right arm on armboard at side.
+  - Right arm on armboard in case needed by anesthetist
+  - NO shoulder roll
+- Foley catheter: usually NOT required – *check with surgeon*
+- Lower body Bair Hugger from abdomen to feet with  ONE layer of blankets on top of Bair Hugger. Velcro strap on thighs. 
+
+**Prep**
+
+Chloroprep: RIGHT chest, neck to chin and earlobe, shoulder to include deltopectoral groove.
+
+**Drape**
+
+1000 plastic drapes outline the sterile field for the port. The skin is stretched to avoid a gap between drape and skin. Allow access to the right sternocleidomastoid, right deltopectoral groove, and sternal notch.
+Blue paper drapes on top of 1000 drapes
+Transverse drape reversed head-to-foot.
+Ioban around edges of port field.   Skin over SCM is left without Ioban to facilitate ultrasound
+
+
+**Preop evaluation**
+Allergies
+Blood thinners or anti-platelet agents
+History of prior central venous lines or ports
+History of neck surgery
+
+**Operation**
+
+*Reverse Trendelenburg*
+
+Port pocket is constructed 1cm below and parallel to clavicle 3cm long. It is essential that there is no bleeding in the pocket (to avoid a port pocket hematoma).
+
+*Trendelenburg*
+
+Right internal jugular vein is identified and its course cephalad-caudad marked on the skin.
+
+Finder needle (22Ga) *OR* micropuncture kit passed into IJ. The needle should enter the vein directly beneath the ultrasound probe.
+
+Skin anesthetized and transverse 8mm counter-incision made at needle entry site
+
+*Respiration held by anesthesia*
+
+16Ga needle passed into IJ under sono. It is essential that the vein is scanned up and down by ‘rocking’ the probe to visualize the tip of the needle as it passes inferior.
+
+J Wire passed through 16Ga needle and needle withdrawn
+
+*Anesthesia resumes respirations*
+
+Ultrasound used to confirm presence of wire within the vein by scanning up and down.
+
+*Level bed*
+
+Fluoroscopy used to confirm position of wire.  Dilator and sheath inserted under fluoroscopic visualization (‘live’). C-arm backed away off field.
+
+Tunneler connected to tubing on the end with small numbers. Confirm that the collar is in place and place hemostat on the end of the tubing with large numbers (to avoid allowing the collar to fall off). Tunneler bent into a curve to avoid injury to the carotid artery.
+
+Catheter tunneled from port pocket to counter-incision over SCM. The tunneler path describes a gentle arc to avoid kinking the catheter. 1 cm of catheter near tunneler trimmed.
+
+Catheter placed through dilator into central circulation.  Most of the catheter is inserted.  The catheter will generally not cause arrhythmias.
+
+C-arm brought back onto field.
+
+Peel-away sheath split and removed.
+
+Traction on catheter from the port pocket is used to position catheter approximately 3cm below carina.  It may be necessary to ‘orbit’ the C-arm if the catheter overlies the spine.
+
+Port pocket is measured and catheter trimmed (after sliding collar superior) and attached to port. It is essential that the catheter come to rest within 1mm of the port before locking the collar in place. In order to avoid pulling on the catheter (and changing the position of the catheter tip) the port is rotated (not the catheter). Collar is locked in place.
+
+Port accessed with straight Huber needle with 100U/ml heparinized saline. Blood is withdrawn into port. Needle is left in the port and the syringe detached. Syringe with concentrated flush (1000U/ml) is attached to the needle and the port flushed (without aspiration of blood). Syringe and needle are removed.
+
+Port sutured to the underlying pectoralis fascia with 2 sutures of 3-0 Prolene, one forehand and one backhand. Sutures are tied and cut.
+
+The port pocket irrigated and the incision closed with subcutaneous 3-0 Vicryl followed by subcuticular 4-0 Monocryl. The skin is dressed with Dermabond.
+
+**Postop Orders**
+
+CXR in recovery to confirm central line placement

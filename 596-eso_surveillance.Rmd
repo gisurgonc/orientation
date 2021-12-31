@@ -1,0 +1,22 @@
+## Surveillance {#eso_surveillance}
+
+**T1a treated with endoscopic resection**
+EGD every 3 mo for first year, then every 6 months for second year, then annually[@shaheen30]
+
+**Tib treated with endoscoic resection**
+EGD every 3 mon for first year, then every 4-6 months for seond year, then annually
+CT chest/abdomen every 12 months for up to 3 years (as clinically indicated)
+
+**T1b treated with esophagectomy**
+EGD every 3-6 months for first 2 years, then annually for 3 more years.
+CT every 6-9 months for first 2 years, then annually up to 5 years.
+
+**Stage II or III treated with chemoradiation.**
+
+These patients are at risk for local recurrence [@sudo3400] and some may be candidates for salvage esophagectomy. Most relapses (95%) occur within 24 months. See also [@taketa1139]
+
+**Locally-advanced treated with trimodality therapy**
+
+Local/regional relapses are uncommon. [@dorth2099] [@oppedijk385] [@sudo4306] => NCCN does not recommend EGD. 90% of relapses occur within 36 months of surgery.
+
+CT every 6 months up to 2 years (if patient is a candidate for additional curative-intent therapy)

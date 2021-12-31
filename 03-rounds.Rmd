@@ -1,0 +1,41 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+```{r, include=F}
+# Placeholder for clinical evaluation
+# = history and physical
+# Nutritional evaluation
+```
+# Rounds
+
+Please plan to update the attending of record about their patients in the morning.
+
+The following format will help speed communication on rounds.
+
+**ID**: One line description: “Mr Glenn: PostOp day 3 after low anterior resection”
+
+**24 hour events**: Summary of important events in prior 24 hrs
+
+**Systems-oriented Presentation:**
+
+Neuro: Pain control, level of alertness, psychotropic meds, sedatives, and pain meds.
+
+CardioVascular: Vital signs (normal OR cite the range of systolic blood pressures and range of heart rate).  Heart rhythm. Cardiac meds. Most recent recommendations of cardiology consult.
+
+Respiratory: Pulmonary exam, oxygen saturation, supplied oxygen, ventilator setting. Results of CXR.
+
+GI: Diet, bowel function, NG output. Drain outputs can often be summarized unless they are unusually high or low (and ready to be removed. New finding of bile in any abdominal drain needs special emphasis. GI meds (eg protonix, Entereg). Tube feed formula, rate and duration (continuous or nocturnal). Status of C Diff tests. Results of JP drain amylase levels (gastroesophageal patients). Results of JP triglycerides or creatinine, if sent,
+
+Renal: Urine output in 24 hours AND in most recent 8 hour shift. Presence (or absence) of Foley catheter and plans for removal, if present. Most recent creatinine. If diuretics administered, dosage and amount of urine output during the shift when it was administered. Most recent potassium in any patient receiving (or about to receive) furosemide (Lasix). Results of Mg and Phos if abnormal.
+
+Heme: Hemoglobin, platelets, DVT prophylaxis. PLEASE CHECK THE MAR SUMMARY DAILY to be certain that the ordered DVT prophylaxis has been given.
+
+ID: WBC, Tmax in past 24 hours, culture results.
+
+Endo: Diabetic regimen, blood sugar range, and amount of sliding scale insulin administered in the prior 24 hours.
+
+**Problem-Oriented Plan:**
+
+Each of the patients problems are addressed with an assessment and plan.  Pre-existing medical problems and postoperative complications need to be addressed in the plan

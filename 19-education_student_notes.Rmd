@@ -1,0 +1,61 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+```{r, include=F}
+# Placeholder for clinical evaluation
+# = history and physical
+# Nutritional evaluation
+```
+# Student EMR Notes Policy
+
+Approved: Medical Education Division of Canopy Team 11/17/13
+
+Students:
+
+Should write Notes in the EMR as a part of their training. Students must sign and forward their notes. It is imperative that student notes not be saved and forwarded prior to signing the note or the authorship of the note will change. Signed notes should be forwarded to the supervising physician as soon as possible.
+
+Supervising physicians:
+
+Attending must sign the necessary documents per the medical staff bylaws (e.g., H & P’s and Discharge Summaries). Attendings, residents, or fellows can cosign progress notes. Each attending should clarify who is responsible for signing progress notes.
+
+Supervising physicians have 2 options:
+
+Correct the note as needed, append an attestation, and sign within 24 hours. When appending the student’s note, the supervising physician may utilize only the student’s past medical history, family history, social history, and review of systems. This is the preferred model and the most efficient. Please see example below.*
+
+Correct the note as needed, attest with reference to supervising physician’s own note, and sign within 24 hours.
+
+Example Attending Attestation*
+
+I have discussed the presentation of the patient with the student. I have also independently seen and examined the patient. Please see my documentation below:
+
+History: [As obtained by the provider]
+
+Past History, Family History, Social History, and ROS: Please see the student’s note above.
+
+Physical Exam:
+
+General: Well-developed, well-nourished
+
+HEENT: Pupils equal react to light extra ocular motion intact, conjunctiva pink, anicteric sclera, oropharynx clear, moist mucosa
+
+Neck: Supple, no meningeal signs
+
+Lungs: Clear to auscultation bilaterally, bilateral breath sounds, normal effort
+
+Cardiac: Regular rate normal rhythm, no murmur gallop or rub
+
+Abdomen: Soft, benign, non-distended, non-tender, no mass
+
+Extremities: Moves all 4 extremities, pulses 2+ and equal
+
+Neurologic: Awake, alert, and oriented x3, cranial nerves II through XII are intact, moves all 4 extremities equally, speech is normal, affect pleasant
+
+Skin: No rash
+
+Labs, X-rays, Tests: [Pertinent comments regarding positives/negatives and interpretations]
+
+Medical Decision Making: [MDM also should be attending documentation]
+
+Electronically Signed: Dr. Supervision

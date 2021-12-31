@@ -1,0 +1,134 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
+```{r, include=F}
+# Placeholder for clinical evaluation
+# = history and physical
+# Nutritional evaluation
+```
+
+# Lap Gastrostomy {#lap_gastrostomy_salo}
+
+**Room Prep**
+
+- EGD cart near patient’s LEFT SHOULDER (with ADULT EGD scope)
+- If central venous port is placed at the same time:
+  - Slider bed (Skytron 3600B) with head section
+  - Radiology technician alerted to need for C-Arm
+  - BK Ultrasound with hockey-stick probe near patient’s RIGHT SHOULDER
+
+**Instruments**
+
+- 5mm 30 degree scope AND 5mm 0 degree scope
+- SRI laparoscopic Pan (available)
+
+**Disposables/Meds**
+
+- Veress needle (with 10mL syringe and saline)
+- 5mm Z-thread optical port (3 more in room)
+- Transverse drape AND laparoscopy drape
+- Confirm choice of port with surgeon. Usual options
+  - Bard PowerPort 8Fr xx8062
+  - Bard PowerPort 8Fr xx8000 (low profile)
+- Heparinized saline: 100U/ml (dilute) and 1000U/ml (concentrated)
+- 1000 drape x3 AND blue paper drapes 4 packs of 2 each = 8 total
+- Micropuncture kit available/not open (from Anesthesia)
+- Gastrostomy 20Fr Pull PEG (in vending machine)
+- GI Anchors (“T-fasteners”) in room/not open
+
+**Endoscope Setup – Neonatal EGD scope**
+
+- Valves attached and working (suction/aspiration/biopsy cap)
+- Suction tubing attached
+- Connect water bottle to left-hand port
+- Gauze sponges, lubricant, plastic “tray” from gauze filled with water
+- Yellow (small) bite block
+- “First step” sanitizer
+
+**Anesthesia**
+
+- ET Tube taped to left. Head turned to the left on donut
+- No EKG electrodes on anterior right chest
+
+**Position**
+
+- Supine with left arm tucked, right arm on armboard at side.
+- Foley catheter: usually NOT required – *check with surgeon*
+- Lower body Bair Hugger on thighs. ONE layer of blankets on top of Bair Hugger. Velcro strap on thighs. NO PILLOW UNDERNEATH LEGS.
+
+**Prep**
+
+Chloroprep (two sticks) of abdomen (need to keep pubis in field, as well as right anterior superior iliac spine), both costal margins.
+
+If port: RIGHT chest, neck to chin and earlobe, shoulder to include deltopectoral groove
+
+**Indications**
+
+Laparoscopic gastrostomy is used in patients with esophageal obstruction . Gastrostomy feedings are much easier than jejunostomy, as they can be administered via syringe or gravity bag. By contrast, jejunostomy feedings require administration via pump. Gastrostomy is usually done as an outpatient unless there are concerns for refeeding.
+
+**Review Clinical Information (Resident)**
+
+Review staging scans (especially PET scan) to identify suspicious areas on imaging which need to be investigated at the time of laparoscopy
+Outpatient anticoagulation use (warfarin, Xaralto, aspirin, Plavix)
+Review dietitian’s recommendations (how many cartons per day?)
+
+**Drape**
+
+If central venous port: Perimeter of field draped with 1000 (clear adhesive) drapes. Four 1000 drapes around port site:
+
+- Medial border: From Angle of Louis superiorly along midline to chin.
+- Superior border: Inferior to jaw (to allow access to right internal jugular vein and SCM)
+- Laterally: From inferior to ear down to right shoulder
+- Inferior: From lateral shoulder medially to Angle of Louis
+
+Abdomen: Two 1000 drapes used inferiorly keeping pubis and right anterior inferior iliac spine in field. This is critical as the far inferior/lateral RLQ needs to be in the field for optimal port placement.
+
+Six Blue Paper Drapes around perimeter of field (on top of 1000 drapes)
+
+If central venous port: Transverse sheet TURNED HEAD-TO-FOOT turned at an angle to keep deltopectoral groove and SCM within the field
+
+Laparoscopy drape skewed to inferior and right to keep pubis and right ASIS in the field.
+
+Turn on Bair Hugger only AFTER drapes in place
+
+**Operation**
+
+If a central venous port is placed, the port is performed first. See [IJ Port](#cv_port_salo)
+
+**Abdominal access** is obtained in one of two ways:
+
+- Veress needle inserted in left upper quadrant just inferior to costal margin. Abdominal entry with 5mm optical port at lateral border of rectus just superior to umbilicus
+- Infraumbilical approach using modified Hasson technique. If the peritoneum is not easily entered, a Veress needle is used to insufflate, followed by incision of the fascia with a 15 blade, and a 5mm optical port
+
+The insufflation pressure is decreased to 4mmHg and the abdomen vented to drop the pressure. A 30 degree scope is passed inferior to the falciform ligament into the left upper quadrant over the lateral segment of liver. The post of the scope is positioned to the left, allowing visualization of the lesser curvature of the stomach with the end of the scope near the left aspect of the falciform.
+
+A site for placement of the gastrostomy is selected on the skin, using a 22Ga needle as a finder. The site is marked, then infiltrated with local anesthetic and a 5mm transverse incision made.
+
+Endoscopy is performed and the following noted:
+
+Level in cm from the incisors, of the most proximal area of Barrett’s esophagus.
+Level in cm from the incisors of the GE junction
+Appearance of the GE junction on retroflexed view. Extent of invasion of the tumor into the cardia or fundus.
+A bite block is positioned (unless the patient is edentulous). The endoscope (usually a neonatal scope) is introduced into the esophagus and the video capture started. If the tumor will not allow passage of the scope, do not force the scope.
+
+Once the scope is passed into the stomach, the fundus and duodenal bulb are suctioned. The scope is then positioned for a conventional PEG placement.
+
+The abdomen is desufflated and the carbon dioxide turned off. The laparoscope is withdrawn from the abdomen.
+
+A 20Fr PULL PEG tube kit is opened. The snare and tube are passed to the upper operator. The snare is passed through the scope and opened in anticipation of the passage of the wire.
+
+The angiocath from the kit is placed into the stomach through the abdominal wall. Once the snare has grasped the angiocath, the needle is withdrawn and the split wire passed through the Angiocath into the stomach. The snare is adjusted to grasp the split wire, which is pulled out through the mouth.
+
+The laparoscopic port site is considered clean. The PEG tube, once it is pulled through the mouth, is considered dirty. The right abdomen is covered with a towel to protect the laparoscopic site.
+
+The recording is now stopped. The split wire is joined to the PEG tube, which is pulled into place by the abdominal operator. The tapered portion of the tube will be the first source of resistance, which may require firm traction. The split wire (and PEG tube) is dropped of the table to the patient’s left.
+
+Once the tapered portion of the tube is through the abdominal wall skin, the next point of resistance will be the bumper of the PEG tube passing through the tumor. In general, if a 5mm neonatal scope can pass the tumor, a 20Fr PEG tube can pass as well.
+
+The tube is pulled into position and the measurement at the skin noted. The stomach is aspirated by the upper operator and insufflation is resumed at 8mmHg. Tension on the PEG tube is adjusted to allow apposition of the gastric serosa to the abdominal wall. If the tube is not easily apposed to the abdominal wall, T fasteners (“GI Anchors”) must be employed.
+
+The scope is withdrawn and the hypopharynx suctioned. The liquid from the ‘First Step’ disinfectant is suctioned through the scope, followed by water.
+
+The abdomen is desufflated and the port sites closed with 4-0 Monocryl.

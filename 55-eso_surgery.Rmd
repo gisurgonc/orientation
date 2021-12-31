@@ -1,0 +1,51 @@
+
+# Esophagectomy
+
+Three general approaches exist for surgical therapy.
+
+Trans-thoracic or Ivor Lewis esophagectomy[@visbal1803] removes the intrathoracic portion of the esophagus and constructs an anastomosis within the chest.  The approach include an abdominal phase, during which an esophageal substitute is constructed (usually from stomach). A thoracic phase then removes the intrathoracic esophagus and constructs an anastomosis within the chest cavity.
+
+A McKeown esophagectomy utilizes three surgical fields: abdomen, right chest, and neck.  The right chest approach allows dissection of peri-esophageal lymph nodes, and the cervical incision allows removal of the total esophagus.[@mckeown259] This approach is useful for tumors which involve the proximal thoracic esophagus, to ensure a negative margin. The cervical anastomosis carries a higher risk of anastomotic leak than a thoracic anastomosis, although the morbidity of a cervical anastomosis leak is less serious than that of a leak of a thoracic anastomosis.
+
+A transhiatal esohpagectomy approaches the esophagus from the abdomen through the hiatus and from neck.  By blunt dissection the esophagus is freed up without the need for thoracotomy.  An esophageal substute is then brought from the abdomen to the neck through the mediastinum[@orringer643] [@orringer363]<! -- Orringer Ann Surg 2007 --> The operation is designed to avoid the pulmonary toxicity of the right chest approach. On the other hand, the blunt nature of the mediastinal dissection means that fewer lymph nodes are harvested than with a trans-thoracic approach.
+
+Randomized trial of transthoracic esophagectomy with extended lymph node dissection versus transhiatal esohpagectomy showed fewer pulmonary complications with the transhiatal approach. [@hulscher1662] Fewer lymph nodes were havested with a transhiatal appraoch. A post-hoc analysis showed that among patients with 1-8 positive lymph nodes, survival with improved with the extended lymph node dissection.[@omloo992]
+
+Minimally-invasive approaches to esophagectomy are now common, with evidence for less perioperative morbidity than an open approach [@biere1887] [@zhoue0132889]
+
+Randomized trial of a hybrid MIE (with laparoscopy and thoracotomy) was associated with lower postoperative complications than open esophagectomy [@mariette152]
+
+High volume  [@birkmeyer2117] [@wouters1789] 
+
+
+Siwert III lesions are considered gastric cancers [@rusch444]  [@siewert260] <!--- Scand J surg--->
+
+Laparoscopy may be helpful in Siewert III tumors [@degraaf988]
+
+
+
+
+### Preoperative Evaluation
+
+Dysphagia can be scored accordgin to Mellow et al [@mellow1443]:
+
+ - 0 No dysphagia
+ - 1 Dysphagia to normal solids
+ - 2 Dysphagia to soft solids (ground beef, poultry,fish)
+ - 3 Dysphagia to solids and liquids
+ - 4 Inability to swallow saliva
+
+
+## Minimally-invasive Esophagectomy
+
+Higher lymph node yield with MIE vs open approach [Kalff]
+
+## Transthoracic
+
+## Transhiatal
+
+## Three-hole
+
+## Extended lymphadenectomy
+
+

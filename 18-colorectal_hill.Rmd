@@ -1,0 +1,33 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+```{r, include=F}
+# Placeholder for clinical evaluation
+# = history and physical
+# Nutritional evaluation
+```
+# (PART\*) Hill OR {-}
+
+# Colorectal Cases - Hill
+
+**Pre-op holding**
+
+Please make sure that these ordersets have been placed prior to day of surgery. If inpatient consult, place these orders the morning of surgery in order to minimize confusion.
+
+ADULT SURG Colorectal ERAS MPP Hill This is what has all of the main ERAS components. Tylenol, gabapentin, Decadron, Alvimopan and heparin are all given in pre-op holding
+
+ADULT STANDING Antimicrobial colorectal In general, I will give Ancef to patients with almost all patients with allergies to PCN. They have to remember the “severe” reaction. If it is a severe reaction, please use the second line ABX listed in the power plan.
+
+Type and Screen are not typically needed for colectomy. They will have an antibody screen from office. If antibodies present, then d/w attending
+
+**Intra-op**
+
+Positioning: I typically like to position myself.
+
+Right sided=supine; Left sided=lithotomy; All laparoscopic colon cases will have their arms tucked with a chest tape strap.
+
+NG/OG tubes Not needed. I will have anesthesia place if we have gastric distension. We give a multiple PO meds prior.
+
+Review anesthesia fluid management during time out. 1.6L max volume, urine output not an accurate indicator.

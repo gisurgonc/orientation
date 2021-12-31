@@ -1,0 +1,26 @@
+# Chemoradiation {#eso_dcrt}
+
+**This section addresses chemoradiation as primary (definitive) therapy for esophageal cancer. See also [Trimodality Therapy](#trimodality)
+
+## Phase II Studies
+
+Experience with patients who refuse surgery or are medically unfit:
+
+MD Anderson report of 61 patients out of 622 tri-modality-eligible patients who refused surgery after cCR.  5-year overall survival was 58%.  13 developped local recurrence during surveillance, and 12 had successful salvage esophagectomy [@taketa300]. The same group compared those who underwent surgery vs definitive chemoradiation in a propensity-matched fashion[@taketa95]. Irish study of 56 patients aged 70 or older treated with neoadjuvant chemoradiation followed by selective surgery.  Median survival was 28 months overall, 47 months for those with cCR, 61 months for primary resection, 46 months for cCRs who did not undergo resection, and 29 months for those with salvage esophagectomy[@furlong107].
+
+
+Castoro[@castoro1375]
+
+preSANO[@chirieac1347] Clinical Response evaluation after chemoRT for esophageal cancer with PET and EGD.
+
+## ChemoRT vs Trimodality therapy
+
+The sensitivity of squamous cell carcinoma of the esophagus to chemoradiation has raised the question whether
+
+Stahl Locally advanced squamous cell carcinoma randomized to induction chemotherapy (cisplatin, etopiside, 5FU with leuocovrin) followed by chemoradiation (4000cGy with concurrent ciplatin and etopiside) followed by surgery compared with induction chemotherapy followed by chemoradiation (6400cGy with concurrent cisplatin and etopiside).[@stahl2310] progression-free survival was better in the trimodality group (64.3% vs 40.7%) Treatment-related morality was substantial in the surgery arm (13% vs 4%). This would be considered an excessive rate of operative mortality by modern standards. Unsurprisingly, there was no difference in overall survival between groups, in part because the surgical group had an excess 9% mortality rate from treatment. Two-year survival in the surgery arm was 40% vs 35% in the definitive chemoradiation arm.
+
+In the French FFCD trial, 444 patients with carcinoma of the esophagus (90% squamous cell) were treated with two cycles of 5-FU and cisplatin with concurrent radiation.[@bedenne1160] Patients with a partial or complete clinical response to chemoradiation were randomized to either surgery or a boost of radiation. Patients who did not respond to chemoradiation were treated with surgery and were eliminated from the study. Only 259 of the original 444 patients (59%) went on to randomization, with the remainder (those not responding to chemoradiation) treated with surgery. Of the randomized group, median survival was 17.7months in the surgery arm versus 19.3months in the definitive chemoradiation arm. Like the Stahl study, treatment-related mortality in the surgical arm was high (9% versus 1%).
+
+\#Active Surveillance
+
+EGD is poor predictor of pCR [@sarkaria764]
