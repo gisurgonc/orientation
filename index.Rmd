@@ -1,0 +1,73 @@
+--- 
+title: "GI Surgical Oncology"
+#author: "Jonathan C Salo MD"
+#date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [zotero.bib]
+biblio-style: apalike
+link-citations: yes
+description: "Orientation Manual for GI Surgical Oncology Service"
+---
+
+
+```{r eval=FALSE, echo=F}
+install.packages("bookdown")
+# or the development version
+ #devtools::install_github("rstudio/bookdown")
+```
+
+
+```{r include=FALSE,echo=F}
+# automatically create a bib database for R packages
+#knitr::write_bib(c(
+#  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+#), 'packages.bib')
+
+# (PART\*) Inpatient {-}
+
+
+
+```
+# Overview {#Intro}
+
+## Absences
+
+Please notify Dr Hill, Dr Salo and Dr Squires before the beginning of the rotation if you will be away during the month. This includes vacations, meetings, interview trips, and other absences.
+
+## Communication
+
+Please use Halo for messaging service attendings rather than SMS. Please check our status prior to messaging nights and weekends. If we are listed as unavailable, please contact another Surgical Oncology attending or the CMC "GI MIS Blue Surgery Attending Colorectal Onc" attending on call.
+
+## Inpatients
+
+By in large, service attendings all wish to know about major changes in the status of our own patients. For most of the issues for which you would need to contact an attending at night, we would prefer that you HALO us directly rather than the on-call person. This desire is 24/7 (unless Halo says that attending is “off”).
+
+## ER admits
+
+We would ask to use a combination of communication for ER admissions. All patients must be discussed with an attending.
+• If the patient is stable, does not need surgery, etc. then we would ask you to contact the attending on call for GI MIS Blue Surgery Attending Colorectal Onc. Please contact them according to that attending’s preferences (page, text, call, etc).
+• If the patient is unstable, may need surgery or will have ongoing and/or have intensive management needs the following day please HALO that patient’s surgical oncology attending directly. The difference is that this patient is sick - we would like to know about all of our sick patients. If the Surg Onc attending is listed as “off” within Halo then please contact the GI MIS Blue Surgery Attending Colorectal Onc on-call attending.
+
+## Medical Records
+
+Completing medical records in a timely fashion is critical for patient safety, billing, and compliance. Timeliness also demonstrates an understanding of how the world of surgery for which residents are being prepared functions.
+
+## Operative Logs
+
+Completion of operative logs is critical for board certification of the individual resident but also has implications for the appropriate assignment of residents to surgical rotations AND impacts the ability of the residency to maintain accreditation and recruit resident candidates. Residents who find it difficult to find time to maintain operative logs may find themselves excused from the operating room to complete them. Residents are expected to complete operative logs within two weeks of the end of the rotation.
+
+## Case Assignment
+
+The senior resident will be expected to make case assignments for junior residents and students. It in not necessary split the month by attending - splitting by case is acceptable as well.  We also expect that  both residents know all the patients rather than just for one attending. This helps with nursing questions, etc.
+
+## Clinic
+
+Clinic is an important part of a surgeon's education, where decisions are made regarding diagnostic workup, patient evaluation, and treatment planning. The expectation is that all residents on the service attend clinic once per week.
+
+## Work Hours
+
+If the service workload jeopardizes your ability to abide by the work hour restrictions, you must notify an attending so that arrangements can be made. The service attendings are committed to abiding by work hour restrictions. 
+
+
+

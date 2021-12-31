@@ -1,0 +1,23 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      collapse: section
+      scroll_highlight: yes
+      before: |
+        <li>GI Surgical Oncology</li>
+      after: |
+        <li><a href="mailto:jonathan.salo@atriumhealth.org">Feedback and Updates</a></li>
+      search: yes
+      sharing: no
+    download: ["pdf", "epub"]
+bookdown::pdf_document2:
+  includes:
+    in_header: preamble.tex
+  latex_engine: xelatex
+  citation_package: natbib
+  keep_tex: yes
+  toc: true
+  toc_depth: 1
+  fontsize: 9pt
+bookdown::epub_book: default

@@ -1,0 +1,63 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+```{r, include=F}
+# Placeholder for clinical evaluation
+# = history and physical
+# Nutritional evaluation
+```
+# Inpatient
+
+Colorectal Surgery (Davis/Kasten) and GI Surgical Oncology (Hill/Salo/Squires) will cover Pineville and CMC. For efficiency, the services at each hospital will merge for patient care. Each patient will continue to have an attending surgeon, but rounding and inpatient care will be provided by the service.
+
+## Admissions
+
+Admitting Provider: “CMC, GI SURGICAL ONCOLOGY”
+
+List Attending Surgeon in addition
+
+Patient List is CMC GI Surgical Oncology
+
+## Rounds
+
+Attending rounds for both services (CR and SurgOnc) start at 6am in STICU or 11T.  Dr Salo rounds M-Tu and Drs Squires and Hill round  W/Th/F alternate weeks
+
+## Resident Halo teams:
+
+CMC AH Colorectal Surgery 1st Call
+CMC LCI GI Surgical Oncology 1st Call
+Residents will be assigned to Halo teams by schedule. It is critical that you notify service attendings before the start of the month to adjust the resident Halo schedule. Each “shift” is 5:50am to 6pm. At 6pm the resident Halo Teams will be forwarded to the night team.
+
+Please append a text block to the bottom of each progress note specifying the Halo Team for that patient to facilitate communication from nursing.
+
+## Attending Halo teams:
+
+CMC AH Colorectal Surgery Attending
+CMC LCI GI Surgical Oncology Attending
+Monday through Thursday (24hr), please contact the attending surgeon for each patient. For Surgical Oncology, please use Halo. For Colorectal, please use phone.
+
+Friday and Weekend: Halo “CMC GI MIS Blue Surgery Attending Colorectal Onc” for new admissions. Please keep Surgical Oncology attending informed of inpatient issues.
+
+## Consults
+
+Established patients and directed should be discussed with the attending surgeon.
+
+Unassigned Colorectal: “CMC AH Colorectal Surgery Attending”
+
+Unassigned Surgical Oncology: “CMC LCI GI Surgical Oncology Attending”
+
+In general, benign colorectal consults are staffed by Dr Davis. Colorectal malignancies are staffed as below. Esophageal and GE junction staffed by Dr Salo. Adenocarcinoma of distal stomach: Drs Salo/Squires. Gastric GIST: Drs Hill/Salo/Squires. Squires/Hill alternate weeks.
+
+|  | Mon | Tues | Weds | Thu | Fri |
+|---|---|---|---|---|---|
+| CR Malig | JSH | MHS | MHS<br>JSH | JCS | MHS<br>JSH |
+| GI Surg Onc | JSH | MHS | MHS<br>JSH | JCS | MHS<br>JSH |
+
+
+## Conferences
+
+- GI Tumor Planning Conference Monday 7-8am
+- Resident Teaching Conference Tuesday 7-8am 5th floor LCI II. Please review the upcoming clinic schedule and choose a case to present.
+- Bone and Soft Tissue Conference Friday 7-8am
