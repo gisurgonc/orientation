@@ -10,7 +10,7 @@ output:
 ```
 # (PART\*) Postoperative Care {-}
 
-# Colectomy - Hill
+# Colectomy 
 
 **Clinic**
 

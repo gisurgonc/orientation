@@ -8,7 +8,9 @@ output:
 # = history and physical
 # Nutritional evaluation
 ```
-# Student EMR Notes Policy
+# Education
+
+### Student EMR Notes Policy
 
 Approved: Medical Education Division of Canopy Team 11/17/13
 
