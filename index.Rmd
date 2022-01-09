@@ -8,6 +8,8 @@ bibliography: [zotero.bib]
 biblio-style: apalike
 link-citations: yes
 description: "Orientation Manual for GI Surgical Oncology Service"
+favicon: images/favicon.io
+url: https://github.com/gisurgonc/orientation
 ---
 
 
