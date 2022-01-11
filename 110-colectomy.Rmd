@@ -57,15 +57,14 @@ output:
   - PCA
   - Tylenol 1gm q6 ATC
   - Gabapentin 300mg TID
-  - Oxycodone once at night
   - Tramadol PRN
   - Resume all baseline pain meds
 - Home Medications
   - Resume all home medications
   - No therapeutic anti-coagiation
   - Diabetes medicines
-    - Prefer to resume all
-    - Sliding-scale insulin if needed
+    - Prefer to resume all oral diabetes meds
+    - Sliding-scale insulin ordered for all diabetics
 
 **Postop Day 1**
 
@@ -114,6 +113,7 @@ output:
 6) Give estimated date of discharge
 
 **Postop Day 3-5**
+
 - IVF
   - Consider bolus of IV fluids
   - Consider maintenance IV if we feel won’t resolve soon
@@ -125,9 +125,10 @@ output:
 - Pain management
   - Same as POD#1
 - Afternoon rounds
-1) Possible home today!
-2) Check patient 2-3PM
-3) Ambulation 2x’s by PM
-4) Check for dehydration
-5) Patient education
-6) Give estimated date of discharge
+
+  1) Possible home today!
+  2) Check patient 2-3PM
+  3) Ambulation 2x’s by PM
+  4) Check for dehydration
+  5) Patient education
+  6) Give estimated date of discharge

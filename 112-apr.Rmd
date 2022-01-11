@@ -33,7 +33,6 @@ output:
 - Colon PowerPlan (Hill)
 - *CCM order*
 - *WOCN order*
-- *Geomat Cushion order*
 - Antibiotic PowerPlan
 - No PCN only for severe allergy
 - Entereg (if no preop opiods)
@@ -51,6 +50,8 @@ output:
 
 **Postop Day 0**
 
+- No sitting
+  - Order Sign over bed "No sitting"
 - Goal-directed fluid administration
 - OOB (Dangling not compliant)
 - Diet
@@ -79,7 +80,6 @@ output:
 - Labs: K+ and CBC only
 - d/c “pre” plan & colon visit
 - Heparin lock IV
-- d/c PCA (unless laparotomy)
 - Out of bed > 6 hrs
 - Diet: low residue
 - Pain management
@@ -97,7 +97,7 @@ output:
 - OOB >6 hrs
 - No PT unless going to rehab or SNF (ask Hill first)
 - Pain management
-  - Same as POD#1
+  - d/c PCA (unless laparotomy)
 - *Wound Ostomy Teaching*
 - Foley voiding challenge 
   - 250mL saline into foley -> pull

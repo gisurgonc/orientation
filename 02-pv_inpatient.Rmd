@@ -1,0 +1,77 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+```{r, include=F}
+# Placeholder for clinical evaluation
+# = history and physical
+# Nutritional evaluation
+```
+# Pineville Inpatient
+
+
+## Rounds
+
+- Monday - Dr Squires
+- Tuesday - Dr Hill
+
+Starting time for rounds is variable from day to day.
+
+Maddie Georgino will help organize work and timing of rounds, etc.
+
+## Resident Halo teams:
+
+Pine AH Colorectal Surgery 1st Call
+Pine LCI GI Surgical Oncology 1st Call
+Residents will be assigned to Halo teams by schedule. It is critical that you notify service attendings before the start of the month to adjust the resident Halo schedule. Each “shift” is 5:50am to 6pm. At 6pm the resident Halo Teams will be forwarded to the night team.
+
+Please append a text block to the bottom of each progress note specifying the Halo Team for that patient to facilitate communication from nursing.
+
+## Attending Halo teams:
+
+Pine AH Colorectal Surgery Attending
+Pine LCI GI Surgical Oncology Attending
+Monday through Thursday (24hr), please contact the attending surgeon for each patient. For Surgical Oncology, please use Halo. For Colorectal, please use phone.
+
+Friday and Weekend: Halo “CMC GI MIS Blue Surgery Attending Colorectal Onc” for new admissions. Please keep Surgical Oncology attending informed of inpatient issues.
+
+## Consults
+
+Established patients and directed should be discussed with the attending surgeon.
+
+Unassigned Colorectal: “Pine AH Colorectal Surgery Attending”
+
+Unassigned Surgical Oncology: “Pine LCI GI Surgical Oncology Attending”
+
+## Postop Clinic Appts
+
+Postoperative patients are generally seen for a Transition of Care visit within the first week
+
+Discharge appointments are made by sending a message in Canopy the evening prior (preferred) OR the morning of discharge before 8am to:
+
+- Hale Mock
+- Syreeta McNair
+- Madeline Georgino
+
+Please include the following information in the Canopy Message:
+
+- Name of attending
+- Ward from which the patient is being discharged
+- Desired date for appointment
+- Need for Wound Ostomy RN appointment at same time (essential for new stomas)
+- Need for bloodwork at first visit
+- Other studies to be done after discharge
+  - Upper GI
+  - Chest X-ray
+  - Modified Barium Swallow
+
+
+For patients likely to go home over the weekend or holidays, please plan to send a canopy message before 3pm on Friday or the day prior.
+
+
+## Conferences
+
+- GI Tumor Planning Conference Monday 7-8am
+- Resident Teaching Conference Tuesday 7-8am 5th floor LCI II. Please review the upcoming clinic schedule and choose a case to present.
+- Bone and Soft Tissue Conference Friday 7-8am

@@ -8,9 +8,11 @@ output:
 # = history and physical
 # Nutritional evaluation
 ```
-# Inpatient
+# CMC Inpatient
 
 Colorectal Surgery (Davis/Kasten) and GI Surgical Oncology (Hill/Salo/Squires) will cover Pineville and CMC. For efficiency, the services at each hospital will merge for patient care. Each patient will continue to have an attending surgeon, but rounding and inpatient care will be provided by the service.
+
+In general Dr Kasten will round on his own patients at CMC.  Dr Davis will round on his own patients if he is at CMC.
 
 ## Admissions
 
@@ -54,6 +56,44 @@ In general, benign colorectal consults are staffed by Dr Davis. Colorectal malig
 |---|---|---|---|---|---|
 | CR Malig | JSH | MHS | MHS<br>JSH | JCS | MHS<br>JSH |
 | GI Surg Onc | JSH | MHS | MHS<br>JSH | JCS | MHS<br>JSH |
+
+## Postop Clinic Appts
+
+Postoperative patients are generally seen for a Transition of Care visit within the first week
+
+Discharge appointments are made by sending a message in Canopy the evening prior (preferred) OR the morning of discharge before 8am to:
+
+**January 2022** Due to transitions in Dr Hill's clinic staffing, please send messages for discharges directly to him, and he will forward.
+
+- LCI CMC GI, Clerical
+- Marsha Sukhdeo (Salo and Squires)
+- Kendra Zacharias (Salo and Squires)
+- Brenda Prieto
+- Brnadon Galloway
+
+Please include the following information in the Canopy Message:
+
+- Name of attending
+- Ward from which the patient is being discharged
+- Desired date for appointment
+- Need for Wound Ostomy RN appointment at same time (essential for new stomas)
+- Need for bloodwork at first visit
+- Other studies to be done after discharge
+  - Upper GI
+  - Chest X-ray
+  - Modified Barium Swallow
+
+If messages cannot be sent in time, clinic schedulers can be reached at: Marsha Sukhdeo (Salo and Squires): 980-442-6110 or  (Hill): 980-442-6183.
+
+If schedulers are not available, clinic RNs can be reached at:   (Hill) 980-442-6146 or Kendra Zacharias (Salo and Squires) 980-442-6143.
+
+For patients likely to go home over the weekend or holidays, please plan to send a canopy message before 3pm on Friday or the day prior.
+
+The scheduler will respond with a message to the discharging resident AND to the ward CNL with the appointment time, which can be included within the discharge summary. Copies of the message will also be sent to clinical nurse leaders:
+
+- 11Tower: Sharon Hood
+- 6Tower: Amy Peterson
+
 
 
 ## Conferences

@@ -1,7 +1,7 @@
 ---
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 ```{r, include=F}
 # Placeholder for clinical evaluation
@@ -14,40 +14,6 @@ output:
 
 Prescriptions should be ideally be prepared the day prior to anticipated discharge and left in the patient’s ‘soft chart.’ According to North Carolina STOP guidelines, opioid prescriptions for postoperative patients should be for no more than a 7 day supply.
 
-**Postop Clinic Appts**
-
-Postoperative patients are generally seen for a Transition of Care visit within the first week
-
-Discharge appointments are made by sending a message in Canopy the evening prior (preferred) OR the morning of discharge before 8am to:
-
-- LCI CMC GI, Clerical
-- Verona Jordan (Hill) OR Marsha Sukhdeo (Salo and Squires)
-- Stefanie Olson (Hill) OR Kendra Zacharias (Salo and Squires)
-- Brenda Prieto
-- Brnadon Galloway
-
-Please include the following information in the Canopy Message:
-
-- Name of attending
-- Ward from which the patient is being discharged
-- Desired date for appointment
-- Need for Wound Ostomy RN appointment at same time (essential for new stomas)
-- Need for bloodwork at first visit
-- Other studies to be done after discharge
-  - Upper GI
-  - Chest X-ray
-  - Modified Barium Swallow
-
-If messages cannot be sent in time, clinic schedulers can be reached at: Marsha Sukhdeo (Salo and Squires): 980-442-6110 or Verona Jordan (Hill): 980-442-6183.
-
-If schedulers are not available, clinic RNs can be reached at:  Stefanie Olson (Hill) 980-442-6146 or Kendra Zacharias (Salo and Squires) 980-442-6143.
-
-For patients likely to go home over the weekend or holidays, please plan to send a canopy message before 3pm on Friday or the day prior.
-
-The scheduler will respond with a message to the discharging resident AND to the ward CNL with the appointment time, which can be included within the discharge summary. Copies of the message will also be sent to clinical nurse leaders:
-
-- 11Tower: Sharon Hood
-- 6Tower: Amy Peterson
 
 **Additional Appointments**
 
