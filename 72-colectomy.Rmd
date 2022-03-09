@@ -14,7 +14,7 @@ PMID: 31872869 Clinical Trial.
 
 ## Neoadjuvant Chemotherapy
 
-Seymour MT, Morton D. FOxTROT: an international randomised controlled trial in 1052 patients (pts) evaluating neoadjuvant chemotherapy (NAC) for colon cancer. J Clin Oncol. 2019 May;37(15 Suppl):3504-3504.
+Seymour MT, Morton D. FOxTROT: an international randomized controlled trial in 1052 patients (pts) evaluating neoadjuvant chemotherapy (NAC) for colon cancer. J Clin Oncol. 2019 May;37(15 Suppl):3504-3504.
 
 
 
