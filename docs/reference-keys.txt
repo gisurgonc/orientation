@@ -89,6 +89,11 @@ postoperative-chemotherapy
 postoperative-chemoradiation-1
 preoperative-chemoradiation
 colorectal-overview
+colon-cancer-staging
+cea-level
+ct-scan
+pet-scan
+indications-for-pet-in-colorectal-cancer
 colectomy-1
 extended-node-dissection
 chemotherapy

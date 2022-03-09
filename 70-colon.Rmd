@@ -1,3 +1,26 @@
 # (PART\*) Colon Cancer {-}
 
 # Colorectal Overview
+
+
+**Resources**
+
+[ACSRS Guidlines for treatment of Colorectal Cancer 2022](https://fascrs.org/ascrs/media/files/downloads/2022-Colon-Cancer-CPG.pdf)
+
+# Colon Cancer Staging
+
+## CEA level
+
+CEA should be routinely checked prior to surgery
+
+## CT Scan
+
+## PET scan
+
+PET is not recommended routinely for evaluation of colon cancer.[@vogel148]
+
+### Indications for PET in colorectal cancer:
+
+- Workup of rising CEA
+- Indeterminate extra-hepatic findings on CT or MRI
+- Evaluation of possible local recurrence
