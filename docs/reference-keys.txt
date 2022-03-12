@@ -78,7 +78,8 @@ palliative-radiation
 chemoradiation-vs-chemotherapy-in-stage-iv
 stents-for-malignant-disease
 eso_survivorship
-nutritional-consequences
+nutritional-consequences-of-esophagectomy
+vitamin-d-deficiency
 cardiac-toxicity-of-radiation
 eso_surveillance
 gastric-overview

@@ -1,7 +1,19 @@
 # Survivorship {#eso_survivorship}
 
 
-## Nutritional consequences
+## Nutritional consequences of esophagectomy
+
+### Vitamin D deficiency
+
+Vitamin D deficiency is defined as serum 25(OH)D levels below 20ng/mL
+
+  - Replacement with 2000 IU Vitamin D3 daily [@khan97]
+
+Vitamin D insufficiency is defined as serum 25(OH)D level 20-29ng/mL
+
+  - Replacement with 1000-2000 IU Vitamin D3 daily
+
+[NIH ODS Vitamin D info](https://ods.od.nih.gov/factsheets/vitamind-healthprofessional/)
 
 [@baker987]
 
