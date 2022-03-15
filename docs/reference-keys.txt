@@ -66,6 +66,8 @@ phase-ii-studies
 chemort-vs-trimodality-therapy
 radiation
 esophagectomy
+early-recovery-pathways
+esophagectomy-1
 preoperative-evaluation
 minimally-invasive-esophagectomy
 transthoracic

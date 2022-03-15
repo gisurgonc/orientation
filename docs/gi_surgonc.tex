@@ -4,14 +4,10 @@
 %
 \documentclass[
 ]{book}
-\title{GI Surgical Oncology}
-\author{}
-\date{\vspace{-2.5em}}
-
 \usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{iftex}
-\ifPDFTeX
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -73,11 +69,15 @@
 \setcounter{secnumdepth}{5}
 \usepackage{booktabs}
 
-\ifLuaTeX
+\ifluatex
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
+
+\title{GI Surgical Oncology}
+\author{}
+\date{\vspace{-2.5em}}
 
 \begin{document}
 \maketitle
@@ -146,7 +146,7 @@ In general Dr Kasten will round on his own patients at CMC. Dr Davis will round 
 \hypertarget{admissions}{%
 \section{Admissions}\label{admissions}}
 
-Admitting Provider: ``CMC, GI SURGICAL ONCOLOGY''
+Admitting Provider: ``CMC GI SURGICAL ONCOLOGY''
 
 List Attending Surgeon in addition
 
@@ -456,6 +456,8 @@ The medical problems currently being managed are addressed in the assessment.
 
 \begin{longtable}[]{@{}ll@{}}
 \toprule
+& \\
+\midrule
 \endhead
 N & Delirium \\
 & Stroke \\
@@ -524,6 +526,8 @@ The discharge summary documents important events and complications in the postop
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.06}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.94}}@{}}
 \toprule
+& \\
+\midrule
 \endhead
 N & Followup plan for chronic pain management \\
 & Stroke \\
@@ -2748,6 +2752,14 @@ RTOG 94-05 clinical trial \citep{minsky1167}
 \hypertarget{esophagectomy}{%
 \chapter{Esophagectomy}\label{esophagectomy}}
 
+\hypertarget{early-recovery-pathways}{%
+\section{Early Recovery Pathways}\label{early-recovery-pathways}}
+
+\href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7098920/}{ERAS Society Guidlines}
+
+\hypertarget{esophagectomy-1}{%
+\chapter{Esophagectomy}\label{esophagectomy-1}}
+
 Three general approaches exist for surgical therapy.
 
 Trans-thoracic or Ivor Lewis esophagectomy\citep{visbal1803} removes the intrathoracic portion of the esophagus and constructs an anastomosis within the chest. The approach include an abdominal phase, during which an esophageal substitute is constructed (usually from stomach). A thoracic phase then removes the intrathoracic esophagus and constructs an anastomosis within the chest cavity.
@@ -2951,6 +2963,8 @@ CRITICS trial treated all patients with preoperative chemoterhapy followed by su
 \textbf{Resources}
 
 \href{https://fascrs.org/ascrs/media/files/downloads/2022-Colon-Cancer-CPG.pdf}{ASCRS Guidelines for treatment of Colorectal Cancer 2022}
+
+\href{https://fascrs.org/ascrs/media/files/downloads/Clinical\%20Practice\%20Guidelines/clinical_practice_guidelines_for_enhanced_recovery-3.pdf}{ASCRS Guidelines for Early Recovery}
 
 \hypertarget{colon-cancer-staging}{%
 \chapter{Colon Cancer Staging}\label{colon-cancer-staging}}

@@ -16,7 +16,7 @@ In general Dr Kasten will round on his own patients at CMC.  Dr Davis will round
 
 ## Admissions
 
-Admitting Provider: “CMC, GI SURGICAL ONCOLOGY”
+Admitting Provider: “CMC GI SURGICAL ONCOLOGY”
 
 List Attending Surgeon in addition
 
