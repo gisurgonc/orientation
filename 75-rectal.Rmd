@@ -1,0 +1,15 @@
+# (PART\*) Rectal Cancer {-}
+
+# Rectal Overview
+
+
+**Resources**
+
+[ASCRS Guidelines for treatment of Colorectal Cancer 2022](https://fascrs.org/ascrs/media/files/downloads/2022-Colon-Cancer-CPG.pdf)
+
+
+# Rectal Cancer Staging
+
+## MRI
+
+MERCURY group trial of predictive value of MRI for rectal cancer[@taylor34]
