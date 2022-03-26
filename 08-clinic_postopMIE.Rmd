@@ -10,7 +10,7 @@ output:
 ```
 # Postop Care after Esophagectomy {#mie_postop}
 
-## Weaning Tube Feeds
+## Weaning Tube Feeds in Diabetics
 
 As outpatients begin eating more orally, their tube feeds are reduced.
 

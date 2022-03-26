@@ -29,7 +29,7 @@ discharges
 education
 student-emr-notes-policy
 mie_postop
-weaning-tube-feeds
+weaning-tube-feeds-in-diabetics
 colectomy
 lar-ileostomy
 abdominoperineal-resection
@@ -43,7 +43,7 @@ drain_amylase
 ct_esophagram
 anastomotic-leak-treatment
 jejunostomy-feedings
-weaning-tube-feeds-1
+weaning-tube-feeds
 med-administration-via-j-tubes
 occluded-jejunostomy-tubes
 jejunostomy_diabetes
