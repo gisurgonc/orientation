@@ -1,0 +1,21 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
+```{r, include=F}
+# Placeholder for clinical evaluation
+# = history and physical
+# Nutritional evaluation
+```
+# Postop Care after Esophagectomy {#mie_postop}
+
+## Weaning Tube Feeds
+
+As outpatients begin eating more orally, their tube feeds are reduced.
+
+Weaning from 5 cans to 4 cans: Easiest method is to maintain the same schedule (16 hours) and reduce insulin dosage by 20%.  For instance, the above patient who is on 5 cans at 75mL/hour x 16 hours is receiving 16N + 8R at start of tube feeds and 6 hours later. This patient could be weaned by reducing rate form 75mL/hour x 16 hours to 60mL/hour x 16 hours and reducing insulin to 12N + 6R at the start of tube feeds AND another dose of 12N + 6R after 6 hours. 
+
+Weaning from 4 cans to 3 cans:  One option is to decrease the duration of tube feeds from 16 hours to 12 hours, while maintaining rate of 60mL/hour. In this case, the insulin dosage could be kept the same at the start of tube feeds, BUT the dose 6 hours after the start of tube feeds could be omitted.
+
+Once patients are on 3 cans per night, further weaning can be accomplished by skipping tube feeds (and insulin) every other night in a “tube feed holiday”. This allows an evening of interrupted sleep and can tend to increase the appetite the morning after tube feeds are held.
