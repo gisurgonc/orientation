@@ -55,12 +55,3 @@ The discharge summary documents important events and complications in the postop
 
 It is essential that discharge summaries be sent to the patient’s primary MD and referring physician. Please review the initial consultation note for the names of providers involved in a patient’s care.
 
-In order to easily access the patient’s providers, please prepare a “]Providers” autotext:
-
-Click the AutoText icon on a document
-Add new AutoText by clicking the blue + sign
-Create a name for the new AutoText (such as “]Providers”)
-Select a smart template by clicking the second icon from the right of the buttons
-Search for “Transition” and select “Transition Clinic Header”
-Save the AutoText
-Please paste the ]Providers AutoText in the body of the discharge summary to easily access who should receive copies of the discharge summary

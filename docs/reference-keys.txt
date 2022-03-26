@@ -43,7 +43,6 @@ drain_amylase
 ct_esophagram
 anastomotic-leak-treatment
 jejunostomy-feedings
-weaning-tube-feeds
 med-administration-via-j-tubes
 occluded-jejunostomy-tubes
 jejunostomy_diabetes

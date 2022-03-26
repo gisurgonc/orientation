@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.2.3)  26 MAR 2022 12:12
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.2.3)  26 MAR 2022 12:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -942,217 +942,201 @@ Chapter 13.
 
 ]
 Chapter 14.
-[55] [56]
-Overfull \hbox (862.5pt too wide) in paragraph at lines 1841--1841
-[]\TU/lmtt/m/n/10 - Consider changing tube feedings to a more easily digestible
- formula. Patients on Osmolite 1.5 can be changed to Vital 1.5. Patients on Vit
-al 1.5 can be changed to Vivonex. Patients on Promote can be changed to Vital H
-igh Protein[] 
- []
 
+Package natbib Warning: Citation `taylor34' on page 55 undefined on input line 
+1774.
 
-Overfull \hbox (64.5pt too wide) in paragraph at lines 1841--1841
-[]\TU/lmtt/m/n/10 - restart tube feeds at a lower rate (eg 20mL/hour lower than
- the prior rate).[] 
- []
+[55] [56] [57] [58] [59
 
-
-Overfull \hbox (285.0pt too wide) in paragraph at lines 1841--1841
-[]\TU/lmtt/m/n/10 - Bannatrol can be given to patients taking an oral diet. Ban
-natrol is NOT given via jejunostomy tube to avoid clogging.[] 
- []
-
-[57] [58] [59] [60
-
-] [61] [62]
+] [60]
 Chapter 15.
-[63
+[61
 
-] [64
+] [62
 
-] [65] [66]
+] [63] [64]
 Chapter 16.
-[67
+[65
 
-] [68] [69] [70
+] [66] [67] [68
 
 ]
 Chapter 17.
-[71]
-Underfull \hbox (badness 1028) in paragraph at lines 2210--2211
+[69]
+Underfull \hbox (badness 1028) in paragraph at lines 2169--2170
 \TU/lmr/m/n/10 Patients with metastatic esophageal cancer who need enteral acce
 ss are
  []
 
-[72]
+[70]
 Missing character: There is no ″ in font [lmroman10-regular]:mapping=tex-text;!
-[73] [74]
+[71] [72]
 Chapter 18.
-[75
+[73
 
-] [76] [77] [78] [79] [80
+] [74] [75] [76] [77] [78
 
 ]
 Chapter 19.
-[81] [82] [83]
+[79] [80] [81]
 Missing character: There is no ″ in font [lmroman10-regular]:mapping=tex-text;!
-[84] [85] [86] [87] [88
+[82] [83] [84] [85] [86
 
-] [89] [90]
+] [87] [88]
 Chapter 20.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 2619.
+(Font)              scaled to size 7.0pt on input line 2578.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 2619.
+(Font)              scaled to size 5.0pt on input line 2578.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00092pt on input line 2619.
+(Font)              scaled to size 10.00092pt on input line 2578.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.00064pt on input line 2619.
+(Font)              scaled to size 7.00064pt on input line 2578.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00046pt on input line 2619.
+(Font)              scaled to size 5.00046pt on input line 2578.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 2619.
+(Font)              scaled to size 9.99893pt on input line 2578.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 2619.
+(Font)              scaled to size 6.99925pt on input line 2578.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 2619.
-[91
+(Font)              scaled to size 4.99947pt on input line 2578.
+[89
 
-] [92
+] [90
 
 ]
 Chapter 21.
-[93] [94]
+[91] [92]
 Chapter 22.
-[95
+[93
 
-] [96]
+] [94]
 Chapter 23.
 
 Underfull \vbox (badness 1635) has occurred while \output is active []
 
+[95
+
+] [96]
+Chapter 24.
 [97
 
-] [98]
-Chapter 24.
-[99
-
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 2813--2813
+Underfull \hbox (badness 10000) in paragraph at lines 2772--2772
 []\TU/lmr/bx/n/14.4 Induction chemotherapy followed by
  []
 
-[100] [101] [102
+[98] [99] [100
 
 ]
 Chapter 25.
-[103] [104]
+[101] [102]
 Chapter 26.
-[105
+[103
 
-] [106
+] [104
 
 ]
 Chapter 27.
-[107] [108
+[105] [106
 
 ]
 Chapter 28.
-[109]
+[107]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[110] [111] [112
+[108] [109] [110
 
 ]
 Chapter 29.
-[113] [114
+[111] [112
 
 ]
 Chapter 30.
 
-Underfull \hbox (badness 2671) in paragraph at lines 2960--2960
+Underfull \hbox (badness 2671) in paragraph at lines 2919--2919
 []\TU/lmr/bx/n/14.4 Nutritional consequences of esophagec-
  []
 
-[115] [116] [117
+[113] [114] [115
 
-] [118]
+] [116]
 Chapter 31.
-[119
+[117
 
-] [120
+] [118
 
 ]
 Chapter 32.
-[121] [122
+[119] [120
 
 ]
 Chapter 33.
-[123] [124] [125
+[121] [122] [123
 
-] [126]
+] [124]
 Chapter 34.
-[127
+[125
 
-] [128
+] [126
 
 ]
 Chapter 35.
-[129] [130
+[127] [128
 
 ]
 Chapter 36.
-[131] [132
+[129] [130
 
 ]
 Chapter 37.
-[133] [134
+[131] [132
 
-] [135] [136]
+] [133] [134]
 Chapter 38.
-[137
+[135
 
-] [138
+] [136
 
 ]
 Chapter 39.
 
-Package natbib Warning: Citation `taylor34' on page 139 undefined on input line
- 3144.
+Package natbib Warning: Citation `taylor34' on page 137 undefined on input line
+ 3103.
 
-[139] [140
+[137] [138
 
 ]
 Chapter 40.
-[141] [142
+[139] [140
 
-] [143] [144]
+] [141] [142]
 Chapter 41.
-(./gi_surgonc.bbl [145
+(./gi_surgonc.bbl [143
 
-] [146
+] [144
 
-] [147] [148] [149] [150] [151] [152] [153] [154]
+] [145] [146] [147] [148] [149] [150] [151] [152]
 Underfull \hbox (badness 2005) in paragraph at lines 538--545
 []\TU/lmr/m/n/10 Stahl, M., Walz, M. K., Stuschke, M., Lehmann, N., Meyer, H.-J
 .,
  []
 
-[155] [156])
+[153] [154])
 
 Package natbib Warning: There were undefined citations.
 
-[157] (./gi_surgonc.aux)
+[155] (./gi_surgonc.aux)
 Package rerunfilecheck Info: File `gi_surgonc.out' has not changed.
 (rerunfilecheck)             Checksum: FFB5C87F29273C4E3444465A91EBD52B;6361.
  ) 
 Here is how much of TeX's memory you used:
- 17129 strings out of 479211
- 301545 string characters out of 5873010
- 758281 words of memory out of 5000000
- 36475 multiletter control sequences out of 15000+600000
- 409897 words of font info for 82 fonts, out of 8000000 for 9000
+ 17124 strings out of 479211
+ 301464 string characters out of 5873010
+ 758228 words of memory out of 5000000
+ 36472 multiletter control sequences out of 15000+600000
+ 409889 words of font info for 81 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  98i,6n,122p,1804b,597s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on gi_surgonc.pdf (157 pages).
+Output written on gi_surgonc.pdf (155 pages).
