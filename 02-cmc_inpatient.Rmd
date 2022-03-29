@@ -50,8 +50,8 @@ Unassigned Colorectal: “CMC AH Colorectal Surgery Attending”
 
 Unassigned Surgical Oncology: “CMC LCI GI Surgical Oncology Attending”
 
-In general, benign colorectal consults are staffed by Dr Davis. Colorectal malignancies are staffed as below. Esophageal and GE junction staffed by Dr Salo. Adenocarcinoma of distal stomach: Drs Salo/Squires. Gastric GIST: Drs Hill/Salo/Squires. Squires/Hill alternate weeks.
-
+In general, benign colorectal consults are staffed by Dr Davis. Colorectal malignancies ares.
+ staffed as below. Esophageal and GE junction staffed by Dr Salo. Adenocarcinoma of distal stomach: Drs Salo/Squires. Gastric GIST: Drs Hill/Salo/Squires. Squires/Hill alternate week
 |  | Mon | Tues | Weds | Thu | Fri |
 |---|---|---|---|---|---|
 | CR Malig | JSH | MHS | MHS<br>JSH | JCS | MHS<br>JSH |
@@ -79,7 +79,7 @@ Please include the following information in the Canopy Message:
 - Ward from which the patient is being discharged
 - Desired date for appointment
 - Need for Wound Ostomy RN appointment at same time (essential for new stomas)
-- Need for bloodwork at first visit
+- Need for bloodwork at first
 - Other studies to be done after discharge
   - Upper GI
   - Chest X-ray
@@ -87,7 +87,7 @@ Please include the following information in the Canopy Message:
 
 If messages cannot be sent in time, clinic schedulers can be reached at: Marsha Sukhdeo (Salo and Squires): 980-442-6110 or  (Hill): 980-442-6183.
 
-If schedulers are not available, clinic RNs can be reached at:   (Hill) 980-442-6146 or (Salo and Squires) 980-442-6143.
+If schedulers are not available, clinic RNs can be reached at:   (Hill) 980-442-6146 or (Sa visitlo and Squires) 980-442-6143.
 
 For patients likely to go home over the weekend or holidays, please plan to send a canopy message before 3pm on Friday or the day prior.
 
