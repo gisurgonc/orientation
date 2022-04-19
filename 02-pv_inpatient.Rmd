@@ -24,6 +24,7 @@ Maddie Georgino will help organize work and timing of rounds, etc.
 
 Pine AH Colorectal Surgery 1st Call
 Pine LCI GI Surgical Oncology 1st Call
+
 Residents will be assigned to Halo teams by schedule. It is critical that you notify service attendings before the start of the month to adjust the resident Halo schedule. Each “shift” is 5:50am to 6pm. At 6pm the resident Halo Teams will be forwarded to the night team.
 
 Please append a text block to the bottom of each progress note specifying the Halo Team for that patient to facilitate communication from nursing.
@@ -32,6 +33,7 @@ Please append a text block to the bottom of each progress note specifying the Ha
 
 Pine AH Colorectal Surgery Attending
 Pine LCI GI Surgical Oncology Attending
+
 Monday through Thursday (24hr), please contact the attending surgeon for each patient. For Surgical Oncology, please use Halo. For Colorectal, please use phone.
 
 Friday and Weekend: Halo “CMC GI MIS Blue Surgery Attending Colorectal Onc” for new admissions. Please keep Surgical Oncology attending informed of inpatient issues.
