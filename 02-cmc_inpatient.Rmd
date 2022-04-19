@@ -26,21 +26,21 @@ Patient List is CMC GI Surgical Oncology
 
 Attending rounds for both services (CR and SurgOnc) start at 6am in STICU or 11T.  Dr Salo rounds M-Tu and Drs Squires and Hill round  W/Th/F alternate weeks
 
-## Resident Halo teams:
+## Resident Epic teams:
 
 CMC AH Colorectal Surgery 1st Call
 CMC LCI GI Surgical Oncology 1st Call
-Residents will be assigned to Halo teams by schedule. It is critical that you notify service attendings before the start of the month to adjust the resident Halo schedule. Each “shift” is 5:50am to 6pm. At 6pm the resident Halo Teams will be forwarded to the night team.
+Residents will be assigned to Epic teams by schedule. It is critical that you notify service attendings before the start of the month to adjust the resident call schedule. Each “shift” is 5:50am to 6pm. At 6pm the resident Halo Teams will be forwarded to the night team.
 
 Please append a text block to the bottom of each progress note specifying the Halo Team for that patient to facilitate communication from nursing.
 
-## Attending Halo teams:
+## Attending Epic teams:
 
 CMC AH Colorectal Surgery Attending
 CMC LCI GI Surgical Oncology Attending
-Monday through Thursday (24hr), please contact the attending surgeon for each patient. For Surgical Oncology, please use Halo. For Colorectal, please use phone.
+Monday through Thursday (24hr), please contact the attending surgeon for each patient. For Surgical Oncology, please use Haiku. For Colorectal, please use phone.
 
-Friday and Weekend: Halo “CMC GI MIS Blue Surgery Attending Colorectal Onc” for new admissions. Please keep Surgical Oncology attending informed of inpatient issues.
+Friday and Weekend: Epic Secure Chat “CMC GI MIS Blue Surgery Attending Colorectal Onc” for new admissions. Please keep Surgical Oncology attending informed of inpatient issues.
 
 ## Consults
 
@@ -66,8 +66,8 @@ Discharge appointments are made by sending a message in Canopy the evening prior
 
 - LCI CMC GI, Clerical
 - Marsha Sukhdeo (Salo and Squires)
-- Sara Gaddy (Salo and Squires) - Starting April 2022
-- Rebecca Wicks (Hill) - Starting April 2022
+- Sara Gaddy (Salo and Squires) 
+- Rebecca Wicks (Hill) 
 - Brenda Prieto
 - Brandon Galloway
 
@@ -85,7 +85,7 @@ Please include the following information in the Canopy Message:
 
 If messages cannot be sent in time, clinic schedulers can be reached at: Marsha Sukhdeo (Salo and Squires): 980-442-6110 or  (Hill): 980-442-6183.
 
-If schedulers are not available, clinic RNs can be reached at:   (Hill) 980-442-6146 or (Sa visitlo and Squires) 980-442-6143.
+If schedulers are not available, clinic RNs can be reached at:   (Hill) 980-442-6146 or (Salo and Squires) 980-442-6143.
 
 For patients likely to go home over the weekend or holidays, please plan to send a canopy message before 3pm on Friday or the day prior.
 
