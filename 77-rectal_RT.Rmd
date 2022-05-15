@@ -1,6 +1,35 @@
 # Rectal Adjuvant Therapy
 
 
+German Rectal Cancer Study (AIO-94) compared preop and postop chemoradiation in locally-advanced rectal cancer [@sauer173]. Among 823 patients, local recurrence was 6% in the preoperative group vs 13% in the postop group (p=0.0006). Overall survival was not different, but preop chemoradiation was less toxic. Pathologic complete response rate in the preoperative group as 8%.
+
+NSABP R-03 clinical trial [@roh5124] randomized 267 patients with T3 or T4 or node-positive rectal cancer to preop vs postop chemoradiation. Disease-free survival was better in the preoperative group, wiht no difference in overall survival. Pathologic complete response rate in the preop group was 15%.
+
+Dutch Rectal Cancer Trial (CKVO 95-04): Demostrated the benefit of preop radiation in combination with TME[@kapiteijn638]. Radiation reduced local recurrence form 10.9% to 5.6%
+
+### Short-course preoperative therapy
+
+Swedish Rectal Cancer Trial compared surgery alone with preoperative short-course therapy consisting of 500cGy of radiation without chemotherapy administered in one week prior to surgery. Local recurrence was 9% in the therapy group vs 26% in the control group, with an improvement in overall survival of 38% vs 80%[@swedithrectalcancertrial980]. Of note, this trial was performed in the era prioro to the widespread use of total mesorectal excision.
+
+Stockholm III trial showed that short-course radiation therapy performed 4-8 weeks prior to surgery resulted in imporved rates of pathologic complete response (12% vs 2%) compared with short-course radiation therapy performed the week prior to surgery [@pettersson972]
+
+The Dutch trial found a reduction in local recurrence form 10.9% to 5.6% with preoperative radiation with no difference in survival[@kapiteijn638]. A later update[@575;21596621 ] The Medical Research Council C07 trial compared preoperative short-course radiation with selective post-operative chemoradiation and found no difference in local recurrence (4.4% vs 10.6%) and no difference in overall survival.[@sebag-montefiore811]
+
+### Total Neoadjuvant therapy
+
+RAPIDO trial randomized 920 patients with T4 or node-positive disease to long-course chemoradiation followed by surgery  vs short-course radiation followed by chemotherapy and surgery. The pCR rate was significantly higher in the short course/chemotherapy/surgery group (28$% vs 14%) and disease-specific surival at 3years was higher (30% vs 24%).[@bahadoer]
+
+PRODIGE 23 randomized 461 patients with T3 or T4 recta cancers to long-course radiation followed by surgery vs induction chemotherapy, long-course radiation followed by surgery. Up-front chemotherapy was associates with increased 3-year survival (76% vs 69%) and an increase in rate of pathologic complete response of 28% vs 12%.[@conroy702]
+
+
+
+## Non-operative management of Rectal Cancer
+
+MSKCC published an experience of 113 patients with cCR after chemoradiation for rectal cancer who elected non-operative management [@smith184896]. Among this group, 22 developped a local recurrence, and 8% developped metastatic disease.[@smith657]
+
+
+
+
 **Resources**
 
 ASOC Education Booklet
