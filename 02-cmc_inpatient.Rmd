@@ -12,7 +12,7 @@ output:
 
 Colorectal Surgery (Davis/Kasten) and GI Surgical Oncology (Hill/Salo/Squires) will cover Pineville and CMC. For efficiency, the services at each hospital will merge for patient care. Each patient will continue to have an attending surgeon, but rounding and inpatient care will be provided by the service.
 
-In general Dr Kasten will round on his own patients at CMC.  Dr Davis will round on his own patients if he is at CMC.
+In general Dr Kasten will round on his own patients at CMC.  
 
 ## Admissions
 
@@ -51,7 +51,7 @@ Friday and Weekend: Epic Secure Chat “CMC GI MIS Blue Surgery Attending Colore
 
 Established patients and directed should be discussed with the attending surgeon.
 
-Unassigned Colorectal: “CMC AH Colorectal Surgery Attending”
+Unassigned Colorectal: “CMC AH COLORECTAL SURGERY ATTENDING”
 
 Unassigned Surgical Oncology: “CMC LCI GI Surgical Oncology Attending”
 
@@ -98,8 +98,6 @@ The scheduler will respond with a message to the discharging resident AND to the
 
 - 11Tower: Sharon Hood
 - 6Tower: Amy Peterson
-
-
 
 ## Conferences
 

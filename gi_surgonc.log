@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.2.3)  26 MAR 2022 12:22
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.2.3)  26 MAY 2022 18:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -882,18 +882,18 @@ Overfull \hbox (3.33893pt too wide) in paragraph at lines 142--143
 /Salo/Squires)
  []
 
-[11] [12] [13] [14]
-Chapter 3.
-[15
+[11] [12] [13] [14
 
-] [16] [17] [18
+]
+Chapter 3.
+[15] [16] [17] [18
 
 ]
 Chapter 4.
 [19] [20]
 Chapter 5.
 
-Underfull \hbox (badness 1122) in paragraph at lines 437--438
+Underfull \hbox (badness 1122) in paragraph at lines 435--436
 []\TU/lmr/bx/n/10 Esophagectomy Events to be Documented (in Shared Hospital
  []
 
@@ -904,7 +904,7 @@ Underfull \hbox (badness 1122) in paragraph at lines 437--438
 ]
 Chapter 6.
 
-Overfull \hbox (2.95082pt too wide) in paragraph at lines 549--549
+Overfull \hbox (2.95082pt too wide) in paragraph at lines 547--547
 []|\TU/lmr/m/n/10 Endo|  
  []
 
@@ -942,10 +942,6 @@ Chapter 13.
 
 ]
 Chapter 14.
-
-Package natbib Warning: Citation `taylor34' on page 55 undefined on input line 
-1774.
-
 [55] [56] [57] [58] [59
 
 ] [60]
@@ -963,7 +959,7 @@ Chapter 16.
 ]
 Chapter 17.
 [69]
-Underfull \hbox (badness 1028) in paragraph at lines 2169--2170
+Underfull \hbox (badness 1028) in paragraph at lines 2157--2158
 \TU/lmr/m/n/10 Patients with metastatic esophageal cancer who need enteral acce
 ss are
  []
@@ -985,21 +981,21 @@ Missing character: There is no ″ in font [lmroman10-regular]:mapping=tex-text;
 ] [87] [88]
 Chapter 20.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 2578.
+(Font)              scaled to size 7.0pt on input line 2566.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 2578.
+(Font)              scaled to size 5.0pt on input line 2566.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00092pt on input line 2578.
+(Font)              scaled to size 10.00092pt on input line 2566.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.00064pt on input line 2578.
+(Font)              scaled to size 7.00064pt on input line 2566.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00046pt on input line 2578.
+(Font)              scaled to size 5.00046pt on input line 2566.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 2578.
+(Font)              scaled to size 9.99893pt on input line 2566.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 2578.
+(Font)              scaled to size 6.99925pt on input line 2566.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 2578.
+(Font)              scaled to size 4.99947pt on input line 2566.
 [89
 
 ] [90
@@ -1022,7 +1018,7 @@ Chapter 24.
 [97
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 2772--2772
+Underfull \hbox (badness 10000) in paragraph at lines 2760--2760
 []\TU/lmr/bx/n/14.4 Induction chemotherapy followed by
  []
 
@@ -1054,7 +1050,7 @@ Chapter 29.
 ]
 Chapter 30.
 
-Underfull \hbox (badness 2671) in paragraph at lines 2919--2919
+Underfull \hbox (badness 2671) in paragraph at lines 2907--2907
 []\TU/lmr/bx/n/14.4 Nutritional consequences of esophagec-
  []
 
@@ -1072,17 +1068,17 @@ Chapter 32.
 
 ]
 Chapter 33.
-[121] [122] [123
-
-] [124]
+[121] [122]
 Chapter 34.
-[125
+[123
 
-] [126
+] [124
 
-]
+] [125] [126]
 Chapter 35.
-[127] [128
+[127
+
+] [128
 
 ]
 Chapter 36.
@@ -1092,51 +1088,102 @@ Chapter 36.
 Chapter 37.
 [131] [132
 
-] [133] [134]
+]
 Chapter 38.
-[135
-
-] [136
+[133] [134
 
 ]
 Chapter 39.
+[135] [136
 
-Package natbib Warning: Citation `taylor34' on page 137 undefined on input line
- 3103.
+] [137] [138]
+Chapter 40.
+[139
 
-[137] [138
+] [140
 
 ]
-Chapter 40.
-[139] [140
-
-] [141] [142]
 Chapter 41.
-(./gi_surgonc.bbl [143
+[141] [142
 
-] [144
+]
+Chapter 42.
 
-] [145] [146] [147] [148] [149] [150] [151] [152]
-Underfull \hbox (badness 2005) in paragraph at lines 538--545
+Package natbib Warning: Citation `heald1479' on page 143 undefined on input lin
+e 3110.
+
+
+Package natbib Warning: Citation `quirke996' on page 143 undefined on input lin
+e 3110.
+
+
+Package natbib Warning: Citation `paty365' on page 143 undefined on input line 
+3110.
+
+[143] [144
+
+]
+Chapter 43.
+
+Package natbib Warning: Citation `kapiteijn638' on page 145 undefined on input 
+line 3119.
+
+
+Package natbib Warning: Citation `swedithrectalcancertrial980' on page 145 unde
+fined on input line 3124.
+
+
+Package natbib Warning: Citation `kapiteijn638' on page 145 undefined on input 
+line 3128.
+
+
+Package natbib Warning: Citation `575' on page 145 undefined on input line 3128
+.
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 3128--3129
+\TU/lmr/m/n/10 with preoperative radiation with no difference in survival(\TU/l
+mr/bx/n/10 ?\TU/lmr/m/n/10 ). A later
+ []
+
+[145]
+
+Package natbib Warning: Citation `bahadoer' on page 146 undefined on input line
+ 3133.
+
+
+Package natbib Warning: Citation `smith184896' on page 146 undefined on input l
+ine 3142.
+
+[146] [147
+
+] [148]
+Chapter 44.
+(./gi_surgonc.bbl [149
+
+] [150
+
+] [151] [152] [153] [154] [155] [156] [157] [158] [159]
+Underfull \hbox (badness 2005) in paragraph at lines 620--628
 []\TU/lmr/m/n/10 Stahl, M., Walz, M. K., Stuschke, M., Lehmann, N., Meyer, H.-J
 .,
  []
 
-[153] [154])
+[160] [161] [162])
 
 Package natbib Warning: There were undefined citations.
 
-[155] (./gi_surgonc.aux)
+[163] (./gi_surgonc.aux)
 Package rerunfilecheck Info: File `gi_surgonc.out' has not changed.
-(rerunfilecheck)             Checksum: FFB5C87F29273C4E3444465A91EBD52B;6361.
+(rerunfilecheck)             Checksum: 62F571828BDA3519FE4DA75652E4578D;6947.
  ) 
 Here is how much of TeX's memory you used:
- 17124 strings out of 479211
- 301464 string characters out of 5873010
- 758228 words of memory out of 5000000
- 36472 multiletter control sequences out of 15000+600000
+ 17157 strings out of 479211
+ 302182 string characters out of 5873010
+ 758969 words of memory out of 5000000
+ 36505 multiletter control sequences out of 15000+600000
  409889 words of font info for 81 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 98i,6n,122p,1804b,597s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 98i,6n,122p,1804b,617s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on gi_surgonc.pdf (155 pages).
+Output written on gi_surgonc.pdf (163 pages).
