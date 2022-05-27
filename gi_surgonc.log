@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.2.3)  26 MAY 2022 18:00
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.2.3)  27 MAY 2022 08:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1108,43 +1108,13 @@ Chapter 41.
 
 ]
 Chapter 42.
-
-Package natbib Warning: Citation `heald1479' on page 143 undefined on input lin
-e 3110.
-
-
-Package natbib Warning: Citation `quirke996' on page 143 undefined on input lin
-e 3110.
-
-
-Package natbib Warning: Citation `paty365' on page 143 undefined on input line 
-3110.
-
 [143] [144
 
 ]
 Chapter 43.
 
-Package natbib Warning: Citation `kapiteijn638' on page 145 undefined on input 
-line 3119.
-
-
-Package natbib Warning: Citation `swedithrectalcancertrial980' on page 145 unde
-fined on input line 3124.
-
-
-Package natbib Warning: Citation `kapiteijn638' on page 145 undefined on input 
-line 3128.
-
-
 Package natbib Warning: Citation `575' on page 145 undefined on input line 3128
 .
-
-
-Underfull \hbox (badness 1337) in paragraph at lines 3128--3129
-\TU/lmr/m/n/10 with preoperative radiation with no difference in survival(\TU/l
-mr/bx/n/10 ?\TU/lmr/m/n/10 ). A later
- []
 
 [145]
 
@@ -1153,7 +1123,7 @@ Package natbib Warning: Citation `bahadoer' on page 146 undefined on input line
 
 
 Package natbib Warning: Citation `smith184896' on page 146 undefined on input l
-ine 3142.
+ine 3144.
 
 [146] [147
 
@@ -1163,8 +1133,14 @@ Chapter 44.
 
 ] [150
 
-] [151] [152] [153] [154] [155] [156] [157] [158] [159]
-Underfull \hbox (badness 2005) in paragraph at lines 620--628
+] [151] [152] [153]
+Underfull \hbox (badness 1005) in paragraph at lines 232--236
+\TU/lmr/m/n/10 tal mesorectal excision for rectal cancer.  \TU/lmr/m/it/10 Lanc
+et (London, England)\TU/lmr/m/n/10 ,
+ []
+
+[154] [155] [156] [157] [158] [159]
+Underfull \hbox (badness 2005) in paragraph at lines 648--656
 []\TU/lmr/m/n/10 Stahl, M., Walz, M. K., Stuschke, M., Lehmann, N., Meyer, H.-J
 .,
  []
@@ -1178,12 +1154,12 @@ Package rerunfilecheck Info: File `gi_surgonc.out' has not changed.
 (rerunfilecheck)             Checksum: 62F571828BDA3519FE4DA75652E4578D;6947.
  ) 
 Here is how much of TeX's memory you used:
- 17157 strings out of 479211
- 302182 string characters out of 5873010
- 758969 words of memory out of 5000000
- 36505 multiletter control sequences out of 15000+600000
+ 17172 strings out of 479211
+ 302494 string characters out of 5873010
+ 759163 words of memory out of 5000000
+ 36520 multiletter control sequences out of 15000+600000
  409889 words of font info for 81 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 98i,6n,122p,1804b,617s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 98i,6n,122p,1804b,623s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on gi_surgonc.pdf (163 pages).
