@@ -10,9 +10,11 @@
 
 # Rectal Cancer Staging
 
-## MRI
+## MRI staging
 
-MERCURY group trial of predictive value of MRI for rectal cancer[@taylor34][@mercurystudygroup779]
+MRI has supplanted endoscopic ultrasound (EUS) as the study of choice for staging rectal cancer.
+
+MERCURY group trial demonstrated the predictive value of MRI for rectal cancer[@taylor34][@mercurystudygroup779]
 
 # Rectal Cancer Surgery
 
