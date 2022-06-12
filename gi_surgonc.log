@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.2.3)  27 MAY 2022 08:01
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.2.3)  11 JUN 2022 22:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -135,17 +135,9 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 )
-(c:/Users/Jonathan/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifxetex
-.sty
-Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-
 (c:/Users/Jonathan/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/iftex.s
 ty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
-))
-(c:/Users/Jonathan/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifluate
-x.sty
-Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
 (c:/Users/Jonathan/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/unicode-math/un
 icode-math.sty
@@ -904,7 +896,7 @@ Underfull \hbox (badness 1122) in paragraph at lines 435--436
 ]
 Chapter 6.
 
-Overfull \hbox (2.95082pt too wide) in paragraph at lines 547--547
+Overfull \hbox (3.61646pt too wide) in paragraph at lines 543--543
 []|\TU/lmr/m/n/10 Endo|  
  []
 
@@ -959,7 +951,7 @@ Chapter 16.
 ]
 Chapter 17.
 [69]
-Underfull \hbox (badness 1028) in paragraph at lines 2157--2158
+Underfull \hbox (badness 1028) in paragraph at lines 2153--2154
 \TU/lmr/m/n/10 Patients with metastatic esophageal cancer who need enteral acce
 ss are
  []
@@ -981,21 +973,21 @@ Missing character: There is no ″ in font [lmroman10-regular]:mapping=tex-text;
 ] [87] [88]
 Chapter 20.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 2566.
+(Font)              scaled to size 7.0pt on input line 2562.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 2566.
+(Font)              scaled to size 5.0pt on input line 2562.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00092pt on input line 2566.
+(Font)              scaled to size 10.00092pt on input line 2562.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.00064pt on input line 2566.
+(Font)              scaled to size 7.00064pt on input line 2562.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00046pt on input line 2566.
+(Font)              scaled to size 5.00046pt on input line 2562.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 2566.
+(Font)              scaled to size 9.99893pt on input line 2562.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 2566.
+(Font)              scaled to size 6.99925pt on input line 2562.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 2566.
+(Font)              scaled to size 4.99947pt on input line 2562.
 [89
 
 ] [90
@@ -1018,7 +1010,7 @@ Chapter 24.
 [97
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 2760--2760
+Underfull \hbox (badness 10000) in paragraph at lines 2756--2756
 []\TU/lmr/bx/n/14.4 Induction chemotherapy followed by
  []
 
@@ -1050,7 +1042,7 @@ Chapter 29.
 ]
 Chapter 30.
 
-Underfull \hbox (badness 2671) in paragraph at lines 2907--2907
+Underfull \hbox (badness 2671) in paragraph at lines 2903--2903
 []\TU/lmr/bx/n/14.4 Nutritional consequences of esophagec-
  []
 
@@ -1113,17 +1105,13 @@ Chapter 42.
 ]
 Chapter 43.
 
-Package natbib Warning: Citation `575' on page 145 undefined on input line 3128
+Package natbib Warning: Citation `575' on page 145 undefined on input line 3126
 .
 
 [145]
 
-Package natbib Warning: Citation `bahadoer' on page 146 undefined on input line
- 3133.
-
-
-Package natbib Warning: Citation `smith184896' on page 146 undefined on input l
-ine 3144.
+Package natbib Warning: Citation `smithe184896' on page 146 undefined on input 
+line 3142.
 
 [146] [147
 
@@ -1133,33 +1121,33 @@ Chapter 44.
 
 ] [150
 
-] [151] [152] [153]
-Underfull \hbox (badness 1005) in paragraph at lines 232--236
+] [151] [152] [153] [154]
+Underfull \hbox (badness 1005) in paragraph at lines 259--263
 \TU/lmr/m/n/10 tal mesorectal excision for rectal cancer.  \TU/lmr/m/it/10 Lanc
 et (London, England)\TU/lmr/m/n/10 ,
  []
 
-[154] [155] [156] [157] [158] [159]
-Underfull \hbox (badness 2005) in paragraph at lines 648--656
+[155] [156] [157] [158] [159] [160]
+Underfull \hbox (badness 2005) in paragraph at lines 706--714
 []\TU/lmr/m/n/10 Stahl, M., Walz, M. K., Stuschke, M., Lehmann, N., Meyer, H.-J
 .,
  []
 
-[160] [161] [162])
+[161] [162] [163] [164])
 
 Package natbib Warning: There were undefined citations.
 
-[163] (./gi_surgonc.aux)
+[165] (./gi_surgonc.aux)
 Package rerunfilecheck Info: File `gi_surgonc.out' has not changed.
 (rerunfilecheck)             Checksum: 62F571828BDA3519FE4DA75652E4578D;6947.
  ) 
 Here is how much of TeX's memory you used:
- 17172 strings out of 479211
- 302494 string characters out of 5873010
- 759163 words of memory out of 5000000
- 36520 multiletter control sequences out of 15000+600000
+ 17173 strings out of 479211
+ 302320 string characters out of 5873010
+ 759007 words of memory out of 5000000
+ 36526 multiletter control sequences out of 15000+600000
  409889 words of font info for 81 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 98i,6n,122p,1804b,623s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 98i,6n,122p,1804b,643s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on gi_surgonc.pdf (163 pages).
+Output written on gi_surgonc.pdf (165 pages).

@@ -6,8 +6,8 @@
 ]{book}
 \usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{ifxetex,ifluatex}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+\usepackage{iftex}
+\ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -69,7 +69,7 @@
 \setcounter{secnumdepth}{5}
 \usepackage{booktabs}
 
-\ifluatex
+\ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 \usepackage[]{natbib}
@@ -454,8 +454,6 @@ The medical problems currently being managed are addressed in the assessment.
 
 \begin{longtable}[]{@{}ll@{}}
 \toprule
-& \\
-\midrule
 \endhead
 N & Delirium \\
 & Stroke \\
@@ -521,11 +519,9 @@ If followup appointments in additional to surgical followup are needed, these sh
 The discharge summary documents important events and complications in the postoperative course and serves to inform the referring physician and primary physician about these events, but also serves as a blueprint for post-discharge treatment planning. Please recognize that the first post-operative visit may be with a resident who may be meeting the patient for the first time. Key items to include:
 
 \begin{longtable}[]{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.06}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.94}}@{}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.0580}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.9420}}@{}}
 \toprule
-& \\
-\midrule
 \endhead
 N & Followup plan for chronic pain management \\
 & Stroke \\
@@ -3099,15 +3095,17 @@ Seymour MT, Morton D. FOxTROT: an international randomized controlled trial in 1
 \hypertarget{rectal-cancer-staging}{%
 \chapter{Rectal Cancer Staging}\label{rectal-cancer-staging}}
 
-\hypertarget{mri}{%
-\section{MRI}\label{mri}}
+\hypertarget{mri-staging}{%
+\section{MRI staging}\label{mri-staging}}
 
-MERCURY group trial of predictive value of MRI for rectal cancer\citep{taylor34}\citep{mercurystudygroup779}
+MRI has supplanted endoscopic ultrasound (EUS) as the study of choice for staging rectal cancer.
+
+MERCURY group trial demonstrated the predictive value of MRI for rectal cancer\citep{taylor34} \citep{mercurystudygroup779}
 
 \hypertarget{rectal-cancer-surgery}{%
 \chapter{Rectal Cancer Surgery}\label{rectal-cancer-surgery}}
 
-Importance of total mesorectal excision was championed by Hill Heald {[}\citet{heald1479} ; 2425199{]} and emphasized sharp dissection of the mesorecum outside of the visceral fasial envelope. In addition he advocated dissection of the totality of the mesorectum distal to the tumor to avoid leaving behind nodes within the mesorectum distal to the tumor.{[}\citet{quirke996}; nagtegaal303;18182672{]}. \citep{paty365}
+Importance of total mesorectal excision was championed by Bill Heald \citep{heald1479} who emphasized sharp dissection of the mesorecum outside of the visceral fasial envelope. In addition he advocated dissection of the totality of the mesorectum distal to the tumor to avoid leaving behind nodes within the mesorectum distal to the tumor\citep{quirke996} \citep{nagtegaal303} \citep{paty365}.
 
 \hypertarget{rectal-adjuvant-therapy}{%
 \chapter{Rectal Adjuvant Therapy}\label{rectal-adjuvant-therapy}}
@@ -3130,18 +3128,18 @@ The Dutch trial found a reduction in local recurrence form 10.9\% to 5.6\% with 
 \hypertarget{total-neoadjuvant-therapy}{%
 \subsection{Total Neoadjuvant therapy}\label{total-neoadjuvant-therapy}}
 
-RAPIDO trial randomized 920 patients with T4 or node-positive disease to long-course chemoradiation followed by surgery vs short-course radiation followed by chemotherapy and surgery. The pCR rate was significantly higher in the short course/chemotherapy/surgery group (28\% vs 14\%) and disease-specific surival at 3years was higher (30\% vs 24\%).\citep{bahadoer}
+RAPIDO trial randomized 920 patients with T4 or node-positive disease to long-course chemoradiation followed by surgery vs short-course radiation followed by chemotherapy and surgery. The pCR rate was significantly higher in the short course/chemotherapy/surgery group (28\% vs 14\%) and disease-specific surival at 3years was higher (30\% vs 24\%).\citep{bahadoer29} \citep{vandervalk75}
 
 PRODIGE 23 randomized 461 patients with T3 or T4 recta cancers to long-course radiation followed by surgery vs induction chemotherapy, long-course radiation followed by surgery. Up-front chemotherapy was associates with increased 3-year survival (76\% vs 69\%) and an increase in rate of pathologic complete response of 28\% vs 12\%.\citep{conroy702}
 
-STELLAR trial (J clin oncol 2022 epub 3/9) TNT with short-course radiation (5Gy x 5 days) + CAPEOX chemotherapy vs long-course chemoRT with capecitibine. No differences in relapse-free survival or metastasis free survival. Overall survival better with TNT (p=0.03). On subgroup analysis, no group appeared to have more benefit. pCR rate 17\% with TNT vs 13.9\% with conventional chemoradiation. Positive margins (R1) occurred in 8.5\% of TNT patients vs 12.5\% in the conventional chemoRT group.
+STELLAR trial \citep{jin1681} TNT with short-course radiation (5Gy x 5 days) + CAPEOX chemotherapy vs long-course chemoRT with capecitibine. No differences in relapse-free survival or metastasis free survival. Overall survival better with TNT (p=0.03). On subgroup analysis, no group appeared to have more benefit. pCR rate 17\% with TNT vs 13.9\% with conventional chemoradiation. Positive margins (R1) occurred in 8.5\% of TNT patients vs 12.5\% in the conventional chemoRT group.
 
-OPRA clinical trial (Garcia-Aguilar, J Clin Oncol). 324 rectal cancer patients staged with MRI randomized to INCT (induction chemo followed by chemoRT) vs CNCT (Chemoradiation followed by chemotherapy). Patients with a resopnse were offered watch and wait. Patients without a response were treated with surgery. No difference in disease-free survival or overall survival. Among patients in watch and wait, somewhat more patients with INCT had recurrences (42 patients vs 32 patients). More organ preservation with CNCT.
+OPRA clinical trial \citep{garcia-aguilarJCO2200032}. 324 rectal cancer patients staged with MRI randomized to INCT (induction chemo followed by chemoRT) vs CNCT (Chemoradiation followed by chemotherapy). Patients with a resopnse were offered watch and wait. Patients without a response were treated with surgery. No difference in disease-free survival or overall survival. Among patients in watch and wait, somewhat more patients with INCT had recurrences (42 patients vs 32 patients). More organ preservation with CNCT. See also \citep{smith767}
 
 \hypertarget{non-operative-management-of-rectal-cancer}{%
 \section{Non-operative management of Rectal Cancer}\label{non-operative-management-of-rectal-cancer}}
 
-MSKCC published an experience of 113 patients with cCR after chemoradiation for rectal cancer who elected non-operative management \citep{smith184896}. Among this group, 22 developped a local recurrence, and 8\% developed metastatic disease.\citep{smith657}
+MSKCC published an experience of 113 patients with cCR after chemoradiation for rectal cancer who elected non-operative management \citep{smithe184896}. Among this group, 22 developped a local recurrence, and 8\% developed metastatic disease.\citep{smith657}
 
 \hypertarget{part-sarcoma}{%
 \part*{Sarcoma}\label{part-sarcoma}}
