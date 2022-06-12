@@ -121,3 +121,5 @@ non-operative-management-of-rectal-cancer
 soft-tissue-sarcomas
 desmoid-tumors
 retroperitoneal
+diagnosis
+mri-staging

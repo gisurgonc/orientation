@@ -8,7 +8,9 @@ bibliography: [zotero.bib]
 biblio-style: apalike
 link-citations: yes
 description: "Orientation Manual for GI Surgical Oncology Service"
-favicon: images/favicon.io
+apple-touch-icon: "images/icon120.png"
+apple-touch-icon-size: 120
+favicon: "images/favicon.io"
 url: https://github.com/gisurgonc/orientation
 ---
 

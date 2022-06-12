@@ -21,15 +21,15 @@ The Dutch trial found a reduction in local recurrence form 10.9% to 5.6% with pr
 
 ### Total Neoadjuvant therapy
 
-RAPIDO trial randomized 920 patients with T4 or node-positive disease to long-course chemoradiation followed by surgery  vs short-course radiation followed by chemotherapy and surgery. The pCR rate was significantly higher in the short course/chemotherapy/surgery group (28% vs 14%) and disease-specific surival at 3years was higher (30% vs 24%).[@bahadoer]
+RAPIDO trial randomized 920 patients with T4 or node-positive disease to long-course chemoradiation followed by surgery  vs short-course radiation followed by chemotherapy and surgery. The pCR rate was significantly higher in the short course/chemotherapy/surgery group (28% vs 14%) and disease-specific surival at 3years was higher (30% vs 24%).[@bahadoer29]  [@vandervalk75]
 
 PRODIGE 23 randomized 461 patients with T3 or T4 recta cancers to long-course radiation followed by surgery vs induction chemotherapy, long-course radiation followed by surgery. Up-front chemotherapy was associates with increased 3-year survival (76% vs 69%) and an increase in rate of pathologic complete response of 28% vs 12%.[@conroy702]
 
-STELLAR trial (J clin oncol 2022 epub 3/9) TNT with short-course radiation (5Gy x 5 days) + CAPEOX chemotherapy vs long-course chemoRT with capecitibine.  No differences in relapse-free survival or metastasis free survival. Overall survival better with TNT (p=0.03). On subgroup analysis, no group appeared to have more benefit. pCR rate 17% with TNT vs 13.9% with conventional chemoradiation. Positive margins (R1) occurred in 8.5% of TNT patients vs 12.5% in the conventional chemoRT group.
+STELLAR trial [@jin1681] TNT with short-course radiation (5Gy x 5 days) + CAPEOX chemotherapy vs long-course chemoRT with capecitibine.  No differences in relapse-free survival or metastasis free survival. Overall survival better with TNT (p=0.03). On subgroup analysis, no group appeared to have more benefit. pCR rate 17% with TNT vs 13.9% with conventional chemoradiation. Positive margins (R1) occurred in 8.5% of TNT patients vs 12.5% in the conventional chemoRT group.
 
-OPRA clinical trial (Garcia-Aguilar, J Clin Oncol). 324 rectal cancer patients staged with MRI randomized to INCT (induction chemo followed by chemoRT) vs CNCT (Chemoradiation followed by chemotherapy). Patients with a resopnse were offered watch and wait. Patients without a response were treated with surgery. No difference in disease-free survival or overall survival. Among patients in watch and wait, somewhat more patients with INCT had recurrences (42 patients vs 32 patients). More organ preservation with CNCT. 
+OPRA clinical trial [@garcia-aguilarJCO2200032]. 324 rectal cancer patients staged with MRI randomized to INCT (induction chemo followed by chemoRT) vs CNCT (Chemoradiation followed by chemotherapy). Patients with a resopnse were offered watch and wait. Patients without a response were treated with surgery. No difference in disease-free survival or overall survival. Among patients in watch and wait, somewhat more patients with INCT had recurrences (42 patients vs 32 patients). More organ preservation with CNCT. See also [@smith767]
 
 ## Non-operative management of Rectal Cancer
 
-MSKCC published an experience of 113 patients with cCR after chemoradiation for rectal cancer who elected non-operative management [@smith184896]. Among this group, 22 developped a local recurrence, and 8% developed metastatic disease.[@smith657]
+MSKCC published an experience of 113 patients with cCR after chemoradiation for rectal cancer who elected non-operative management [@smithe184896]. Among this group, 22 developped a local recurrence, and 8% developed metastatic disease.[@smith657]
 
