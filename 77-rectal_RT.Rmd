@@ -17,7 +17,7 @@ Swedish Rectal Cancer Trial compared surgery alone with preoperative short-cours
 
 Stockholm III trial showed that short-course radiation therapy performed 4-8 weeks prior to surgery resulted in imporved rates of pathologic complete response (12% vs 2%) compared with short-course radiation therapy performed the week prior to surgery [@pettersson972]
 
-The Dutch trial found a reduction in local recurrence form 10.9% to 5.6% with preoperative radiation with no difference in survival[@kapiteijn638]. A later update[@575;21596621 ] The Medical Research Council C07 trial compared preoperative short-course radiation with selective post-operative chemoradiation and found no difference in local recurrence (4.4% vs 10.6%) and no difference in overall survival.[@sebag-montefiore811]
+The Dutch trial found a reduction in local recurrence form 10.9% to 5.6% with preoperative radiation with no difference in survival[@kapiteijn638]. A later update[@vangijn575] The Medical Research Council C07 trial compared preoperative short-course radiation with selective post-operative chemoradiation and found no difference in local recurrence (4.4% vs 10.6%) and no difference in overall survival.[@sebag-montefiore811]
 
 ### Total Neoadjuvant therapy
 
@@ -31,5 +31,5 @@ OPRA clinical trial [@garcia-aguilarJCO2200032]. 324 rectal cancer patients stag
 
 ## Non-operative management of Rectal Cancer
 
-MSKCC published an experience of 113 patients with cCR after chemoradiation for rectal cancer who elected non-operative management [@smithe184896]. Among this group, 22 developped a local recurrence, and 8% developed metastatic disease.[@smith657]
+MSKCC published an experience of 113 patients with cCR after chemoradiation for rectal cancer who elected non-operative management [@smithe185896]. Among this group, 22 developped a local recurrence, and 8% developed metastatic disease.[@smith657]
 

@@ -37,7 +37,6 @@ ge-junction
 eso_dcrt
 radiation
 esophagectomy
-esophagectomy-1
 transthoracic
 transhiatal
 three-hole

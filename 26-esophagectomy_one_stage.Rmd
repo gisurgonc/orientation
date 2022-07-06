@@ -8,18 +8,29 @@ output:
 # = history and physical
 # Nutritional evaluation
 ```
-# Esophagectomy One Stage
+# Esophagectomy 1 Stage
 
-Indications
+## Indications
 
-MI Ivor Lewis (“One Stage”) esophagectomy is the most common approach to esophagectomy. The patient is positioned in ‘corkscrew’ position to allow simultaneous access to the abdomen and chest by prepping both abdomen and chest. Room Prep
+MI Ivor Lewis (“One Stage”) esophagectomy is the most common approach to esophagectomy. The patient is positioned in ‘corkscrew’ position to allow simultaneous access to the abdomen and chest by prepping both abdomen and chest. 
+
+## Room Prep
 
 Confirm positioning equipment (Salo positioner 'bucket'):
 
-Four black side-rail clamps
-Four rectangular lateral positioners
-Yassargil socket OR large-bore Clark socket
-Well-leg holder (used as an arm holder)
+- Four black side-rail clamps
+- Four rectangular lateral positioners
+- Yassargil socket OR large-bore Clark socket
+- Well-leg holder (used as an arm holder)
+
+Critical supplies (chek prior to pt in room)
+
+- Stapler 25mm DSTXL
+- Orvil 25mm
+- Stapler 21mm DSTXL
+- Orvil 21mm
+- Eschelon 60mm stapler with 10 gold loads and 2 gray loads
+
 Review Clinical Information
 
 Stentor open with initial PET scan (for surgical planning)
@@ -30,19 +41,21 @@ Review initial endoscopy report with attention to:
 
 **Anesthesia**
 
-Confirm that anesthesia has a copy of Dr Campbell’s protocol
-Dual-lumen ETT tube (taped to left)
-Arterial line (left arm will be on arm board)
-Anesthesia may place paraspinal muscle blocks. 
+- Dual-lumen ETT tube (taped to left)
+- Arterial line (left arm will be on arm board)
+- Anesthesia may place paraspinal muscle blocks on right side. 
 
 Position
 Supine on blue foam pad without draw sheet. Surgeon marks upper midline with non-sterile skin marker Foley catheter (with Criticor temperature sensor) Bovie pad Lower-body Bair Hugger at level of thighs Hair clipped from abdomen, right chest, and right axilla with electric clippers. If jejunostomy in place, it is usually prepped into the field. If there is an eschar at the jejunostomy site, this should be removed prior to prep. Jejunostomy is brought inferior and taped to skin (or sutured to skin with a 0 silk suture with a Keith needle) Shoulders are shifted to the right in preparation for ‘corkscrew’ positioning Lateral positioners positioned with pad extending from greater trochanter inferiorly. Leather strap over thighs with strap inside of bars of lateral positioners Left arm on armboard Yassargil socket attached to headpiece of bed on left side. Well-leg holder attached to Yassargil socket and used to support right forearm (which will cross body) Right arm crosses body and is supported on well-leg holder.
 
-Lateral positioner placed posterior to spine to support right chest in rolling to the left. This allows access to the right chest for thoracoscopy. Arm holder is dropped towards the floor enough that right arm is brought forward. Prep
+Lateral positioner placed posterior to spine and scapula to support right chest in rotating bed to the left. This allows access to the right chest for thoracoscopy. Arm holder is dropped towards the floor enough that right arm is brought forward. 
+
+### Prep
 
 Chloroprep (two sticks) of abdomen, right chest, right axilla. Particular attention to prepping as far as possible to the left lateral side and the right lateral side. Nipple prepped into field.
 
-Drape
+### Drape
+
 Perimeter of field draped with 1000 (clear adhesive) drapes. Two blue plastic “U” drapes with center of the “U” on either lateral side with tails forming the perimeter of the field Trauma drape. All of right chest and axilla is kept within the field, as is the lateral aspect of the left upper quadrant. The field does not need to extend inferior to the umbilicus. In general, it is usually possible to keep all of these area in the field without cutting the drape, except in very large patients. Ioban over the surgical field after the trauma drape. Laparoscopic cords (gas, light cord, camera) to tower at left shoulder. Suction irrigator brought off field at left shoulder. Laparoscopic LigaSure (2 bars) and Bovie (30/30).
 
 Time Out
