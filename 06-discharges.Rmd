@@ -12,7 +12,7 @@ output:
 
 **Discharge Prescriptions**
 
-Prescriptions should be ideally be prepared the day prior to anticipated discharge and left in the patient’s ‘soft chart.’ According to North Carolina STOP guidelines, opioid prescriptions for postoperative patients should be for no more than a 7 day supply.
+Prescriptions should be ideally be prepared the day prior to anticipated discharge and sent to the patient's pharmacy. According to [North Carolina STOP guidelines](https://www.ncmedboard.org/images/uploads/license_applications/STOPAct-focusedFAQs-Sept2019.pdf), opioid prescriptions for postoperative patients should be for no more than a 7 day supply.
 
 
 **Additional Appointments**

@@ -27,7 +27,7 @@ Laparoscopy may be helpful in Siewert III tumors [@degraaf988]
 
 ### Preoperative Evaluation
 
-Dysphagia can be scored accordgin to Mellow et al [@mellow1443]:
+Dysphagia can be scored according to Mellow et al [@mellow1443]:
 
  - 0 No dysphagia
  - 1 Dysphagia to normal solids
@@ -38,7 +38,7 @@ Dysphagia can be scored accordgin to Mellow et al [@mellow1443]:
 
 ## Minimally-invasive Esophagectomy
 
-Higher lymph node yield with MIE vs open approach [@kalff]
+Higher lymph node yield with MIE vs open approach [@klaff]
 
 ## Transthoracic
 
