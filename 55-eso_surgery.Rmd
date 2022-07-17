@@ -38,7 +38,7 @@ Dysphagia can be scored according to Mellow et al [@mellow1443]:
 
 ## Minimally-invasive Esophagectomy
 
-Higher lymph node yield with MIE vs open approach [@klaff]
+Higher lymph node yield with MIE vs open approach [@kalffa]
 
 ## Transthoracic
 
