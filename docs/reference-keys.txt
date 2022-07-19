@@ -20,6 +20,8 @@ rounds-2
 progress-notes
 discharges
 education
+clinic-1
+salo-clinic
 colectomy
 lar-ileostomy
 chest-tubes

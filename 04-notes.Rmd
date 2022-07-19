@@ -39,7 +39,7 @@ Each day, an additional line is added to the Shared Hospital Course which summar
 Assessment/Plan
 The medical problems currently being managed are addressed in the assessment.
 
-**Esophagectomy Events to be Documented (in Shared Hospital Course):**
+**Esophagectomy Events to be Documented:**
 
 - Extubation date/time
 - NG Removal date
@@ -48,7 +48,7 @@ The medical problems currently being managed are addressed in the assessment.
 - ICU DC orders written
 - ICU discharge (transfer to ward)
 
-**Esophagectomy Complications to be Documented (in Shared Hospital Course):**
+**Esophagectomy Complications to be Documented:**
 
 |||
 |----|-----------------------------------------------------------------|
@@ -76,4 +76,4 @@ The medical problems currently being managed are addressed in the assessment.
 
 Please add an addendum at the BOTTOM of each progress note which includes a means for contacting the team:
 
-Please message "CMC LCI GI Surgical 1st Call" via Halo 24/7.  Messages are automatically forwarded to the General Surgery Resident on Call evenings and weekends.
+Please message "GI Surgical Oncology LCI CMC" via Haiku 24/7.  Messages are automatically forwarded to the General Surgery Resident on Call evenings and weekends.

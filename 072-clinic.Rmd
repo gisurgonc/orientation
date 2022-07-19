@@ -1,0 +1,21 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+```{r, include=F}
+# Placeholder for clinical evaluation
+# = history and physical
+# Nutritional evaluation
+```
+# Clinic
+
+Clinic is an essential part of the educational experience as this is where preoperative evaluation and surgical planning is done.
+
+## Salo Clinic
+
+Notes are generated using the .LCICONSULT SmartPhrase template. The will automatically pull in the names of the cancer care team (medical oncologist, gastroenterologist).  History from prior notes can be pulled in and placed in the Subjective section. The problems pertinent to the visit are designated. 
+
+As always, notes which are copied forward need to be carefully proofread to avoid errors. For instance, when a patient returns for a postop visit, it is important not to carry forward text from the preoperative note that states 'surgery next week.
+
+It is important that authorship be clearly communicated, particularly with regard to assessment and plan.  In many cases, the assessment and plan area straightforward and can be copied forward from the prior Assessment/Plan.  In some cases, clinical decision-making involves a judgement call. This is incidated in Dr Salo's notes as 'I would recommend...' In these cases, please do no copy the assessment notes verbatim to avoid confusion about whose opinions are being quoted. 
