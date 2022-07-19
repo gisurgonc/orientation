@@ -3,47 +3,44 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: gi_surgonc.aux
 The style file: apalike.bst
 Database file #1: zotero.bib
-Warning--I didn't find a database entry for "bridda32"
-Warning--I didn't find a database entry for "li539"
-You've used 115 entries,
+You've used 117 entries,
             1935 wiz_defined-function locations,
-            1109 strings with 51004 characters,
-and the built_in function-call counts, 82152 in all, are:
-= -- 7100
-> -- 7121
-< -- 14
-+ -- 2726
-- -- 2712
-* -- 8870
-:= -- 14732
-add.period$ -- 345
-call.type$ -- 115
-change.case$ -- 1931
-chr.to.int$ -- 115
-cite$ -- 115
-duplicate$ -- 1630
-empty$ -- 3611
-format.name$ -- 2845
-if$ -- 14861
+            1116 strings with 51292 characters,
+and the built_in function-call counts, 82958 in all, are:
+= -- 7178
+> -- 7157
+< -- 15
++ -- 2738
+- -- 2724
+* -- 8946
+:= -- 14874
+add.period$ -- 351
+call.type$ -- 117
+change.case$ -- 1947
+chr.to.int$ -- 117
+cite$ -- 117
+duplicate$ -- 1658
+empty$ -- 3666
+format.name$ -- 2861
+if$ -- 15015
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 115
-newline$ -- 578
-num.names$ -- 345
-pop$ -- 1691
+missing$ -- 117
+newline$ -- 588
+num.names$ -- 351
+pop$ -- 1702
 preamble$ -- 1
-purify$ -- 1931
+purify$ -- 1947
 quote$ -- 0
-skip$ -- 1194
+skip$ -- 1215
 stack$ -- 0
-substring$ -- 4688
-swap$ -- 136
+substring$ -- 4743
+swap$ -- 138
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 690
+type$ -- 702
 warning$ -- 0
-while$ -- 441
+while$ -- 448
 width$ -- 0
-write$ -- 1497
-(There were 2 warnings)
+write$ -- 1523

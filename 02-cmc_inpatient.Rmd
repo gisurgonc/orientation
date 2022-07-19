@@ -28,11 +28,11 @@ Attending rounds for both services (CR and SurgOnc) start at 6am in STICU or 11T
 
 ## Resident Epic teams:
 
-CMC LCI GI SURGICAL ONCOLOGY NEW CONSULT
-CMC LCI GI SURGICAL ONCOLOGY CALL
-CMC LCI GI SURGICAL ONCOLOGY TEAM
-CMC AH COLORECTAL SURGERY CALL
-CMC AH COLORECTAL SURGERY CALL - DAVIS/KASTEN
+- CMC LCI GI SURGICAL ONCOLOGY NEW CONSULT
+- CMC LCI GI SURGICAL ONCOLOGY CALL
+- CMC LCI GI SURGICAL ONCOLOGY TEAM
+- CMC AH COLORECTAL SURGERY CALL
+- CMC AH COLORECTAL SURGERY CALL - DAVIS/KASTEN
 
 Residents will be assigned to Epic teams by schedule. It is critical that you notify service attendings before the start of the month to adjust the resident call schedule. Each “shift” is 5:50am to 6pm. At 6pm the resident Halo Teams will be forwarded to the night team.
 
@@ -40,8 +40,8 @@ Please append a text block to the bottom of each progress note specifying the Ha
 
 ## Attending Epic teams:
 
-CMC AH COLORECTAL SURGERY ATTENDING
-CMC LCI GI SURGICAL ONCOLOGY ATTENDING
+- CMC AH COLORECTAL SURGERY ATTENDING
+- CMC LCI GI SURGICAL ONCOLOGY ATTENDING
 
 Monday through Thursday (24hr), please contact the attending surgeon for each patient. For Surgical Oncology, please use Haiku. For Colorectal, please use phone.
 
@@ -55,8 +55,8 @@ Unassigned Colorectal: “CMC AH COLORECTAL SURGERY ATTENDING”
 
 Unassigned Surgical Oncology: “CMC LCI GI Surgical Oncology Attending”
 
-In general, benign colorectal consults are staffed by Dr Davis. Colorectal malignancies ares.
- staffed as below. Esophageal and GE junction staffed by Dr Salo. Adenocarcinoma of distal stomach: Drs Salo/Squires. Gastric GIST: Drs Hill/Salo/Squires. Squires/Hill alternate week
+In general, benign colorectal consults are staffed by Dr Davis. Colorectal malignancies are staffed as below. Esophageal and GE junction staffed by Dr Salo. Adenocarcinoma of distal stomach: Drs Salo/Squires. Gastric GIST: Drs Hill/Salo/Squires. Squires/Hill alternate week
+ 
 |  | Mon | Tues | Weds | Thu | Fri |
 |---|---|---|---|---|---|
 | CR Malig | JSH | MHS | MHS<br>JSH | JCS | MHS<br>JSH |
@@ -88,7 +88,7 @@ Please include the following information in the Canopy Message:
   - Chest X-ray
   - Modified Barium Swallow
 
-If messages cannot be sent in time, clinic schedulers can be reached at: Marsha Sukhdeo (Salo and Squires): 980-442-6110 or  (Hill): 980-442-6183.
+If messages cannot be sent in time, clinic schedulers can be reached at: Marsha Sukhdeo (Salo and Squires): 980-442-6110 or Carmen Davis  (Hill): 980-442-6183.
 
 If schedulers are not available, clinic RNs can be reached at:   (Hill) 980-442-6146 or (Salo and Squires) 980-442-6143.
 
