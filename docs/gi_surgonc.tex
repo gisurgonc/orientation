@@ -33,13 +33,6 @@
   \KOMAoptions{parskip=half}}
 \makeatother
 \usepackage{xcolor}
-\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
-\hypersetup{
-  pdftitle={GI Surgical Oncology},
-  hidelinks,
-  pdfcreator={LaTeX via pandoc}}
-\urlstyle{same} % disable monospaced font for URLs
 \usepackage{longtable,booktabs,array}
 \usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
@@ -74,6 +67,13 @@
 \fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={GI Surgical Oncology},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
 
 \title{GI Surgical Oncology}
 \author{}
@@ -205,13 +205,13 @@ Unassigned Surgical Oncology: ``CMC LCI GI Surgical Oncology Attending''
 In general, benign colorectal consults are staffed by Dr Davis. Colorectal malignancies are staffed as below. Esophageal and GE junction staffed by Dr Salo. Adenocarcinoma of distal stomach: Drs Salo/Squires. Gastric GIST: Drs Hill/Salo/Squires. Squires/Hill alternate week
 
 \begin{longtable}[]{@{}llllll@{}}
-\toprule
+\toprule()
 & Mon & Tues & Weds & Thu & Fri \\
-\midrule
+\midrule()
 \endhead
 CR Malig & JSH & MHS & MHSJSH & JCS & MHSJSH \\
 GI Surg Onc & JSH & MHS & MHSJSH & JCS & MHSJSH \\
-\bottomrule
+\bottomrule()
 \end{longtable}
 
 \hypertarget{postop-clinic-appts}{%
@@ -471,7 +471,7 @@ The medical problems currently being managed are addressed in the assessment.
 \textbf{Esophagectomy Complications to be Documented:}
 
 \begin{longtable}[]{@{}ll@{}}
-\toprule
+\toprule()
 \endhead
 N & Delirium \\
 & Stroke \\
@@ -492,7 +492,7 @@ GU & Urinary Retention \\
 H & DVT req treatment \\
 & Return to OR \\
 & Return to ICU \\
-\bottomrule
+\bottomrule()
 \end{longtable}
 
 \textbf{Communication}
@@ -539,7 +539,7 @@ The discharge summary documents important events and complications in the postop
 \begin{longtable}[]{@{}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.0580}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.9420}}@{}}
-\toprule
+\toprule()
 \endhead
 N & Followup plan for chronic pain management \\
 & Stroke \\
@@ -561,7 +561,7 @@ H & Complications: DVT \textbar{} PE \\
 Endo & Insulin regimen at DC (dose will be in med rec) \\
 ID & Antibiotics at DC \\
 & Return to ICU \\
-\bottomrule
+\bottomrule()
 \end{longtable}
 
 \textbf{Communication}
@@ -1867,9 +1867,9 @@ Diabetic patients receiving insulin will need careful coordination of tube feedi
 In either case it is critical that if tube feedings are stopped, standing insulin administration (either q6 hour OR 1800 and MN) be stopped as well. In these cases, sliding scale insulin is generally continued.
 
 \begin{longtable}[]{@{}llll@{}}
-\toprule
+\toprule()
 Day & Time & Tube Feeds & Insulin \\
-\midrule
+\midrule()
 \endhead
 SUN & MN & 60mL/hr & 8N+4R \\
 Mon & 6am & 60mL/hr & 8N+R \\
@@ -1880,7 +1880,7 @@ Tues & 10am & Stop & None \\
 Tues & 6pm & 75mL/hr & 16N+ 8R \\
 Tues & MN & 75mL/hr & 16N+ 8R \\
 Weds & 10am & Stop & None \\
-\bottomrule
+\bottomrule()
 \end{longtable}
 
 In this example, the patient was receiving 8N + 4R every 6 hours, so total insulin units per day is (8+4) x 4 = 48units. Because the carbohydrate load of 60mL/hour x 24 is roughly equivalent to 75mL/hour x 16 hours, the total insulin administered is roughly the same. When converted to nocturnal dosing, the patient now received 16+8 = 24 units twice (6pm and MN) = 48U. In practice, it may be wiser to begin by adjusting the dose down a little, to perhaps 14U N and 7U R for the first night.
