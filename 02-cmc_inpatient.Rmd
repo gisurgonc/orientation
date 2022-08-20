@@ -16,7 +16,7 @@ In general Dr Kasten will round on his own patients at CMC.
 
 ## Admissions
 
-Admitting Provider: “CMC GI SURGICAL ONCOLOGY”
+Admitting Provider: “GI Surg Onc Attending LCI CMC”
 
 List Attending Surgeon in addition
 
@@ -28,32 +28,31 @@ Attending rounds for both services (CR and SurgOnc) start at 6am in STICU or 11T
 
 ## Resident Epic teams:
 
-- CMC LCI GI SURGICAL ONCOLOGY NEW CONSULT
-- CMC LCI GI SURGICAL ONCOLOGY CALL
-- CMC LCI GI SURGICAL ONCOLOGY TEAM
-- CMC AH COLORECTAL SURGERY CALL
-- CMC AH COLORECTAL SURGERY CALL - DAVIS/KASTEN
+- GI Surgical Oncology LCI CMC
+- Colorectal CMC
+- Colorectal Surgery Pineville
 
-Residents will be assigned to Epic teams by schedule. It is critical that you notify service attendings before the start of the month to adjust the resident call schedule. Each “shift” is 5:50am to 6pm. At 6pm the resident Halo Teams will be forwarded to the night team.
+Residents will be assigned to Epic teams by schedule. It is critical that you notify service attendings before the start of the month to adjust the resident call schedule. Each “shift” is 5:50am to 6pm. At 6pm the resident Epic Teams will be forwarded to the night team.
 
-Please append a text block to the bottom of each progress note specifying the Halo Team for that patient to facilitate communication from nursing.
+Please append a text block to the bottom of each progress note specifying the Epic Team for that patient to facilitate communication from nursing.
 
 ## Attending Epic teams:
 
-- CMC AH COLORECTAL SURGERY ATTENDING
-- CMC LCI GI SURGICAL ONCOLOGY ATTENDING
+Monday through Thursday (24hr), please contact the attending surgeon for each patient. For Surgical Oncology, please use Haiku to GI Surg Onc Attending LCI CMC. For Colorectal, please use phone.
 
-Monday through Thursday (24hr), please contact the attending surgeon for each patient. For Surgical Oncology, please use Haiku. For Colorectal, please use phone.
+Friday and Weekend: Epic Secure Chat to attending. This will automatically be forwarded to covering attending:
 
-Friday and Weekend: Epic Secure Chat “CMC GI MIS Blue Surgery Attending Colorectal Onc” for new admissions. Please keep Surgical Oncology attending informed of inpatient issues.
+- GI Surg Onc Attending LCI CMC
+- Colorectal Attending CMC
+- Colorectal Surgery Pineville
 
 ## Consults
 
 Established patients and directed should be discussed with the attending surgeon.
 
-Unassigned Colorectal: “CMC AH COLORECTAL SURGERY ATTENDING”
+Unassigned Colorectal: Contact Attending directly
 
-Unassigned Surgical Oncology: “CMC LCI GI Surgical Oncology Attending”
+Unassigned Surgical Oncology: “GI Surgical Oncology LCI CMC”
 
 In general, benign colorectal consults are staffed by Dr Davis. Colorectal malignancies are staffed as below. Esophageal and GE junction staffed by Dr Salo. Adenocarcinoma of distal stomach: Drs Salo/Squires. Gastric GIST: Drs Hill/Salo/Squires. Squires/Hill alternate week
  
@@ -62,7 +61,7 @@ In general, benign colorectal consults are staffed by Dr Davis. Colorectal malig
 | CR Malig | JSH | MHS | MHS<br>JSH | JCS | MHS<br>JSH |
 | GI Surg Onc | JSH | MHS | MHS<br>JSH | JCS | MHS<br>JSH |
 
-## Postop Clinic Appts
+## Postop Clinic Appt
 
 Postoperative patients are generally seen for a Transition of Care visit within the first week
 
@@ -80,9 +79,8 @@ Please include the following information in the Canopy Message:
 
 - Name of attending
 - Ward from which the patient is being discharged
-- Desired date for appointment
-- Need for Wound Ostomy RN appointment at same time (essential for new stomas)
-- Need for bloodwork at first
+- Desired date for appt @ same time
+- Need for bloodwork at first visit
 - Other studies to be done after discharge
   - Upper GI
   - Chest X-ray
@@ -90,7 +88,7 @@ Please include the following information in the Canopy Message:
 
 If messages cannot be sent in time, clinic schedulers can be reached at: Marsha Sukhdeo (Salo and Squires): 980-442-6110 or Carmen Davis  (Hill): 980-442-6183.
 
-If schedulers are not available, clinic RNs can be reached at:   (Hill) 980-442-6146 or (Salo and Squires) 980-442-6143.
+If schedulers are not available, clinic RNs can be reached at: (Hill) 980-442-6146 or (Salo and Squires) 980-442-6143.
 
 For patients likely to go home over the weekend or holidays, please plan to send a canopy message before 3pm on Friday or the day prior.
 
@@ -101,6 +99,6 @@ The scheduler will respond with a message to the discharging resident AND to the
 
 ## Conferences
 
-- GI Tumor Planning Conference Monday 7-8am
-- Resident Teaching Conference Tuesday 7-8am 5th floor LCI II. Please review the upcoming clinic schedule and choose a case to present.
-- Bone and Soft Tissue Conference Friday 7-8am
+- GI Tumor Planning Conf Mon 7-8am
+- Resident Teaching Conf Tues 7-8am 5th floor LCI II. Please review the upcoming clinic schedule and choose a case to present.
+- Bone and Soft Tissue Conf Fri 7-8am

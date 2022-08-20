@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2020/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: gi_surgonc.aux
+The style file: apalike.bst
+Database file #1: zotero.bib
+You've used 117 entries,
+            1935 wiz_defined-function locations,
+            1116 strings with 51292 characters,
+and the built_in function-call counts, 82958 in all, are:
+= -- 7178
+> -- 7157
+< -- 15
++ -- 2738
+- -- 2724
+* -- 8946
+:= -- 14874
+add.period$ -- 351
+call.type$ -- 117
+change.case$ -- 1947
+chr.to.int$ -- 117
+cite$ -- 117
+duplicate$ -- 1658
+empty$ -- 3666
+format.name$ -- 2861
+if$ -- 15015
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 117
+newline$ -- 588
+num.names$ -- 351
+pop$ -- 1702
+preamble$ -- 1
+purify$ -- 1947
+quote$ -- 0
+skip$ -- 1215
+stack$ -- 0
+substring$ -- 4743
+swap$ -- 138
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 702
+warning$ -- 0
+while$ -- 448
+width$ -- 0
+write$ -- 1523
