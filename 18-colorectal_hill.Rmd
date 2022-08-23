@@ -10,11 +10,9 @@ output:
 ```
 # (PART\*) Hill OR {-}
 
-# Colorectal Cases - Hill
+# Colorectal Cases - Hill/Squires
 
 **Pre-op holding**
-
-Please make sure that these ordersets have been placed prior to day of surgery. If inpatient consult, place these orders the morning of surgery in order to minimize confusion.
 
 ADULT SURG Colorectal ERAS MPP Hill This is what has all of the main ERAS components. Tylenol, gabapentin, Decadron, Alvimopan and heparin are all given in pre-op holding
 
@@ -30,4 +28,4 @@ Right sided=supine; Left sided=lithotomy; All laparoscopic colon cases will have
 
 NG/OG tubes Not needed. I will have anesthesia place if we have gastric distension. We give a multiple PO meds prior.
 
-Review anesthesia fluid management during time out. 1.6L max volume, urine output not an accurate indicator.
+Review anesthesia fluid management during time out. 2L max volume, urine output not an accurate indicator.

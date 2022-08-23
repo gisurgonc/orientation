@@ -69,10 +69,9 @@ output:
 **Postop Day 1**
 
 - Labs: K+ and CBC only
-- d/c “pre” plan & colon visit
 - Heparin lock IV
 - Remove Foley
-- d/c PCA (unless laparotomy)
+- d/c PCA (unless open incision)
 - Out of bed > 6 hrs
 - Diet: low residue
 - Pain management
@@ -82,14 +81,10 @@ output:
   4) Tramadol
   5) Home meds
   6) Oxy if lots of pain
-- Discharge planning
-1) Possible home today!(25% will go home POD1)
-2) Check patient 2-3PM
 - Afternoon rounds
-1) Possible home today!
-2) Check patient 2-4PM
-3) Ambulation 2x’s by PM
-4) Patient education
+1) Check patient 2-4PM
+2) Ambulation 2x’s by PM
+3) Patient education
 
 **Postop Day 2**
 

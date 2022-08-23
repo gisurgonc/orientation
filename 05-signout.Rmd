@@ -16,4 +16,4 @@ The Handoff Tool should be completed for all inpatients, and the responsible att
 
 **Weekend Signout**
 
-The chief resident is responsible for making certain that the weekend rounding resident is familiar with the patients, their problems, and the plan of care. A signout email should be prepared Friday afternoon and forwarded to the service attendings by 6pm for their review. This signout can then be edited with the attendings’ notes and forwarded to the weekend rounding attending.
+The senior resident is responsible for making certain that the weekend rounding resident is familiar with the patients, their problems, and the plan of care. A signout email should be prepared Friday afternoon and forwarded to the service attendings by 6pm for their review. This signout can then be edited with the attendings’ notes and forwarded to the weekend rounding attending.

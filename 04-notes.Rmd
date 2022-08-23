@@ -26,17 +26,12 @@ output:
 ```
 # Progress Notes
 
-Progress notes should include a comprehensive summary of pertinent information for the patient’s medical care.
+Progress notes should include a comprehensive summary of pertinent information for the patient’s medical care. 
 
-A running summary of events is recorded in the Shared Hospital Course under Inpatient Workflow
+Each day, the event of the hospitalization is carried from note to note. Each day, an additional line is added to the progress note which summarizes events for that day. This makes it possible to see within each Progress Note the pertinent events for the hospitalization. These events would include extubation, re-intubation, positive cultures, dates lines are inserted or removed, dates of removal of NG tubes and drains, and transfer to ward or re-admission to ICU. This chronology assists in treatment decisions (“how old is the IJ line” or “when did we start antibiotics?” or “when is the planned antibiotic stop date”?) but also makes the discharge summary much easier to prepare.
 
-Each day, this section is carried from note to note so that each progress note contains the cancer history and the daily events.
+**Assessment/Plan**
 
-The Progress Note then includes the date and a one-line summary of the operation performed and any intraoperative complications or events which impact the post-operative care.
-
-Each day, an additional line is added to the Shared Hospital Course which summarizes events for that day. This makes it possible to see within each Progress Note the pertinent events for the hospitalization. These events would include extubation, re-intubation, positive cultures, dates lines are inserted or removed, dates of removal of NG tubes and drains, and transfer to ward or re-admission to ICU. This chronology assists in treatment decisions (“how old is the IJ line” or “when did we start antibiotics?” or “when is the planned antibiotic stop date”?) but also makes the discharge summary much easier to prepare.
-
-Assessment/Plan
 The medical problems currently being managed are addressed in the assessment.
 
 **Esophagectomy Events to be Documented:**

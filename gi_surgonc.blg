@@ -1,11 +1,13 @@
-This is BibTeX, Version 0.99d (TeX Live 2020/W32TeX)
+This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: gi_surgonc.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
 The style file: apalike.bst
+Reallocating 'name_of_file' (item size: 1) to 7 items.
 Database file #1: zotero.bib
 You've used 117 entries,
             1935 wiz_defined-function locations,
-            1116 strings with 51292 characters,
+            1116 strings with 51288 characters,
 and the built_in function-call counts, 82958 in all, are:
 = -- 7178
 > -- 7157

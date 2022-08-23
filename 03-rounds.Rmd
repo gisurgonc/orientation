@@ -36,6 +36,7 @@ ID: WBC, Tmax in past 24 hours, culture results.
 
 Endo: Diabetic regimen, blood sugar range, and amount of sliding scale insulin administered in the prior 24 hours.
 
+
 **Problem-Oriented Plan:**
 
-Each of the patients problems are addressed with an assessment and plan.  Pre-existing medical problems and postoperative complications need to be addressed in the plan
+Each of the patients problems are addressed with an assessment and plan.  Pre-existing medical problems and postoperative complications need to be addressed in the plan.  An assessment and plan for each organ system is usually not necessary, except for the most complex patients.

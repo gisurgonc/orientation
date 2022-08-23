@@ -43,15 +43,6 @@ Please notify Dr Hill, Dr Salo and Dr Squires before the beginning of the rotati
 
 Please use Haiku for messaging service attendings rather than SMS. Please check our status prior to messaging nights and weekends. If we are listed as unavailable, please contact *GI Surg Onc Attending LCI CMC*.
 
-## Inpatients
-
-By in large, service attendings all wish to know about major changes in the status of our own patients. For most of the issues for which you would need to contact an attending at night, we would prefer that you Haiku us directly rather than the on-call person. This desire is 24/7 (unless Haiku says that attending is “off”).
-
-## ER admits
-
-We would ask to use a combination of communication for ER admissions. All patients must be discussed with an attending.
-• If the patient is stable, does not need surgery, etc. then we would ask you to contact *GI Surg Onc Attending LCI CMC*. Please contact them according to that attending’s preferences (page, text, call, etc).
-• If the patient is unstable, may need surgery or will have ongoing and/or have intensive management needs the following day please notify that patient’s surgical oncology attending directly. The difference is that this patient is sick - we would like to know about all of our sick patients. If the Surg Onc attending is listed as “off” within Haiku/Secure Chat then please contact *GI Surg Onc Attending LCI CMC* via Epic Secure Chat.
 
 ## Medical Records
 
@@ -63,7 +54,7 @@ Completion of operative logs is critical for board certification of the individu
 
 ## Case Assignment
 
-The senior resident will be expected to make case assignments for junior residents and students. It in not necessary split the month by attending - splitting by case is acceptable as well.  We also expect that  both residents know all the patients rather than just for one attending. This helps with nursing questions, etc.
+The senior resident will be expected to make case assignments for junior residents and students. It in not necessary split the month by attending - splitting by case is acceptable as well. We also expect that both residents know all the patients rather than just for one attending. This helps with nursing questions, etc.
 
 ## Clinic
 

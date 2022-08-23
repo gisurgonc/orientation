@@ -16,7 +16,7 @@ output:
 - Monday - Dr Squires
 - Tuesday - Dr Hill
 
-Starting time for rounds is variable from day to day.
+Starting time for rounds is variable from day to day.  Dr Kasten will round on his own patients.
 
 Maddie Georgino will help organize work and timing of rounds, etc.
 
@@ -37,12 +37,12 @@ Established patients and directed should be discussed with the attending surgeon
 
 ## Postop Clinic Appts
 
-Postoperative patients are generally seen for a Transition of Care visit within the first week
+Postoperative patients are generally seen for a Transition of Care visit at about two weeks.
 
 Discharge appointments are made by sending a message in Canopy the evening prior (preferred) OR the morning of discharge before 8am to:
 
 - Hale Mock
-- Syreeta McNair
+- Kamisha Wilson
 - Madeline Georgino
 
 Please include the following information in the Canopy Message:
