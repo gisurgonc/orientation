@@ -24,5 +24,5 @@ colnames(df)
 df$BIBTEXKEY
 
 
-zotero_url.bib <- tempfile()
-df2bib(df, file = zotero_url.bib)
+'zotero_url.bib' <- tempfile()
+df2bib(df_raw, file = 'zotero_url.bib')
