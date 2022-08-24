@@ -15,8 +15,10 @@ Minimally-invasive approaches to esophagectomy are now common, with evidence for
 
 Randomized trial of a hybrid MIE (with laparoscopy and thoracotomy) was associated with lower postoperative complications than open esophagectomy [@mariette152]
 
-High volume  [@birkmeyer2117] [@wouters1789] 
+High volume centers have lower mortality for esophageal cancer than low-volume centers. [@birkmeyer2117] [@wouters1789] 
 
+
+### GE Junction Adenocarcinoma
 
 Siwert III lesions are considered gastric cancers [@rusch444]  [@siewert260] <!--- Scand J surg--->
 
@@ -39,14 +41,6 @@ Dysphagia can be scored according to Mellow et al [@mellow1443]:
 ## Minimally-invasive Esophagectomy
 
 Higher lymph node yield with MIE vs open approach [@kalffa]
-
-## Transthoracic
-
-## Transhiatal
-
-## Three-hole
-
-## Extended lymphadenectomy
 
 ## Early Recovery Pathways
 
