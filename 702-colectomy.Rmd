@@ -1,0 +1,24 @@
+# Partial Colectomy SCORE  {#PColectomyObj}
+
+[Partial Colectomy CORE](https://www.surgicalcore.org/modulecontent.aspx?id=129670)
+
+**Indications**
+
+**Operative Anatomy**
+
+**Preop Prep**
+
+  - Antibiotics
+  - Stoma marking
+  - Ureteral stents
+
+**Complications**
+
+  - Anastomotic leak
+  - Ureteral injury
+
+
+**Resources**
+
+[ASCRS Guidelines for Early Recovery](https://fascrs.org/ascrs/media/files/downloads/Clinical%20Practice%20Guidelines/clinical_practice_guidelines_for_enhanced_recovery-3.pdf)
+

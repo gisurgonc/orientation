@@ -1,0 +1,14 @@
+# Total Colectomy SCORE {#TColectomyObj}
+
+[Total Colectomy SCORE](https://www.surgicalcore.org/modulecontent.aspx?id=1000583)
+
+**Indications**
+
+  - Subtotal Colectomy
+  - Proctocolectomy
+
+**Operative Anatomy**
+
+**Intraop Decision-making**
+
+

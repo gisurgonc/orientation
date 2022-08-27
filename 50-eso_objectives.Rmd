@@ -1,0 +1,65 @@
+# (PART\*) Esophageal Cancer {-}
+
+
+# EsoCa SCORE - JR{#EsoObjJB}
+
+[Junior Resident SCORE - Esophageal Neoplasms](https://www.surgicalcore.org/modulecontent.aspx?id=1000534)
+
+
+[Junior Resident SCORE - Esophagectomy](https://www.surgicalcore.org/modulecontent.aspx?id=164703)
+
+**Anatomy**
+
+**Epidemiology and Prevention**
+
+- Worldwide distribution
+- Risk factors 
+
+**Presentation**
+
+- Symptoms
+- Nutritional consequences
+
+**Diagnosis and Staging**
+
+- Physical findings
+- Role of PET scan
+- Role of EUS
+- TNM staging system
+- Treatment Categories
+  - Superficial
+  - Localized
+  - Locally-advanced
+  - Metastatic
+  
+**Operative Treatment**
+
+- Indications for surgery
+- Operative anatomy
+- Gastric tube construction
+- Ivor Lewis
+- Transhiatal
+- McKeown
+
+**Complications**
+
+- Postoperative hypovolemia
+- Chylothorax
+- Anastomotic leak - chest
+- Anastomotic leak - neck
+- Atrial fibrillation
+- Aspiration
+- Vocal cord paralysis
+- Stomach ischemia
+
+**Intraop Decision-making**
+
+- Liver metastasis
+- Peritoneal lesion
+
+**Nonoperative management**
+
+- Palliative Radiation
+- Esophageal stents
+
+

@@ -5,44 +5,44 @@ Reallocating 'name_of_file' (item size: 1) to 8 items.
 The style file: apalike.bst
 Reallocating 'name_of_file' (item size: 1) to 7 items.
 Database file #1: zotero.bib
-You've used 117 entries,
+You've used 116 entries,
             1935 wiz_defined-function locations,
-            1116 strings with 51288 characters,
-and the built_in function-call counts, 82958 in all, are:
-= -- 7178
-> -- 7157
+            1110 strings with 50845 characters,
+and the built_in function-call counts, 82246 in all, are:
+= -- 7117
+> -- 7094
 < -- 15
-+ -- 2738
-- -- 2724
-* -- 8946
-:= -- 14874
-add.period$ -- 351
-call.type$ -- 117
-change.case$ -- 1947
-chr.to.int$ -- 117
-cite$ -- 117
-duplicate$ -- 1658
-empty$ -- 3666
-format.name$ -- 2861
-if$ -- 15015
++ -- 2712
+- -- 2700
+* -- 8869
+:= -- 14746
+add.period$ -- 348
+call.type$ -- 116
+change.case$ -- 1930
+chr.to.int$ -- 116
+cite$ -- 116
+duplicate$ -- 1644
+empty$ -- 3636
+format.name$ -- 2836
+if$ -- 14888
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 117
-newline$ -- 588
-num.names$ -- 351
-pop$ -- 1702
+missing$ -- 116
+newline$ -- 583
+num.names$ -- 348
+pop$ -- 1687
 preamble$ -- 1
-purify$ -- 1947
+purify$ -- 1930
 quote$ -- 0
-skip$ -- 1215
+skip$ -- 1205
 stack$ -- 0
-substring$ -- 4743
-swap$ -- 138
+substring$ -- 4704
+swap$ -- 137
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 702
+type$ -- 696
 warning$ -- 0
-while$ -- 448
+while$ -- 444
 width$ -- 0
-write$ -- 1523
+write$ -- 1510

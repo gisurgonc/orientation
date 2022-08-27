@@ -1,6 +1,3 @@
-# (PART\*) Esophageal Cancer {-}
-
-
 # Esophageal Overview {#EsoIntro}
 
 Esophageal cancers can be grouped into 4 treatment categories:

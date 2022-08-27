@@ -1,0 +1,49 @@
+# EsoCa Objectives - Chief {#EsoObjCR}
+
+[Chief Resident SCORE](https://www.surgicalcore.org/modulecontent.aspx?id=1000690)
+
+**Epidemiology and Prevention**
+
+- Worldwide distribution
+- Risk factors for squamous cell carcinoma
+- Risk factors for adenocarcinoma
+
+**Presentation**
+
+- Symptoms
+- Nutritional consequences
+
+**Diagnosis and Staging**
+
+- Physical findings
+- Role of PET scan
+- Role of EUS
+- TNM staging system
+- Treatment Categories
+  - Superficial
+  - Localized
+  - Locally-advanced
+  - Metastatic
+  
+**Multidisciplinary Management**
+
+- High-grade dysplasia
+- Endoscopic therapy
+- Primary surgical therapy
+- Trimodality therapy
+
+**Operative Mangement**
+
+- Ivor Lewis
+- Transhiatal
+- Left thoracoabdominal
+- McKeown
+- Alternative conduits
+- Complications and their management
+
+**References**
+
+- CROSS Trial [Behind the Knife Podcast](https://www.youtube.com/watch?v=4XWNr4rJXQ)
+- MAGIC Trial
+- FREGAT
+- Dutch TIME trial
