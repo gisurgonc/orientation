@@ -82,60 +82,57 @@
 \contentsline {section}{\numberline {26.2}ChemoRT vs Trimodality therapy}{95}{section.26.2}%
 \contentsline {chapter}{\numberline {27}Radiation}{97}{chapter.27}%
 \contentsline {chapter}{\numberline {28}Esophagectomy}{99}{chapter.28}%
-\contentsline {subsection}{\numberline {28.0.1}Preoperative Evaluation}{100}{subsection.28.0.1}%
+\contentsline {subsection}{\numberline {28.0.1}GE Junction Adenocarcinoma}{100}{subsection.28.0.1}%
+\contentsline {subsection}{\numberline {28.0.2}Preoperative Evaluation}{100}{subsection.28.0.2}%
 \contentsline {section}{\numberline {28.1}Minimally-invasive Esophagectomy}{100}{section.28.1}%
-\contentsline {section}{\numberline {28.2}Transthoracic}{100}{section.28.2}%
-\contentsline {section}{\numberline {28.3}Transhiatal}{100}{section.28.3}%
-\contentsline {section}{\numberline {28.4}Three-hole}{100}{section.28.4}%
-\contentsline {section}{\numberline {28.5}Extended lymphadenectomy}{100}{section.28.5}%
-\contentsline {section}{\numberline {28.6}Early Recovery Pathways}{100}{section.28.6}%
-\contentsline {section}{\numberline {28.7}Salvage esophagectomy}{101}{section.28.7}%
-\contentsline {chapter}{\numberline {29}Metastatic EsoCa}{103}{chapter.29}%
-\contentsline {section}{\numberline {29.1}Palliative radiation}{103}{section.29.1}%
-\contentsline {section}{\numberline {29.2}Chemoradiation vs chemotherapy in Stage IV}{103}{section.29.2}%
-\contentsline {section}{\numberline {29.3}Stents for malignant disease}{103}{section.29.3}%
-\contentsline {chapter}{\numberline {30}Survivorship}{105}{chapter.30}%
-\contentsline {section}{\numberline {30.1}Nutritional consequences of esophagectomy}{105}{section.30.1}%
-\contentsline {subsection}{\numberline {30.1.1}Vitamin D deficiency}{105}{subsection.30.1.1}%
-\contentsline {section}{\numberline {30.2}Cardiac toxicity of radiation}{105}{section.30.2}%
-\contentsline {section}{\numberline {30.3}Surveillance}{105}{section.30.3}%
-\contentsline {part}{Gastric Cancer}{109}{part*.6}%
-\contentsline {chapter}{\numberline {31}Gastric Overview}{109}{chapter.31}%
-\contentsline {chapter}{\numberline {32}Superficial Gastric}{111}{chapter.32}%
-\contentsline {chapter}{\numberline {33}Locally-Advanced Gastric}{113}{chapter.33}%
-\contentsline {section}{\numberline {33.1}Preoperative Chemotherapy}{113}{section.33.1}%
-\contentsline {section}{\numberline {33.2}Postoperative chemotherapy}{114}{section.33.2}%
-\contentsline {section}{\numberline {33.3}Postoperative chemoradiation}{114}{section.33.3}%
-\contentsline {section}{\numberline {33.4}Preoperative chemoradiation}{114}{section.33.4}%
-\contentsline {chapter}{\numberline {34}Hereditary Diffuse Gastric Cancer}{115}{chapter.34}%
-\contentsline {part}{Colon Cancer}{119}{part*.7}%
-\contentsline {chapter}{\numberline {35}Colorectal Overview}{119}{chapter.35}%
-\contentsline {chapter}{\numberline {36}Colon Cancer Staging}{121}{chapter.36}%
-\contentsline {section}{\numberline {36.1}CEA level}{121}{section.36.1}%
-\contentsline {section}{\numberline {36.2}CT Scan}{121}{section.36.2}%
-\contentsline {section}{\numberline {36.3}PET scan}{121}{section.36.3}%
-\contentsline {subsection}{\numberline {36.3.1}Indications for PET in colorectal cancer:}{121}{subsection.36.3.1}%
-\contentsline {section}{\numberline {36.4}Adjuvant Therapy}{121}{section.36.4}%
-\contentsline {chapter}{\numberline {37}Stage IV Colon Cancer}{123}{chapter.37}%
-\contentsline {section}{\numberline {37.1}Carcinomatosis}{123}{section.37.1}%
-\contentsline {section}{\numberline {37.2}Colon resection in stage IV colon cancer}{123}{section.37.2}%
-\contentsline {section}{\numberline {37.3}Immunotherapy for dMMR (MSI high)}{123}{section.37.3}%
-\contentsline {chapter}{\numberline {38}Colectomy}{125}{chapter.38}%
-\contentsline {section}{\numberline {38.1}Extended Node dissection}{125}{section.38.1}%
-\contentsline {chapter}{\numberline {39}Chemotherapy}{127}{chapter.39}%
-\contentsline {section}{\numberline {39.1}Neoadjuvant Chemotherapy}{127}{section.39.1}%
-\contentsline {part}{Rectal Cancer}{131}{part*.8}%
-\contentsline {chapter}{\numberline {40}Rectal Overview}{131}{chapter.40}%
-\contentsline {chapter}{\numberline {41}Rectal Cancer Staging}{133}{chapter.41}%
-\contentsline {section}{\numberline {41.1}MRI staging}{133}{section.41.1}%
-\contentsline {chapter}{\numberline {42}Rectal Cancer Surgery}{135}{chapter.42}%
-\contentsline {chapter}{\numberline {43}Rectal Adjuvant Therapy}{137}{chapter.43}%
-\contentsline {subsection}{\numberline {43.0.1}Short-course preoperative therapy}{137}{subsection.43.0.1}%
-\contentsline {subsection}{\numberline {43.0.2}Total Neoadjuvant therapy}{138}{subsection.43.0.2}%
-\contentsline {section}{\numberline {43.1}Neoadjuvant immunotherapy (MSI high)}{138}{section.43.1}%
-\contentsline {section}{\numberline {43.2}Non-operative management of Rectal Cancer}{139}{section.43.2}%
-\contentsline {part}{Sarcoma}{143}{part*.9}%
-\contentsline {chapter}{\numberline {44}Soft Tissue Sarcomas}{143}{chapter.44}%
-\contentsline {section}{\numberline {44.1}Desmoid Tumors}{143}{section.44.1}%
-\contentsline {section}{\numberline {44.2}Retroperitoneal}{143}{section.44.2}%
-\contentsline {section}{\numberline {44.3}Peritoneal mesothelioma}{143}{section.44.3}%
+\contentsline {section}{\numberline {28.2}Early Recovery Pathways}{100}{section.28.2}%
+\contentsline {section}{\numberline {28.3}Salvage esophagectomy}{100}{section.28.3}%
+\contentsline {chapter}{\numberline {29}Metastatic EsoCa}{101}{chapter.29}%
+\contentsline {section}{\numberline {29.1}Palliative radiation}{101}{section.29.1}%
+\contentsline {section}{\numberline {29.2}Chemoradiation vs chemotherapy in Stage IV}{101}{section.29.2}%
+\contentsline {section}{\numberline {29.3}Stents for malignant disease}{101}{section.29.3}%
+\contentsline {chapter}{\numberline {30}Survivorship}{103}{chapter.30}%
+\contentsline {section}{\numberline {30.1}Nutritional consequences of esophagectomy}{103}{section.30.1}%
+\contentsline {subsection}{\numberline {30.1.1}Vitamin D deficiency}{103}{subsection.30.1.1}%
+\contentsline {section}{\numberline {30.2}Cardiac toxicity of radiation}{103}{section.30.2}%
+\contentsline {section}{\numberline {30.3}Surveillance}{103}{section.30.3}%
+\contentsline {part}{Gastric Cancer}{107}{part*.6}%
+\contentsline {chapter}{\numberline {31}Gastric Overview}{107}{chapter.31}%
+\contentsline {chapter}{\numberline {32}Superficial Gastric}{109}{chapter.32}%
+\contentsline {chapter}{\numberline {33}Locally-Advanced Gastric}{111}{chapter.33}%
+\contentsline {section}{\numberline {33.1}Preoperative Chemotherapy}{111}{section.33.1}%
+\contentsline {section}{\numberline {33.2}Postoperative chemotherapy}{112}{section.33.2}%
+\contentsline {section}{\numberline {33.3}Postoperative chemoradiation}{112}{section.33.3}%
+\contentsline {section}{\numberline {33.4}Preoperative chemoradiation}{112}{section.33.4}%
+\contentsline {chapter}{\numberline {34}Hereditary Diffuse Gastric Cancer}{113}{chapter.34}%
+\contentsline {part}{Colon Cancer}{117}{part*.7}%
+\contentsline {chapter}{\numberline {35}Colorectal Overview}{117}{chapter.35}%
+\contentsline {chapter}{\numberline {36}Colon Cancer Staging}{119}{chapter.36}%
+\contentsline {section}{\numberline {36.1}CEA level}{119}{section.36.1}%
+\contentsline {section}{\numberline {36.2}CT Scan}{119}{section.36.2}%
+\contentsline {section}{\numberline {36.3}PET scan}{119}{section.36.3}%
+\contentsline {subsection}{\numberline {36.3.1}Indications for PET in colorectal cancer:}{119}{subsection.36.3.1}%
+\contentsline {section}{\numberline {36.4}Adjuvant Therapy}{119}{section.36.4}%
+\contentsline {chapter}{\numberline {37}Stage IV Colon Cancer}{121}{chapter.37}%
+\contentsline {section}{\numberline {37.1}Carcinomatosis}{121}{section.37.1}%
+\contentsline {section}{\numberline {37.2}Colon resection in stage IV colon cancer}{121}{section.37.2}%
+\contentsline {section}{\numberline {37.3}Immunotherapy for dMMR (MSI high)}{121}{section.37.3}%
+\contentsline {chapter}{\numberline {38}Colectomy}{123}{chapter.38}%
+\contentsline {section}{\numberline {38.1}Extended Node dissection}{123}{section.38.1}%
+\contentsline {chapter}{\numberline {39}Chemotherapy}{125}{chapter.39}%
+\contentsline {section}{\numberline {39.1}Neoadjuvant Chemotherapy}{125}{section.39.1}%
+\contentsline {part}{Rectal Cancer}{129}{part*.8}%
+\contentsline {chapter}{\numberline {40}Rectal Overview}{129}{chapter.40}%
+\contentsline {chapter}{\numberline {41}Rectal Cancer Staging}{131}{chapter.41}%
+\contentsline {section}{\numberline {41.1}MRI staging}{131}{section.41.1}%
+\contentsline {chapter}{\numberline {42}Rectal Cancer Surgery}{133}{chapter.42}%
+\contentsline {chapter}{\numberline {43}Rectal Adjuvant Therapy}{135}{chapter.43}%
+\contentsline {subsection}{\numberline {43.0.1}Short-course preoperative therapy}{135}{subsection.43.0.1}%
+\contentsline {subsection}{\numberline {43.0.2}Total Neoadjuvant therapy}{136}{subsection.43.0.2}%
+\contentsline {section}{\numberline {43.1}Neoadjuvant immunotherapy (MSI high)}{136}{section.43.1}%
+\contentsline {section}{\numberline {43.2}Non-operative management of Rectal Cancer}{137}{section.43.2}%
+\contentsline {part}{Sarcoma}{141}{part*.9}%
+\contentsline {chapter}{\numberline {44}Soft Tissue Sarcomas}{141}{chapter.44}%
+\contentsline {section}{\numberline {44.1}Desmoid Tumors}{141}{section.44.1}%
+\contentsline {section}{\numberline {44.2}Retroperitoneal}{141}{section.44.2}%
+\contentsline {section}{\numberline {44.3}Peritoneal mesothelioma}{141}{section.44.3}%

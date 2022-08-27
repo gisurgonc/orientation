@@ -4,7 +4,7 @@ title: "GI Surgical Oncology"
 #date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [zotero_url.bib]
+bibliography: [zotero.bib]
 biblio-style: apalike
 link-citations: yes
 description: "Orientation Manual for GI Surgical Oncology Service"
