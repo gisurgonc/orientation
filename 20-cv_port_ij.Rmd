@@ -11,7 +11,7 @@ output:
 
 # (PART\*) Salo OR {-}
 
-# CV Port (IJ) - Salo {#cv_port_salo}
+# CV Port (IJ)  {#cv_port_salo}
 
 **Room Prep**
 

@@ -9,7 +9,7 @@ output:
 # Nutritional evaluation
 ```
 
-# Lap Gastrostomy - Salo {#lap_gastrostomy_salo}
+# Lap Gastrostomy  {#lap_gastrostomy_salo}
 
 **Room Prep**
 

@@ -18,7 +18,7 @@ The following format will help speed communication on rounds.
 
 **24 hour events**: Summary of important events in prior 24 hrs
 
-**Systems-oriented Presentation:**
+**Data Communication (organized by system)**
 
 Neuro: Pain control, level of alertness, psychotropic meds, sedatives, and pain meds.
 
@@ -37,6 +37,6 @@ ID: WBC, Tmax in past 24 hours, culture results.
 Endo: Diabetic regimen, blood sugar range, and amount of sliding scale insulin administered in the prior 24 hours.
 
 
-**Problem-Oriented Plan:**
+**Assessment/Plan (organized by Problem List):**
 
-Each of the patients problems are addressed with an assessment and plan.  Pre-existing medical problems and postoperative complications need to be addressed in the plan.  An assessment and plan for each organ system is usually not necessary, except for the most complex patients.
+Each of the patients problems are addressed with an assessment and plan.  Pre-existing medical problems and postoperative complications need to be addressed in the plan.  An assessment and plan for each organ system is usually not necessary, except for the most complex patients.  Patients active medical problems should be documented on the Patient List for rounds. 

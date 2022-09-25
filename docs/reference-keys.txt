@@ -191,3 +191,6 @@ retroperitoneal
 peritoneal-mesothelioma
 diagnosis
 gastric-ca-score
+hereditary-diffuse-gastric-cancer-1
+proximal-gastrectomy
+rectalca-score

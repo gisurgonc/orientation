@@ -1,6 +1,6 @@
 # (PART\*) Rectal Cancer {-}
 
-# Rectal Objectives
+# RectalCa SCORE
 
 [Rectal CA SCORE](https://www.surgicalcore.org/modulecontent.aspx?id=130244)
 

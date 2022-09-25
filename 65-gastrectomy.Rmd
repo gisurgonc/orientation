@@ -1,0 +1,10 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# Gastrectomy
+
+## Proximal gastrectomy
+
+![half-size image](images/Double-tract_Q640.jpg){#id .class width=50% height=50%}
