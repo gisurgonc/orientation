@@ -4,10 +4,6 @@
 %
 \documentclass[
 ]{book}
-\title{GI Surgical Oncology}
-\author{}
-\date{\vspace{-2.5em}}
-
 \usepackage{amsmath,amssymb}
 \usepackage{lmodern}
 \usepackage{iftex}
@@ -37,13 +33,6 @@
   \KOMAoptions{parskip=half}}
 \makeatother
 \usepackage{xcolor}
-\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
-\hypersetup{
-  pdftitle={GI Surgical Oncology},
-  hidelinks,
-  pdfcreator={LaTeX via pandoc}}
-\urlstyle{same} % disable monospaced font for URLs
 \usepackage{longtable,booktabs,array}
 \usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
@@ -78,6 +67,17 @@
 \fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={GI Surgical Oncology},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{GI Surgical Oncology}
+\author{}
+\date{\vspace{-2.5em}}
 
 \begin{document}
 \maketitle
@@ -174,13 +174,13 @@ Unassigned Surgical Oncology: ``GI Surgical Oncology LCI CMC''
 In general, benign colorectal consults are staffed by Dr Davis. Colorectal malignancies are staffed as below. Esophageal and GE junction staffed by Dr Salo. Adenocarcinoma of distal stomach: Drs Salo/Squires. Gastric GIST: Drs Hill/Salo/Squires. Squires/Hill alternate week
 
 \begin{longtable}[]{@{}llllll@{}}
-\toprule
+\toprule()
 & Mon & Tues & Weds & Thu & Fri \\
-\midrule
+\midrule()
 \endhead
 CR Malig & JSH & MHS & MHSJSH & JCS & MHSJSH \\
 GI Surg Onc & JSH & MHS & MHSJSH & JCS & MHSJSH \\
-\bottomrule
+\bottomrule()
 \end{longtable}
 
 \hypertarget{postop-clinic-appt}{%
@@ -254,7 +254,7 @@ The scheduler will respond with a message to the discharging resident AND to the
 \begin{itemize}
 \tightlist
 \item
-  GI Tumor Planning Conf Mon 7-8am
+  GI Tumor Planning Conf Mon 7-8am (online and LCI I 3rd floor Conf Rm)
 \item
   Resident Teaching Conf Tues 7-8am 5th floor LCI II. Please review the upcoming clinic schedule and choose a case to present.
 \item
@@ -368,7 +368,7 @@ The following format will help speed communication on rounds.
 
 \textbf{24 hour events}: Summary of important events in prior 24 hrs
 
-\textbf{Systems-oriented Presentation:}
+\textbf{Data Communication (organized by system)}
 
 Neuro: Pain control, level of alertness, psychotropic meds, sedatives, and pain meds.
 
@@ -386,9 +386,9 @@ ID: WBC, Tmax in past 24 hours, culture results.
 
 Endo: Diabetic regimen, blood sugar range, and amount of sliding scale insulin administered in the prior 24 hours.
 
-\textbf{Problem-Oriented Plan:}
+\textbf{Assessment/Plan (organized by Problem List):}
 
-Each of the patients problems are addressed with an assessment and plan. Pre-existing medical problems and postoperative complications need to be addressed in the plan. An assessment and plan for each organ system is usually not necessary, except for the most complex patients.
+Each of the patients problems are addressed with an assessment and plan. Pre-existing medical problems and postoperative complications need to be addressed in the plan. An assessment and plan for each organ system is usually not necessary, except for the most complex patients. Patients active medical problems should be documented on the Patient List for rounds.
 
 \hypertarget{progress-notes}{%
 \chapter{Progress Notes}\label{progress-notes}}
@@ -422,7 +422,7 @@ The medical problems currently being managed are addressed in the assessment.
 \textbf{Esophagectomy Complications to be Documented:}
 
 \begin{longtable}[]{@{}ll@{}}
-\toprule
+\toprule()
 \endhead
 N & Delirium \\
 & Stroke \\
@@ -443,7 +443,7 @@ GU & Urinary Retention \\
 H & DVT req treatment \\
 & Return to OR \\
 & Return to ICU \\
-\bottomrule
+\bottomrule()
 \end{longtable}
 
 \textbf{Communication}
@@ -488,9 +488,9 @@ If followup appointments in additional to surgical followup are needed, these sh
 The discharge summary documents important events and complications in the postoperative course and serves to inform the referring physician and primary physician about these events, but also serves as a blueprint for post-discharge treatment planning. Please recognize that the first post-operative visit may be with a resident who may be meeting the patient for the first time. Key items to include:
 
 \begin{longtable}[]{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.06}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.94}}@{}}
-\toprule
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.0580}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.9420}}@{}}
+\toprule()
 \endhead
 N & Followup plan for chronic pain management \\
 & Stroke \\
@@ -512,7 +512,7 @@ H & Complications: DVT \textbar{} PE \\
 Endo & Insulin regimen at DC (dose will be in med rec) \\
 ID & Antibiotics at DC \\
 & Return to ICU \\
-\bottomrule
+\bottomrule()
 \end{longtable}
 
 \textbf{Communication}
@@ -1799,9 +1799,9 @@ Diabetic patients receiving insulin will need careful coordination of tube feedi
 In either case it is critical that if tube feedings are stopped, standing insulin administration (either q6 hour OR 1800 and MN) be stopped as well. In these cases, sliding scale insulin is generally continued.
 
 \begin{longtable}[]{@{}llll@{}}
-\toprule
+\toprule()
 Day & Time & Tube Feeds & Insulin \\
-\midrule
+\midrule()
 \endhead
 SUN & MN & 60mL/hr & 8N+4R \\
 Mon & 6am & 60mL/hr & 8N+R \\
@@ -1812,7 +1812,7 @@ Tues & 10am & Stop & None \\
 Tues & 6pm & 75mL/hr & 16N+ 8R \\
 Tues & MN & 75mL/hr & 16N+ 8R \\
 Weds & 10am & Stop & None \\
-\bottomrule
+\bottomrule()
 \end{longtable}
 
 In this example, the patient was receiving 8N + 4R every 6 hours, so total insulin units per day is (8+4) x 4 = 48units. Because the carbohydrate load of 60mL/hour x 24 is roughly equivalent to 75mL/hour x 16 hours, the total insulin administered is roughly the same. When converted to nocturnal dosing, the patient now received 16+8 = 24 units twice (6pm and MN) = 48U. In practice, it may be wiser to begin by adjusting the dose down a little, to perhaps 14U N and 7U R for the first night.
@@ -1847,7 +1847,7 @@ Review anesthesia fluid management during time out. 2L max volume, urine output 
 \addcontentsline{toc}{part}{Salo OR}
 
 \hypertarget{cv_port_salo}{%
-\chapter{CV Port (IJ) - Salo}\label{cv_port_salo}}
+\chapter{CV Port (IJ)}\label{cv_port_salo}}
 
 \textbf{Room Prep}
 
@@ -2169,7 +2169,7 @@ Appearance of the GE junction on retroflexed view. Extent of invasion of the tum
 The scope is withdrawn and the hypopharynx suctioned. The liquid from the `First Step' disinfectant is suctioned through the scope, followed by water.
 
 \hypertarget{lap_gastrostomy_salo}{%
-\chapter{Lap Gastrostomy - Salo}\label{lap_gastrostomy_salo}}
+\chapter{Lap Gastrostomy}\label{lap_gastrostomy_salo}}
 
 \textbf{Room Prep}
 
@@ -2602,16 +2602,15 @@ The stapler access port incision is closed with 0 Vicryl to approximate the serr
 \addcontentsline{toc}{part}{Esophageal Cancer}
 
 \hypertarget{EsoObjJB}{%
-\chapter{Objectives - JR}\label{EsoObjJB}}
+\chapter{EsoCa SCORE - JR}\label{EsoObjJB}}
 
-\href{https://www.surgicalcore.org/modulecontent.aspx?id=1000534}{Junior Resident CORE - Esophageal Neoplasms}
-\href{https://www.surgicalcore.org/modulecontent.aspx?id=164703}{Junior Resident CORE - Esophagectomy}
+\href{https://www.surgicalcore.org/modulecontent.aspx?id=1000534}{Junior Resident SCORE - Esophageal Neoplasms}
 
-\hypertarget{anatomy}{%
-\section{Anatomy}\label{anatomy}}
+\href{https://www.surgicalcore.org/modulecontent.aspx?id=164703}{Junior Resident SCORE - Esophagectomy}
 
-\hypertarget{epidemiology-and-prevention}{%
-\section{Epidemiology and Prevention}\label{epidemiology-and-prevention}}
+\textbf{Anatomy}
+
+\textbf{Epidemiology and Prevention}
 
 \begin{itemize}
 \tightlist
@@ -2621,8 +2620,7 @@ The stapler access port incision is closed with 0 Vicryl to approximate the serr
   Risk factors
 \end{itemize}
 
-\hypertarget{presentation}{%
-\section{Presentation}\label{presentation}}
+\textbf{Presentation}
 
 \begin{itemize}
 \tightlist
@@ -2632,8 +2630,7 @@ The stapler access port incision is closed with 0 Vicryl to approximate the serr
   Nutritional consequences
 \end{itemize}
 
-\hypertarget{diagnosis-and-staging}{%
-\section{Diagnosis and Staging}\label{diagnosis-and-staging}}
+\textbf{Diagnosis and Staging}
 
 \begin{itemize}
 \tightlist
@@ -2661,8 +2658,7 @@ The stapler access port incision is closed with 0 Vicryl to approximate the serr
   \end{itemize}
 \end{itemize}
 
-\hypertarget{operative-treatment}{%
-\section{Operative Treatment}\label{operative-treatment}}
+\textbf{Operative Treatment}
 
 \begin{itemize}
 \tightlist
@@ -2680,8 +2676,7 @@ The stapler access port incision is closed with 0 Vicryl to approximate the serr
   McKeown
 \end{itemize}
 
-\hypertarget{complications}{%
-\section{Complications}\label{complications}}
+\textbf{Complications}
 
 \begin{itemize}
 \tightlist
@@ -2703,8 +2698,7 @@ The stapler access port incision is closed with 0 Vicryl to approximate the serr
   Stomach ischemia
 \end{itemize}
 
-\hypertarget{intraop-decision-making}{%
-\section{Intraop Decision-making}\label{intraop-decision-making}}
+\textbf{Intraop Decision-making}
 
 \begin{itemize}
 \tightlist
@@ -2714,8 +2708,7 @@ The stapler access port incision is closed with 0 Vicryl to approximate the serr
   Peritoneal lesion
 \end{itemize}
 
-\hypertarget{nonoperative-management}{%
-\section{Nonoperative management}\label{nonoperative-management}}
+\textbf{Nonoperative management}
 
 \begin{itemize}
 \tightlist
@@ -2726,12 +2719,11 @@ The stapler access port incision is closed with 0 Vicryl to approximate the serr
 \end{itemize}
 
 \hypertarget{EsoObjCR}{%
-\chapter{Objectives - Chief}\label{EsoObjCR}}
+\chapter{EsoCa Objectives - Chief}\label{EsoObjCR}}
 
-\href{https://www.surgicalcore.org/modulecontent.aspx?id=1000690}{Chief Resident CORE}
+\href{https://www.surgicalcore.org/modulecontent.aspx?id=1000690}{Chief Resident SCORE}
 
-\hypertarget{epidemiology-and-prevention-1}{%
-\section{Epidemiology and Prevention}\label{epidemiology-and-prevention-1}}
+\textbf{Epidemiology and Prevention}
 
 \begin{itemize}
 \tightlist
@@ -2743,8 +2735,7 @@ The stapler access port incision is closed with 0 Vicryl to approximate the serr
   Risk factors for adenocarcinoma
 \end{itemize}
 
-\hypertarget{presentation-1}{%
-\section{Presentation}\label{presentation-1}}
+\textbf{Presentation}
 
 \begin{itemize}
 \tightlist
@@ -2754,8 +2745,7 @@ The stapler access port incision is closed with 0 Vicryl to approximate the serr
   Nutritional consequences
 \end{itemize}
 
-\hypertarget{diagnosis-and-staging-1}{%
-\section{Diagnosis and Staging}\label{diagnosis-and-staging-1}}
+\textbf{Diagnosis and Staging}
 
 \begin{itemize}
 \tightlist
@@ -2783,8 +2773,7 @@ The stapler access port incision is closed with 0 Vicryl to approximate the serr
   \end{itemize}
 \end{itemize}
 
-\hypertarget{multidisicplinary-management}{%
-\section{Multidisicplinary Management}\label{multidisicplinary-management}}
+\textbf{Multidisciplinary Management}
 
 \begin{itemize}
 \tightlist
@@ -2798,8 +2787,7 @@ The stapler access port incision is closed with 0 Vicryl to approximate the serr
   Trimodality therapy
 \end{itemize}
 
-\hypertarget{operative-mangement}{%
-\section{Operative Mangement}\label{operative-mangement}}
+\textbf{Operative Mangement}
 
 \begin{itemize}
 \tightlist
@@ -2817,8 +2805,7 @@ The stapler access port incision is closed with 0 Vicryl to approximate the serr
   Complications and their management
 \end{itemize}
 
-\hypertarget{references}{%
-\section{References}\label{references}}
+\textbf{References}
 
 \begin{itemize}
 \tightlist
@@ -3231,13 +3218,12 @@ CT every 6 months up to 2 years (if patient is a candidate for additional curati
 \part*{Gastric Cancer}\label{part-gastric-cancer}}
 \addcontentsline{toc}{part}{Gastric Cancer}
 
-\hypertarget{objectives}{%
-\chapter{Objectives}\label{objectives}}
+\hypertarget{gastric-ca-score}{%
+\chapter{Gastric Ca SCORE}\label{gastric-ca-score}}
 
 \href{http://portal.surgicalcore.org/modulecontent.aspx?id=128003}{Gastric Cancer SCORE}
 
-\hypertarget{anatomy-1}{%
-\section{Anatomy}\label{anatomy-1}}
+\textbf{Anatomy}
 
 \begin{itemize}
 \tightlist
@@ -3247,8 +3233,7 @@ CT every 6 months up to 2 years (if patient is a candidate for additional curati
   D1 vs D2 vs D3 nodal basins
 \end{itemize}
 
-\hypertarget{epidemiology}{%
-\section{Epidemiology}\label{epidemiology}}
+\textbf{Epidemiology}
 
 \begin{itemize}
 \tightlist
@@ -3258,8 +3243,7 @@ CT every 6 months up to 2 years (if patient is a candidate for additional curati
   Risk factors
 \end{itemize}
 
-\hypertarget{diagnosis-and-staging-2}{%
-\section{Diagnosis and Staging}\label{diagnosis-and-staging-2}}
+\textbf{Diagnosis and Staging}
 
 \begin{itemize}
 \tightlist
@@ -3271,8 +3255,7 @@ CT every 6 months up to 2 years (if patient is a candidate for additional curati
   Role of laparoscopy
 \end{itemize}
 
-\hypertarget{operative-treatment-1}{%
-\section{Operative Treatment}\label{operative-treatment-1}}
+\textbf{Operative Treatment}
 
 \begin{itemize}
 \tightlist
@@ -3280,8 +3263,7 @@ CT every 6 months up to 2 years (if patient is a candidate for additional curati
   Reconstruction options
 \end{itemize}
 
-\hypertarget{non-operative-treatments}{%
-\section{Non-operative Treatments}\label{non-operative-treatments}}
+\textbf{Non-operative Treatments}
 
 \begin{itemize}
 \tightlist
@@ -3293,17 +3275,13 @@ CT every 6 months up to 2 years (if patient is a candidate for additional curati
 
 \href{http://portal.surgicalcore.org/modulecontent.aspx?id=146287}{Gastrectomy SCORE}
 
-\hypertarget{operative-anatomy}{%
-\section{Operative Anatomy}\label{operative-anatomy}}
+\textbf{Operative Anatomy}
 
-\hypertarget{preoperative-preparation}{%
-\section{Preoperative Preparation}\label{preoperative-preparation}}
+\textbf{Preoperative Preparation}
 
-\hypertarget{operative-details}{%
-\section{Operative Details}\label{operative-details}}
+\textbf{Operative Details}
 
-\hypertarget{complications-1}{%
-\section{Complications}\label{complications-1}}
+\textbf{Complications}
 
 \begin{itemize}
 \tightlist
@@ -3323,8 +3301,7 @@ CT every 6 months up to 2 years (if patient is a candidate for additional curati
 
 \href{http://portal.surgicalcore.org/modulecontent.aspx?id=136240}{GIST SCORE}
 
-\hypertarget{gi-stromal-tumors}{%
-\section{GI stromal tumors}\label{gi-stromal-tumors}}
+\textbf{GI stromal tumors}
 
 \begin{itemize}
 \tightlist
@@ -3334,8 +3311,7 @@ CT every 6 months up to 2 years (if patient is a candidate for additional curati
   Operative treatment
 \end{itemize}
 
-\hypertarget{gastric-carciniods}{%
-\section{Gastric carciniods}\label{gastric-carciniods}}
+\textbf{Gastric carciniods}
 
 \begin{itemize}
 \tightlist
@@ -3361,8 +3337,7 @@ CT every 6 months up to 2 years (if patient is a candidate for additional curati
   \end{itemize}
 \end{itemize}
 
-\hypertarget{gastric-lymphoma}{%
-\section{Gastric lymphoma}\label{gastric-lymphoma}}
+\textbf{Gastric lymphoma}
 
 \begin{itemize}
 \tightlist
@@ -3374,8 +3349,7 @@ CT every 6 months up to 2 years (if patient is a candidate for additional curati
   Indications for surgery
 \end{itemize}
 
-\hypertarget{gastric-polyps}{%
-\section{Gastric Polyps}\label{gastric-polyps}}
+\textbf{Gastric Polyps}
 
 \begin{itemize}
 \tightlist
@@ -3429,17 +3403,30 @@ CRITICS trial treated all patients with preoperative chemoterhapy followed by su
 \hypertarget{hereditary-diffuse-gastric-cancer}{%
 \chapter{Hereditary Diffuse Gastric Cancer}\label{hereditary-diffuse-gastric-cancer}}
 
+\hypertarget{gastrectomy}{%
+\chapter{Gastrectomy}\label{gastrectomy}}
+
+\hypertarget{proximal-gastrectomy}{%
+\section{Proximal gastrectomy}\label{proximal-gastrectomy}}
+
+\begin{figure}
+\hypertarget{id}{%
+\centering
+\includegraphics[width=0.5\textwidth,height=0.5\textheight]{images/Double-tract_Q640.jpg}
+\caption{half-size image}\label{id}
+}
+\end{figure}
+
 \hypertarget{part-colon-cancer}{%
 \part*{Colon Cancer}\label{part-colon-cancer}}
 \addcontentsline{toc}{part}{Colon Cancer}
 
 \hypertarget{ColonObjCR}{%
-\chapter{Objectives - Colon CA}\label{ColonObjCR}}
+\chapter{ColonCa SCORE}\label{ColonObjCR}}
 
-\href{https://www.surgicalcore.org/modulecontent.aspx?id=1000690}{Colon Cancer CORE}
+\href{https://www.surgicalcore.org/modulecontent.aspx?id=1000690}{Colon Cancer SCORE}
 
-\hypertarget{physiology}{%
-\section{Physiology}\label{physiology}}
+\textbf{Physiology}
 
 \begin{itemize}
 \tightlist
@@ -3455,8 +3442,7 @@ CRITICS trial treated all patients with preoperative chemoterhapy followed by su
   CIMP
 \end{itemize}
 
-\hypertarget{epidemiology-1}{%
-\section{Epidemiology}\label{epidemiology-1}}
+\textbf{Epidemiology}
 
 \begin{itemize}
 \tightlist
@@ -3464,8 +3450,7 @@ CRITICS trial treated all patients with preoperative chemoterhapy followed by su
   Sporadic vs hereditary vs familial
 \end{itemize}
 
-\hypertarget{screening}{%
-\section{Screening}\label{screening}}
+\textbf{Screening}
 
 \begin{itemize}
 \tightlist
@@ -3479,8 +3464,7 @@ CRITICS trial treated all patients with preoperative chemoterhapy followed by su
   Fecal DNA testing
 \end{itemize}
 
-\hypertarget{hereditary-syndromes}{%
-\section{Hereditary Syndromes}\label{hereditary-syndromes}}
+\textbf{Hereditary Syndromes}
 
 \begin{itemize}
 \tightlist
@@ -3496,14 +3480,11 @@ CRITICS trial treated all patients with preoperative chemoterhapy followed by su
   \end{itemize}
 \end{itemize}
 
-\hypertarget{screening-for-average-risk}{%
-\subsection{Screening for average risk}\label{screening-for-average-risk}}
+\emph{Screening for average risk}
 
-\hypertarget{screening-for-elevated-risk}{%
-\subsection{Screening for elevated risk}\label{screening-for-elevated-risk}}
+\emph{Screening for elevated risk}
 
-\hypertarget{endoscopy}{%
-\section{Endoscopy}\label{endoscopy}}
+\textbf{Endoscopy}
 
 \begin{itemize}
 \tightlist
@@ -3511,8 +3492,7 @@ CRITICS trial treated all patients with preoperative chemoterhapy followed by su
   Types of polyps
 \end{itemize}
 
-\hypertarget{staging-1}{%
-\section{Staging}\label{staging-1}}
+\textbf{Staging}
 
 \begin{itemize}
 \tightlist
@@ -3524,8 +3504,7 @@ CRITICS trial treated all patients with preoperative chemoterhapy followed by su
   Staging
 \end{itemize}
 
-\hypertarget{adjuvant-therapy}{%
-\section{Adjuvant Therapy}\label{adjuvant-therapy}}
+\textbf{Adjuvant Therapy}
 
 \begin{itemize}
 \tightlist
@@ -3533,8 +3512,7 @@ CRITICS trial treated all patients with preoperative chemoterhapy followed by su
   Indications for adjuvant chemo
 \end{itemize}
 
-\hypertarget{operative-treatment-2}{%
-\section{Operative Treatment}\label{operative-treatment-2}}
+\textbf{Operative Treatment}
 
 \begin{itemize}
 \tightlist
@@ -3549,18 +3527,15 @@ CRITICS trial treated all patients with preoperative chemoterhapy followed by su
 \href{https://fascrs.org/ascrs/media/files/downloads/2022-Colon-Cancer-CPG.pdf}{ASCRS Guidelines for treatment of Colorectal Cancer 2022}
 
 \hypertarget{PColectomyObj}{%
-\chapter{Objectives - Colectomy}\label{PColectomyObj}}
+\chapter{Partial Colectomy SCORE}\label{PColectomyObj}}
 
 \href{https://www.surgicalcore.org/modulecontent.aspx?id=129670}{Partial Colectomy CORE}
 
-\hypertarget{indications-1}{%
-\section{Indications}\label{indications-1}}
+\textbf{Indications}
 
-\hypertarget{operative-anatomy-1}{%
-\section{Operative Anatomy}\label{operative-anatomy-1}}
+\textbf{Operative Anatomy}
 
-\hypertarget{preop-prep}{%
-\section{Preop Prep}\label{preop-prep}}
+\textbf{Preop Prep}
 
 \begin{itemize}
 \tightlist
@@ -3572,8 +3547,7 @@ CRITICS trial treated all patients with preoperative chemoterhapy followed by su
   Ureteral stents
 \end{itemize}
 
-\hypertarget{complications-2}{%
-\section{Complications}\label{complications-2}}
+\textbf{Complications}
 
 \begin{itemize}
 \tightlist
@@ -3588,12 +3562,11 @@ CRITICS trial treated all patients with preoperative chemoterhapy followed by su
 \href{https://fascrs.org/ascrs/media/files/downloads/Clinical\%20Practice\%20Guidelines/clinical_practice_guidelines_for_enhanced_recovery-3.pdf}{ASCRS Guidelines for Early Recovery}
 
 \hypertarget{ColostomyObj}{%
-\chapter{Objectives - Colostomy}\label{ColostomyObj}}
+\chapter{Colostomy SCORE}\label{ColostomyObj}}
 
 \href{https://www.surgicalcore.org/modulecontent.aspx?id=1000457}{Colostomy SCORE}
 
-\hypertarget{indications-2}{%
-\section{Indications}\label{indications-2}}
+\textbf{Indications}
 
 \begin{itemize}
 \tightlist
@@ -3601,8 +3574,7 @@ CRITICS trial treated all patients with preoperative chemoterhapy followed by su
   Colostomy vs Ileostomy
 \end{itemize}
 
-\hypertarget{preop-prep-1}{%
-\section{Preop Prep}\label{preop-prep-1}}
+\textbf{Preop Prep}
 
 \begin{itemize}
 \tightlist
@@ -3610,19 +3582,16 @@ CRITICS trial treated all patients with preoperative chemoterhapy followed by su
   Stoma marking
 \end{itemize}
 
-\hypertarget{operative-anatomy-2}{%
-\section{Operative Anatomy}\label{operative-anatomy-2}}
+\textbf{Operative Anatomy}
 
-\hypertarget{intraop-decision-making-1}{%
-\section{Intraop Decision-making}\label{intraop-decision-making-1}}
+\textbf{Intraop Decision-making}
 
 \hypertarget{TColectomyObj}{%
-\chapter{Objectives - Total Colectomy}\label{TColectomyObj}}
+\chapter{Total Colectomy SCORE}\label{TColectomyObj}}
 
-\href{https://www.surgicalcore.org/modulecontent.aspx?id=1000583}{Total Colectomy CORE}
+\href{https://www.surgicalcore.org/modulecontent.aspx?id=1000583}{Total Colectomy SCORE}
 
-\hypertarget{indications-3}{%
-\section{Indications}\label{indications-3}}
+\textbf{Indications}
 
 \begin{itemize}
 \tightlist
@@ -3632,11 +3601,9 @@ CRITICS trial treated all patients with preoperative chemoterhapy followed by su
   Proctocolectomy
 \end{itemize}
 
-\hypertarget{operative-anatomy-3}{%
-\section{Operative Anatomy}\label{operative-anatomy-3}}
+\textbf{Operative Anatomy}
 
-\hypertarget{intraop-decision-making-2}{%
-\section{Intraop Decision-making}\label{intraop-decision-making-2}}
+\textbf{Intraop Decision-making}
 
 \hypertarget{stage-iv-colon-cancer}{%
 \chapter{Stage IV Colon Cancer}\label{stage-iv-colon-cancer}}
@@ -3685,18 +3652,18 @@ Seymour MT, Morton D. FOxTROT: an international randomized controlled trial in 1
 \part*{Rectal Cancer}\label{part-rectal-cancer}}
 \addcontentsline{toc}{part}{Rectal Cancer}
 
-\hypertarget{rectal-objectives}{%
-\chapter{Rectal Objectives}\label{rectal-objectives}}
+\hypertarget{rectalca-score}{%
+\chapter{RectalCa SCORE}\label{rectalca-score}}
 
 \href{https://www.surgicalcore.org/modulecontent.aspx?id=130244}{Rectal CA SCORE}
 
-\hypertarget{anatomy-2}{%
-\section{Anatomy}\label{anatomy-2}}
+\hypertarget{anatomy}{%
+\section{Anatomy}\label{anatomy}}
 
 -Venous drainge
 
-\hypertarget{presentation-2}{%
-\section{Presentation}\label{presentation-2}}
+\hypertarget{presentation}{%
+\section{Presentation}\label{presentation}}
 
 \begin{itemize}
 \tightlist
@@ -3704,8 +3671,8 @@ Seymour MT, Morton D. FOxTROT: an international randomized controlled trial in 1
   Assessment of sphincter function
 \end{itemize}
 
-\hypertarget{operative-treatment-3}{%
-\section{Operative Treatment}\label{operative-treatment-3}}
+\hypertarget{operative-treatment}{%
+\section{Operative Treatment}\label{operative-treatment}}
 
 \hypertarget{total-mesorectal-excision}{%
 \subsection{Total mesorectal excision}\label{total-mesorectal-excision}}
@@ -3716,8 +3683,8 @@ Seymour MT, Morton D. FOxTROT: an international randomized controlled trial in 1
 \hypertarget{isolated-liver-metastasis}{%
 \subsection{Isolated liver metastasis}\label{isolated-liver-metastasis}}
 
-\hypertarget{adjuvant-therapy-1}{%
-\section{Adjuvant therapy}\label{adjuvant-therapy-1}}
+\hypertarget{adjuvant-therapy}{%
+\section{Adjuvant therapy}\label{adjuvant-therapy}}
 
 \begin{itemize}
 \tightlist
@@ -3734,16 +3701,16 @@ Seymour MT, Morton D. FOxTROT: an international randomized controlled trial in 1
 
 \href{https://www.surgicalcore.org/modulecontent.aspx?id=162148}{APR/Exent SCORE}
 
-\hypertarget{indications-4}{%
-\section{Indications}\label{indications-4}}
+\hypertarget{indications-1}{%
+\section{Indications}\label{indications-1}}
 
 -Contraindications
 
-\hypertarget{operative-anatomy-4}{%
-\section{Operative Anatomy}\label{operative-anatomy-4}}
+\hypertarget{operative-anatomy}{%
+\section{Operative Anatomy}\label{operative-anatomy}}
 
-\hypertarget{preop-prep-2}{%
-\section{Preop Prep}\label{preop-prep-2}}
+\hypertarget{preop-prep}{%
+\section{Preop Prep}\label{preop-prep}}
 
 \begin{itemize}
 \tightlist
@@ -3769,8 +3736,8 @@ Seymour MT, Morton D. FOxTROT: an international randomized controlled trial in 1
   VRAM flap
 \end{itemize}
 
-\hypertarget{complications-3}{%
-\section{Complications}\label{complications-3}}
+\hypertarget{complications}{%
+\section{Complications}\label{complications}}
 
 \begin{itemize}
 \tightlist

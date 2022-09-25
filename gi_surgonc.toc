@@ -48,9 +48,9 @@
 \contentsline {part}{Hill OR}{57}{part*.3}%
 \contentsline {chapter}{\numberline {16}Colorectal Cases - Hill/Squires}{57}{chapter.16}%
 \contentsline {part}{Salo OR}{61}{part*.4}%
-\contentsline {chapter}{\numberline {17}CV Port (IJ) - Salo}{61}{chapter.17}%
+\contentsline {chapter}{\numberline {17}CV Port (IJ)}{61}{chapter.17}%
 \contentsline {chapter}{\numberline {18}Lap Jejunostomy}{65}{chapter.18}%
-\contentsline {chapter}{\numberline {19}Lap Gastrostomy - Salo}{69}{chapter.19}%
+\contentsline {chapter}{\numberline {19}Lap Gastrostomy}{69}{chapter.19}%
 \contentsline {chapter}{\numberline {20}Esophagectomy 1 Stage}{73}{chapter.20}%
 \contentsline {section}{\numberline {20.1}Indications}{73}{section.20.1}%
 \contentsline {section}{\numberline {20.2}Room Prep}{73}{section.20.2}%
@@ -62,22 +62,8 @@
 \contentsline {subsection}{\numberline {20.3.4}Division of Esophagus (Four-Phase)}{77}{subsection.20.3.4}%
 \contentsline {subsection}{\numberline {20.3.5}Entry into right chest}{77}{subsection.20.3.5}%
 \contentsline {part}{Esophageal Cancer}{83}{part*.5}%
-\contentsline {chapter}{\numberline {21}Objectives - JR}{83}{chapter.21}%
-\contentsline {section}{\numberline {21.1}Anatomy}{83}{section.21.1}%
-\contentsline {section}{\numberline {21.2}Epidemiology and Prevention}{83}{section.21.2}%
-\contentsline {section}{\numberline {21.3}Presentation}{83}{section.21.3}%
-\contentsline {section}{\numberline {21.4}Diagnosis and Staging}{83}{section.21.4}%
-\contentsline {section}{\numberline {21.5}Operative Treatment}{84}{section.21.5}%
-\contentsline {section}{\numberline {21.6}Complications}{84}{section.21.6}%
-\contentsline {section}{\numberline {21.7}Intraop Decision-making}{84}{section.21.7}%
-\contentsline {section}{\numberline {21.8}Nonoperative management}{84}{section.21.8}%
-\contentsline {chapter}{\numberline {22}Objectives - Chief}{85}{chapter.22}%
-\contentsline {section}{\numberline {22.1}Epidemiology and Prevention}{85}{section.22.1}%
-\contentsline {section}{\numberline {22.2}Presentation}{85}{section.22.2}%
-\contentsline {section}{\numberline {22.3}Diagnosis and Staging}{85}{section.22.3}%
-\contentsline {section}{\numberline {22.4}Multidisicplinary Management}{86}{section.22.4}%
-\contentsline {section}{\numberline {22.5}Operative Mangement}{86}{section.22.5}%
-\contentsline {section}{\numberline {22.6}References}{86}{section.22.6}%
+\contentsline {chapter}{\numberline {21}EsoCa SCORE - JR}{83}{chapter.21}%
+\contentsline {chapter}{\numberline {22}EsoCa Objectives - Chief}{85}{chapter.22}%
 \contentsline {chapter}{\numberline {23}Esophageal Overview}{87}{chapter.23}%
 \contentsline {chapter}{\numberline {24}Staging}{89}{chapter.24}%
 \contentsline {chapter}{\numberline {25}Superficial EsoCa}{91}{chapter.25}%
@@ -113,87 +99,55 @@
 \contentsline {section}{\numberline {32.2}Cardiac toxicity of radiation}{107}{section.32.2}%
 \contentsline {section}{\numberline {32.3}Surveillance}{107}{section.32.3}%
 \contentsline {part}{Gastric Cancer}{111}{part*.6}%
-\contentsline {chapter}{\numberline {33}Objectives}{111}{chapter.33}%
-\contentsline {section}{\numberline {33.1}Anatomy}{111}{section.33.1}%
-\contentsline {section}{\numberline {33.2}Epidemiology}{111}{section.33.2}%
-\contentsline {section}{\numberline {33.3}Diagnosis and Staging}{111}{section.33.3}%
-\contentsline {section}{\numberline {33.4}Operative Treatment}{111}{section.33.4}%
-\contentsline {section}{\numberline {33.5}Non-operative Treatments}{111}{section.33.5}%
-\contentsline {section}{\numberline {33.6}Operative Anatomy}{112}{section.33.6}%
-\contentsline {section}{\numberline {33.7}Preoperative Preparation}{112}{section.33.7}%
-\contentsline {section}{\numberline {33.8}Operative Details}{112}{section.33.8}%
-\contentsline {section}{\numberline {33.9}Complications}{112}{section.33.9}%
-\contentsline {section}{\numberline {33.10}GI stromal tumors}{112}{section.33.10}%
-\contentsline {section}{\numberline {33.11}Gastric carciniods}{112}{section.33.11}%
-\contentsline {section}{\numberline {33.12}Gastric lymphoma}{112}{section.33.12}%
-\contentsline {section}{\numberline {33.13}Gastric Polyps}{113}{section.33.13}%
-\contentsline {chapter}{\numberline {34}Superficial Gastric}{115}{chapter.34}%
-\contentsline {chapter}{\numberline {35}Locally-Advanced Gastric}{117}{chapter.35}%
-\contentsline {section}{\numberline {35.1}Preoperative Chemotherapy}{117}{section.35.1}%
-\contentsline {section}{\numberline {35.2}Postoperative chemotherapy}{118}{section.35.2}%
-\contentsline {section}{\numberline {35.3}Postoperative chemoradiation}{118}{section.35.3}%
-\contentsline {section}{\numberline {35.4}Preoperative chemoradiation}{118}{section.35.4}%
-\contentsline {chapter}{\numberline {36}Hereditary Diffuse Gastric Cancer}{119}{chapter.36}%
+\contentsline {chapter}{\numberline {33}Gastric Ca SCORE}{111}{chapter.33}%
+\contentsline {chapter}{\numberline {34}Superficial Gastric}{113}{chapter.34}%
+\contentsline {chapter}{\numberline {35}Locally-Advanced Gastric}{115}{chapter.35}%
+\contentsline {section}{\numberline {35.1}Preoperative Chemotherapy}{115}{section.35.1}%
+\contentsline {section}{\numberline {35.2}Postoperative chemotherapy}{116}{section.35.2}%
+\contentsline {section}{\numberline {35.3}Postoperative chemoradiation}{116}{section.35.3}%
+\contentsline {section}{\numberline {35.4}Preoperative chemoradiation}{116}{section.35.4}%
+\contentsline {chapter}{\numberline {36}Hereditary Diffuse Gastric Cancer}{117}{chapter.36}%
+\contentsline {chapter}{\numberline {37}Gastrectomy}{119}{chapter.37}%
+\contentsline {section}{\numberline {37.1}Proximal gastrectomy}{119}{section.37.1}%
 \contentsline {part}{Colon Cancer}{123}{part*.7}%
-\contentsline {chapter}{\numberline {37}Objectives - Colon CA}{123}{chapter.37}%
-\contentsline {section}{\numberline {37.1}Physiology}{123}{section.37.1}%
-\contentsline {section}{\numberline {37.2}Epidemiology}{123}{section.37.2}%
-\contentsline {section}{\numberline {37.3}Screening}{123}{section.37.3}%
-\contentsline {section}{\numberline {37.4}Hereditary Syndromes}{123}{section.37.4}%
-\contentsline {subsection}{\numberline {37.4.1}Screening for average risk}{124}{subsection.37.4.1}%
-\contentsline {subsection}{\numberline {37.4.2}Screening for elevated risk}{124}{subsection.37.4.2}%
-\contentsline {section}{\numberline {37.5}Endoscopy}{124}{section.37.5}%
-\contentsline {section}{\numberline {37.6}Staging}{124}{section.37.6}%
-\contentsline {section}{\numberline {37.7}Adjuvant Therapy}{124}{section.37.7}%
-\contentsline {section}{\numberline {37.8}Operative Treatment}{124}{section.37.8}%
-\contentsline {chapter}{\numberline {38}Objectives - Colectomy}{125}{chapter.38}%
-\contentsline {section}{\numberline {38.1}Indications}{125}{section.38.1}%
-\contentsline {section}{\numberline {38.2}Operative Anatomy}{125}{section.38.2}%
-\contentsline {section}{\numberline {38.3}Preop Prep}{125}{section.38.3}%
-\contentsline {section}{\numberline {38.4}Complications}{125}{section.38.4}%
-\contentsline {chapter}{\numberline {39}Objectives - Colostomy}{127}{chapter.39}%
-\contentsline {section}{\numberline {39.1}Indications}{127}{section.39.1}%
-\contentsline {section}{\numberline {39.2}Preop Prep}{127}{section.39.2}%
-\contentsline {section}{\numberline {39.3}Operative Anatomy}{127}{section.39.3}%
-\contentsline {section}{\numberline {39.4}Intraop Decision-making}{127}{section.39.4}%
-\contentsline {chapter}{\numberline {40}Objectives - Total Colectomy}{129}{chapter.40}%
-\contentsline {section}{\numberline {40.1}Indications}{129}{section.40.1}%
-\contentsline {section}{\numberline {40.2}Operative Anatomy}{129}{section.40.2}%
-\contentsline {section}{\numberline {40.3}Intraop Decision-making}{129}{section.40.3}%
-\contentsline {chapter}{\numberline {41}Stage IV Colon Cancer}{131}{chapter.41}%
-\contentsline {section}{\numberline {41.1}Carcinomatosis}{131}{section.41.1}%
-\contentsline {section}{\numberline {41.2}Colon resection in stage IV colon cancer}{131}{section.41.2}%
-\contentsline {section}{\numberline {41.3}Immunotherapy for dMMR (MSI high)}{131}{section.41.3}%
-\contentsline {chapter}{\numberline {42}Colectomy}{133}{chapter.42}%
-\contentsline {section}{\numberline {42.1}Extended Node dissection}{133}{section.42.1}%
-\contentsline {chapter}{\numberline {43}Chemotherapy}{135}{chapter.43}%
-\contentsline {section}{\numberline {43.1}Neoadjuvant Chemotherapy}{135}{section.43.1}%
+\contentsline {chapter}{\numberline {38}ColonCa SCORE}{123}{chapter.38}%
+\contentsline {chapter}{\numberline {39}Partial Colectomy SCORE}{125}{chapter.39}%
+\contentsline {chapter}{\numberline {40}Colostomy SCORE}{127}{chapter.40}%
+\contentsline {chapter}{\numberline {41}Total Colectomy SCORE}{129}{chapter.41}%
+\contentsline {chapter}{\numberline {42}Stage IV Colon Cancer}{131}{chapter.42}%
+\contentsline {section}{\numberline {42.1}Carcinomatosis}{131}{section.42.1}%
+\contentsline {section}{\numberline {42.2}Colon resection in stage IV colon cancer}{131}{section.42.2}%
+\contentsline {section}{\numberline {42.3}Immunotherapy for dMMR (MSI high)}{131}{section.42.3}%
+\contentsline {chapter}{\numberline {43}Colectomy}{133}{chapter.43}%
+\contentsline {section}{\numberline {43.1}Extended Node dissection}{133}{section.43.1}%
+\contentsline {chapter}{\numberline {44}Chemotherapy}{135}{chapter.44}%
+\contentsline {section}{\numberline {44.1}Neoadjuvant Chemotherapy}{135}{section.44.1}%
 \contentsline {part}{Rectal Cancer}{139}{part*.8}%
-\contentsline {chapter}{\numberline {44}Rectal Objectives}{139}{chapter.44}%
-\contentsline {section}{\numberline {44.1}Anatomy}{139}{section.44.1}%
-\contentsline {section}{\numberline {44.2}Presentation}{139}{section.44.2}%
-\contentsline {section}{\numberline {44.3}Operative Treatment}{139}{section.44.3}%
-\contentsline {subsection}{\numberline {44.3.1}Total mesorectal excision}{139}{subsection.44.3.1}%
-\contentsline {subsection}{\numberline {44.3.2}Transanal excision}{139}{subsection.44.3.2}%
-\contentsline {subsection}{\numberline {44.3.3}Isolated liver metastasis}{139}{subsection.44.3.3}%
-\contentsline {section}{\numberline {44.4}Adjuvant therapy}{139}{section.44.4}%
-\contentsline {chapter}{\numberline {45}Objectives - APR/Exent}{141}{chapter.45}%
-\contentsline {section}{\numberline {45.1}Indications}{141}{section.45.1}%
-\contentsline {section}{\numberline {45.2}Operative Anatomy}{141}{section.45.2}%
-\contentsline {section}{\numberline {45.3}Preop Prep}{141}{section.45.3}%
-\contentsline {section}{\numberline {45.4}Key Steps}{141}{section.45.4}%
-\contentsline {section}{\numberline {45.5}Intraop Decisions}{141}{section.45.5}%
-\contentsline {section}{\numberline {45.6}Complications}{141}{section.45.6}%
-\contentsline {chapter}{\numberline {46}Rectal Cancer Staging}{143}{chapter.46}%
-\contentsline {section}{\numberline {46.1}MRI staging}{143}{section.46.1}%
-\contentsline {chapter}{\numberline {47}Rectal Cancer Surgery}{145}{chapter.47}%
-\contentsline {chapter}{\numberline {48}Rectal Adjuvant Therapy}{147}{chapter.48}%
-\contentsline {subsection}{\numberline {48.0.1}Short-course preoperative therapy}{147}{subsection.48.0.1}%
-\contentsline {subsection}{\numberline {48.0.2}Total Neoadjuvant therapy}{148}{subsection.48.0.2}%
-\contentsline {section}{\numberline {48.1}Neoadjuvant immunotherapy (MSI high)}{148}{section.48.1}%
-\contentsline {section}{\numberline {48.2}Non-operative management of Rectal Cancer}{149}{section.48.2}%
+\contentsline {chapter}{\numberline {45}RectalCa SCORE}{139}{chapter.45}%
+\contentsline {section}{\numberline {45.1}Anatomy}{139}{section.45.1}%
+\contentsline {section}{\numberline {45.2}Presentation}{139}{section.45.2}%
+\contentsline {section}{\numberline {45.3}Operative Treatment}{139}{section.45.3}%
+\contentsline {subsection}{\numberline {45.3.1}Total mesorectal excision}{139}{subsection.45.3.1}%
+\contentsline {subsection}{\numberline {45.3.2}Transanal excision}{139}{subsection.45.3.2}%
+\contentsline {subsection}{\numberline {45.3.3}Isolated liver metastasis}{139}{subsection.45.3.3}%
+\contentsline {section}{\numberline {45.4}Adjuvant therapy}{139}{section.45.4}%
+\contentsline {chapter}{\numberline {46}Objectives - APR/Exent}{141}{chapter.46}%
+\contentsline {section}{\numberline {46.1}Indications}{141}{section.46.1}%
+\contentsline {section}{\numberline {46.2}Operative Anatomy}{141}{section.46.2}%
+\contentsline {section}{\numberline {46.3}Preop Prep}{141}{section.46.3}%
+\contentsline {section}{\numberline {46.4}Key Steps}{141}{section.46.4}%
+\contentsline {section}{\numberline {46.5}Intraop Decisions}{141}{section.46.5}%
+\contentsline {section}{\numberline {46.6}Complications}{141}{section.46.6}%
+\contentsline {chapter}{\numberline {47}Rectal Cancer Staging}{143}{chapter.47}%
+\contentsline {section}{\numberline {47.1}MRI staging}{143}{section.47.1}%
+\contentsline {chapter}{\numberline {48}Rectal Cancer Surgery}{145}{chapter.48}%
+\contentsline {chapter}{\numberline {49}Rectal Adjuvant Therapy}{147}{chapter.49}%
+\contentsline {subsection}{\numberline {49.0.1}Short-course preoperative therapy}{147}{subsection.49.0.1}%
+\contentsline {subsection}{\numberline {49.0.2}Total Neoadjuvant therapy}{148}{subsection.49.0.2}%
+\contentsline {section}{\numberline {49.1}Neoadjuvant immunotherapy (MSI high)}{148}{section.49.1}%
+\contentsline {section}{\numberline {49.2}Non-operative management of Rectal Cancer}{149}{section.49.2}%
 \contentsline {part}{Sarcoma}{153}{part*.9}%
-\contentsline {chapter}{\numberline {49}Soft Tissue Sarcomas}{153}{chapter.49}%
-\contentsline {section}{\numberline {49.1}Desmoid Tumors}{153}{section.49.1}%
-\contentsline {section}{\numberline {49.2}Retroperitoneal}{153}{section.49.2}%
-\contentsline {section}{\numberline {49.3}Peritoneal mesothelioma}{153}{section.49.3}%
+\contentsline {chapter}{\numberline {50}Soft Tissue Sarcomas}{153}{chapter.50}%
+\contentsline {section}{\numberline {50.1}Desmoid Tumors}{153}{section.50.1}%
+\contentsline {section}{\numberline {50.2}Retroperitoneal}{153}{section.50.2}%
+\contentsline {section}{\numberline {50.3}Peritoneal mesothelioma}{153}{section.50.3}%
