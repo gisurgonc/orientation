@@ -7,4 +7,6 @@ output:
 
 ## Proximal gastrectomy
 
+Proximal gastrectomy for small proximal tumors can be performed with a dual-tract reconstruction to take advantage of the reservoir capacity of the distal stomach without the risk of gastroesophageal reflux.
+
 ![half-size image](images/Double-tract_Q640.jpg){#id .class width=50% height=50%}
