@@ -26,13 +26,13 @@ output:
 ```
 # Progress Notes
 
-Progress notes should include a comprehensive summary of pertinent information for the patient’s medical care. 
+Progress notes need to reflect the problems which are being managed by the team. The current medical problems being managed by the team should be added to the problem list for that hospitalization. This will make it easier to generate notes which are oriented to the patient's problem list.
 
-Each day, the event of the hospitalization is carried from note to note. Each day, an additional line is added to the progress note which summarizes events for that day. This makes it possible to see within each Progress Note the pertinent events for the hospitalization. These events would include extubation, re-intubation, positive cultures, dates lines are inserted or removed, dates of removal of NG tubes and drains, and transfer to ward or re-admission to ICU. This chronology assists in treatment decisions (“how old is the IJ line” or “when did we start antibiotics?” or “when is the planned antibiotic stop date”?) but also makes the discharge summary much easier to prepare.
 
-**Assessment/Plan**
+In addition, the progress notes provide a narrative which can later be used to generate the discharge summary (particularly for complex patients). Each day, the event of the hospitalization is carried from note to note. Each day, an additional line is added to the progress note which summarizes events for that day. This makes it possible to see within each Progress Note the pertinent events for the hospitalization. These events would include extubation, re-intubation, positive cultures, dates lines are inserted or removed, dates of removal of NG tubes and drains, and transfer to ward or re-admission to ICU. This chronology assists in treatment decisions (“how old is the IJ line” or “when did we start antibiotics?” or “when is the planned antibiotic stop date”?) but also makes the discharge summary much easier to prepare.
 
-The medical problems currently being managed are addressed in the assessment.
+** Notes should be forwarded to the patient's attending (unless out of town)**
+
 
 **Esophagectomy Events to be Documented:**
 
@@ -71,4 +71,4 @@ The medical problems currently being managed are addressed in the assessment.
 
 Please add an addendum at the BOTTOM of each progress note which includes a means for contacting the team:
 
-Please message "GI Surgical Oncology LCI CMC" via Haiku 24/7.  Messages are automatically forwarded to the General Surgery Resident on Call evenings and weekends.
+Please message "GI Surgical Oncology LCI CMC" via Haiku 24/7.  Messages are automatically forwarded to the General Surgery Resident on Call evenings and weekends."
