@@ -31,7 +31,7 @@ Progress notes need to reflect the problems which are being managed by the team.
 
 In addition, the progress notes provide a narrative which can later be used to generate the discharge summary (particularly for complex patients). Each day, the event of the hospitalization is carried from note to note. Each day, an additional line is added to the progress note which summarizes events for that day. This makes it possible to see within each Progress Note the pertinent events for the hospitalization. These events would include extubation, re-intubation, positive cultures, dates lines are inserted or removed, dates of removal of NG tubes and drains, and transfer to ward or re-admission to ICU. This chronology assists in treatment decisions (“how old is the IJ line” or “when did we start antibiotics?” or “when is the planned antibiotic stop date”?) but also makes the discharge summary much easier to prepare.
 
-** Notes should be forwarded to the patient's attending (unless out of town)**
+**Notes should be forwarded to the patient's attending (unless out of town)**
 
 
 **Esophagectomy Events to be Documented:**
