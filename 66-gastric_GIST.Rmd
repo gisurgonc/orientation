@@ -1,0 +1,22 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# Gastric GIST
+
+From NCCN Guidelines 
+
+## Genetics
+
+- Mutation of KIT receptor tyrosine kinase in 80%
+  - KIT exon 9 mutations have lower response rate to imatinib and shorter progression-free survival than exon 11 mutations (especially at dose of 400mg daily)
+- Mutation in PDGRFA receptor tyrosine kinase in 5-10%. Most mutations respond to imatinib except D842V (which may respond to avapritinib)
+- No mutation of KIT or PDGFRA in 10-15%. Most will have functional inactivation of SDH complex and evidenced by lack of SDHB on IHC. These patients should be tested for germline SDH mutations. These tumors tend to occur in the stomach in younger patients.  
+
+Tyrosine kinase inhibitors:
+
+- imatinib - first line therapy
+- Sunitinib treatment is indicated for patients with imatinib-resistant tumors or imatinib intolerance. 
+- Regorafenib is indicated for patients with disease progression on imatinib or sunitinib. 
+- Ripretinib is indicated for patients who have received prior treatment with 3 or more kinase inhibitors, including imatinib. 
