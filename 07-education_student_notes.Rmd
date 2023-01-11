@@ -12,8 +12,10 @@ output:
 
 The service will host Third- and Fourth-year medical students.
 
-Student notes should be forwarded to the patient's attending for attentation and signature.
+Student notes should be forwarded to the patient's attending for attestation and signature.
 
 Third year students will have a 'green card' of diagnoses and procedures which need to be checked off (and signed) during the rotation.  Please remind the chief resident and attendings about items which remain to be completed.
 
+## Medical Student Resources
 
+[Subcuticular suturing video](https://www.youtube.com/watch?v=M3vISruyFkI)
