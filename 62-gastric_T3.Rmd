@@ -4,7 +4,7 @@ Locally-advanced gastric cancer (T3 or N^+^) is generally treated with some form
 
 ## Preoperative Chemotherapy
 
-FLOT chemotherapy [@al-batran1948]
+FLOT chemotherapy [@al-batran1948] with 5FU, oxaliplatin and Taxotere superior for neoadjuvant chemotherapy compared with epirubicin, oxaliplatin and 5FU (MAGIC regimen)
 
 MAGIC study randomized 503 patients to perioperative 'sandwich' therapy consisting of epirubicin, cisplatin, and 5-FU versus surgery alone.  In the perioperative chemotherapy group, 4 cycles were administered prior to surgery, and 4 cycles afterwards. Tumors of the esophagus or gastroesophageal junction comprised 26% of the study population. While over 90% of patients assigned to the chemotherapy arm completed their preoperative chemotherapy, only 66% completed their postoperative therapy.  Survival at 5 years was 36% in the perioperative chemotherapy group, compared with 24% in the surgery group (p<0.001).[@cunningham11]
 
@@ -12,14 +12,18 @@ CLASSIC clinical trial randomized 1033 patients with stage II or III gastric can
 
 The FFCD trial randomized patients to preoperative chemotherapy with 2 or 3 yccles of cisplatin and 5-FU versus surgery alone. Tumors of the lower esophagus or gastroesophageal junction comprised 75% of the study population. Survival at 5 years was longer in the chemotherapy group (38%) versus 24% in the surgery alone group (p=0.02).[@ychou1715]
 
+RESONANCE-II trial of Oxaliplatin + S-1 (SOX) [@wang20]
+
 ## Postoperative chemotherapy
 
-CLAASIC trial [@noh1389]  [@bang315] patients with II or IIIB gastric cancer received gastrectomy with D2 node dissection randomized to postoperative chemotherapy with capecitabine and oxaliplatin. Chemotherapy group had improved 3-year DFS (74% vs 59% P<.0001)
+CLAASIC trial [@noh1389]  [@bang315] [@noh1389] patients with II or IIIB gastric cancer received gastrectomy with D2 node dissection randomized to postoperative chemotherapy with capecitabine and oxaliplatin. Chemotherapy group had improved 3-year DFS (74% vs 59% P<.0001)
+
+S-1 Adjuvant chemotherapy: [@sasako4387]
 
 
 ## Postoperative chemoradiation
 
-Intergroup 0116 trial [@macdonald725]
+Intergroup 0116 trial [@macdonald725] [@smalley2327]
 Surgical quality control was poor, as 90% were treated a limited lymph node dissection. Long-term followup, however [@smalley2327] showed a persistent benefit of postoperative chemoradiation.
 
 
