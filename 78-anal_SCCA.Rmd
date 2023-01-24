@@ -1,0 +1,10 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# Anal Squamous Cell Carcinoma
+
+### Restaging after chemoRT
+
+Based on the results of the ACT-II study, it may be appropriate to follow patients who have not achieved a complete clinical response with persistent anal cancer up to 6 months following completion of radiation therapy and chemotherapy as long as there is no evidence of progressive disease during this period of follow-up. Persistent disease may continue to regress even at 26 weeks from the start of treatment. James RD, et al. Lancet Oncol 2013;14:516-524
