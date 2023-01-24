@@ -69,6 +69,8 @@ In addition to tube feeds, most patients will receive ‘free’ water flushes t
 
 A silicone nasogastric tube (Covidien Salem Sump) is placed in all patients during surgery and the position confirmed by ultrasound intraoperatively. Tubes are positioned so that all 4 dots are outside.  Gastric emptying is evaluated with upper GI prior to NG tube removal. Once extubated, upper GI is typically performed on the 2nd through 4th postoperative day. Conversely, patients who are intubated will keep their nasogastric tube until extubated. 
 
+Upper GI is ordered as *FL Upper GI Track Single Contrast*
+
 *Drains*
 
 - JP1: 19Fr Blake drain in left pleura. The exit site the most lateral drain and is secured with a blue suture
@@ -92,13 +94,22 @@ Preoperative anti-platelet agents are started on the first (aspirin) or second (
 **ID**
 Prophylactic Cefazolin and Flagyl are administered for 24 hours and stopped
 
-Discharge Medicines
+
+### Labs
+
+Once on the ward, BMP and CBC are checked every other day.  Patients with leukocytosis (>12,000) are monitored with daily CBC until resolved.
+
+### Discharge Medicines
 Patients after esophagectomy typically go home with the following medicines:
 
 Proton pump inhibitors (will continue for 2 years)
-Oxycodone elixir via feeding tube. Current STOP guidelines dictate that patients receive no more than a 7 day supply of opiods at discharage
+Oxycodone elixir via feeding tube. Current STOP guidelines dictate that patients receive no more than a 7 day supply of opiods at discharge
 Reglan 10mg po qid (will stop at 6 weeks post-op)
 Remeron 15mg qhs (will continue for 3 months post-op)
 Tylenol 1000mg q6 hours as elixir (pediatric form)
 Gabapentin 300mg as liquid tid x 14 days
 Metoprolol if started postoperatively (most patients). If not on beta blockers preoperatively, this will be cut in half at the first visit and stopped at the second postoperative visit. It is important to limit the use of medicines via jejunostomy in order to lower the risk of clogging the feeding tube. While liquid metoprolol is available for inpatients, it is not available from outpatient pharmacies.
+
+### Diet at discharge
+
+- 
