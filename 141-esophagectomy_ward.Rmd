@@ -73,9 +73,9 @@ Upper GI is ordered as *FL Upper GI Track Single Contrast*
 
 *Drains*
 
-- JP1: 19Fr Blake drain in left pleura. The exit site the most lateral drain and is secured with a blue suture
-- JP2: 19Fr Blake drain in right pleura. The exit site is medial to JP1 and is secured with a black suture
-- JP3: 19 Fr Blake drain in abdomen.  If used, the exit site is most medial and is secured with a blue suture
+- JP1: 19Fr Blake drain in left pleura. The end of the tube is cut at an angle. The exit site the *usually* the most lateral drain.
+- JP2: 19Fr Blake drain in right pleura. The exit site is *usually* medial to JP1
+- JP3: 19 Fr Blake drain in abdomen.  If used, the exit site is *usually* most medial
 - JP4: 15Fr Blake drain in neck (for cervial incision)
 - JP5: 15Fr Blake drain in subcutaneous tissue of incision
 
@@ -112,4 +112,6 @@ Metoprolol if started postoperatively (most patients). If not on beta blockers p
 
 ### Diet at discharge
 
-- 
+- 70% will pass their MBS for thin liquids are and discharged on protein shakes
+- 15% will pass for nectar thick but fail for this liquids. They are discharged taking medicines with a sip of thickened water but otherwise NPO
+- 15% will fail for nectar thick and are discharged NPO with medicines via jejunostomy
