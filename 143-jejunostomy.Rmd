@@ -53,3 +53,6 @@ Several common medicines are available in liquid form:
 
 Jejunostomy tubes which are refractory to the usual non-invasive means (warm water, Coca-Cola) will need to be changed over a wire in Interventional Radiology.
 
+## Jejunostomy feedings on preop Patients
+
+Scope Anesthesia policy states the jejunostomy feeds are considered equivalent to oral solid food in terms of NPO interval.  In general, jejunostomy tube feeds should be held at midnight the night before surgery.
