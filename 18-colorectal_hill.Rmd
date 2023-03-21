@@ -16,7 +16,7 @@ output:
 
 ADULT SURG Colorectal ERAS MPP Hill This is what has all of the main ERAS components. Tylenol, gabapentin, Decadron, Alvimopan and heparin are all given in pre-op holding
 
-ADULT STANDING Antimicrobial colorectal In general, I will give Ancef to patients with almost all patients with allergies to PCN. They have to remember the “severe” reaction. If it is a severe reaction, please use the second line ABX listed in the power plan.
+ADULT STANDING Antimicrobial colorectal In general, I will give Ancef to patients with almost all patients with allergies to PCN. They have to remember the “severe” reaction. If it is a severe reaction, please use the second line antibiotics listed in the power plan.
 
 Type and Screen are not typically needed for colectomy. They will have an antibody screen from office. If antibodies present, then d/w attending
 

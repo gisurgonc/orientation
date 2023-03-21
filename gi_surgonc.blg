@@ -1,51 +1,55 @@
-This is BibTeX, Version 0.99d
+This is BibTeX, Version 0.99d (TeX Live 2022)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: gi_surgonc.aux
-Reallocating 'name_of_file' (item size: 1) to 8 items.
 The style file: apalike.bst
-Reallocating 'name_of_file' (item size: 1) to 7 items.
 Database file #1: zotero.bib
+Warning--I didn't find a database entry for "sarkaria764"
+Warning--I didn't find a database entry for "furlong107"
+Warning--I didn't find a database entry for "wouters1789"
+Warning--I didn't find a database entry for "mellow1443"
+Warning--I didn't find a database entry for "kalffa"
+Warning--I didn't find a database entry for "baker987"
 Warning--I didn't find a database entry for "wang20"
 Warning--I didn't find a database entry for "sasako4387"
-You've used 116 entries,
+You've used 112 entries,
             1935 wiz_defined-function locations,
-            1112 strings with 50861 characters,
-and the built_in function-call counts, 82246 in all, are:
-= -- 7117
-> -- 7094
-< -- 15
-+ -- 2712
-- -- 2700
-* -- 8869
-:= -- 14746
-add.period$ -- 348
-call.type$ -- 116
-change.case$ -- 1930
-chr.to.int$ -- 116
-cite$ -- 116
-duplicate$ -- 1644
-empty$ -- 3636
-format.name$ -- 2836
-if$ -- 14888
+            1098 strings with 50101 characters,
+and the built_in function-call counts, 80476 in all, are:
+= -- 6942
+> -- 7007
+< -- 14
++ -- 2680
+- -- 2670
+* -- 8702
+:= -- 14437
+add.period$ -- 336
+call.type$ -- 112
+change.case$ -- 1895
+chr.to.int$ -- 112
+cite$ -- 112
+duplicate$ -- 1589
+empty$ -- 3523
+format.name$ -- 2800
+if$ -- 14554
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 116
-newline$ -- 583
-num.names$ -- 348
-pop$ -- 1687
+missing$ -- 112
+newline$ -- 563
+num.names$ -- 336
+pop$ -- 1661
 preamble$ -- 1
-purify$ -- 1930
+purify$ -- 1895
 quote$ -- 0
-skip$ -- 1205
+skip$ -- 1163
 stack$ -- 0
-substring$ -- 4704
-swap$ -- 137
+substring$ -- 4566
+swap$ -- 133
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 696
+type$ -- 672
 warning$ -- 0
-while$ -- 444
+while$ -- 429
 width$ -- 0
-write$ -- 1510
-(There were 2 warnings)
+write$ -- 1458
+(There were 8 warnings)

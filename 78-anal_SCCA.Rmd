@@ -5,10 +5,12 @@ output:
 ---
 # Anal Squamous Cell Carcinoma
 
+[NCCN Guidelines](https://www.nccn.org/professionals/physician_gls/pdf/anal_blocks.pdf)
+
 ## Chemoradiation
 
-Nigro protocol [@nigro1826]
+Chemoradiation is now the standard for anal squamous cell carcinoma of the anal canal and for perianal cancers (except for small T1 lesions). Nigro protocol is the standard approach.[@nigro1826]
 
 ### Restaging after chemoRT
 
-Based on the results of the ACT-II study, it may be appropriate to follow patients who have not achieved a complete clinical response with persistent anal cancer up to 6 months following completion of radiation therapy and chemotherapy as long as there is no evidence of progressive disease during this period of follow-up. Persistent disease may continue to regress even at 26 weeks from the start of treatment.[@james516] James RD, et al. Lancet Oncol 2013;14:516-524
+Based on the results of the ACT-II study, it may be appropriate to follow patients who have not achieved a complete clinical response with persistent anal cancer up to 6 months following completion of radiation therapy and chemotherapy as long as there is no evidence of progressive disease during this period of follow-up. Persistent disease may continue to regress even at 26 weeks from the start of treatment.[@james516]

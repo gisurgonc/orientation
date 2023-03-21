@@ -12,7 +12,7 @@ output:
 
 Colorectal Surgery (Davis/Kasten) and GI Surgical Oncology (Hill/Salo/Squires) will cover Pineville and CMC. For efficiency, the services at each hospital will merge for patient care. Each patient will continue to have an attending surgeon, but rounding and inpatient care will be provided by the service.
 
-In general Dr Kasten will round on his own patients at CMC. Dr Davis will round on his patients on Wednesdays if he has cases at CMC. 
+In general Dr Kasten will round on his own patients at CMC. Dr Davis will round on his patients on days when he is at CMC. 
 
 ## Admissions
 
@@ -61,9 +61,9 @@ Discharge appointments are made by sending a message in Canopy the evening prior
 
 - LCI CMC GI, Clerical
 - Marsha Sukhdeo (Salo and Squires)
+- Carmen Davis (Hill)
 - Sara Gaddy (Salo and Squires) 
 - Rebecca Wicks (Hill) 
-- Brenda Prieto
 - Brandon Galloway
 
 Please include the following information in the Epic Message:

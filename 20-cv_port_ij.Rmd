@@ -19,7 +19,7 @@ output:
 - C-Arm
   - Radiology technician alerted to need for C-Arm
   - Will need lead and thyroid shields for everyone in room
-- BK Ultrasound with hockey-stick probe near patient’s RIGHT SHOULDER
+- Ultrasound with hockey-stick probe near patient’s RIGHT SHOULDER
 
 **Instruments**
 - Minor instrument pan

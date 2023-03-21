@@ -52,11 +52,6 @@ Bahadoer, R.~R., Dijkstra, E.~A., {van Etten}, B., Marijnen, C. A.~M., Putter,
   ({{RAPIDO}}): A randomised, open-label, phase 3 trial.
 \newblock {\em The Lancet. Oncology}, 22(1):29--42.
 
-\bibitem[Baker et~al., 2016]{baker987}
-Baker, M., Halliday, V., Williams, R.~N., and Bowrey, D.~J. (2016).
-\newblock A systematic review of the nutritional consequences of esophagectomy.
-\newblock {\em Clinical Nutrition (Edinburgh, Scotland)}, 35(5):987--994.
-
 \bibitem[Bang et~al., 2012]{bang315}
 Bang, Y.-J., Kim, Y.-W., Yang, H.-K., Chung, H.~C., Park, Y.-K., Lee, K.~H.,
   Lee, K.-W., Kim, Y.~H., Noh, S.-I., Cho, J.~Y., Mok, Y.~J., Kim, Y.~H., Ji,
@@ -223,12 +218,6 @@ Frandsen, J., Boothe, D., Gaffney, D.~K., Wilson, B.~D., and Lloyd, S. (2015).
   esophageal cancer.
 \newblock {\em Journal of Gastrointestinal Oncology}, 6(5):516--523.
 
-\bibitem[Furlong et~al., 2013]{furlong107}
-Furlong, H., Bass, G., Breathnach, O., O'Neill, B., Leen, E., and Walsh, T.~N.
-  (2013).
-\newblock Targeting therapy for esophageal cancer in patients aged 70 and over.
-\newblock {\em Journal of Geriatric Oncology}, 4(2):107--113.
-
 \bibitem[Ganz et~al., 2008]{ganz35}
 Ganz, R.~A., Overholt, B.~F., Sharma, V.~K., Fleischer, D.~E., Shaheen, N.~J.,
   Lightdale, C.~J., Freeman, S.~R., Pruitt, R.~E., Urayama, S.~M., Gress, F.,
@@ -314,6 +303,16 @@ Hulscher, J. B.~F., {van Sandick}, J.~W., {de Boer}, A. G. E.~M., Wijnhoven, B.
   resection for adenocarcinoma of the esophagus.
 \newblock {\em The New England Journal of Medicine}, 347(21):1662--1669.
 
+\bibitem[James et~al., 2013]{james516}
+James, R.~D., {Glynne-Jones}, R., Meadows, H.~M., Cunningham, D., Myint, A.~S.,
+  Saunders, M.~P., Maughan, T., McDonald, A., Essapen, S., Leslie, M., Falk,
+  S., Wilson, C., Gollins, S., Begum, R., Ledermann, J., Kadalayil, L., and
+  {Sebag-Montefiore}, D. (2013).
+\newblock Mitomycin or cisplatin chemoradiation with or without maintenance
+  chemotherapy for treatment of squamous-cell carcinoma of the anus ({{ACT
+  II}}): A randomised, phase 3, open-label, 2 \texttimes{} 2 factorial trial.
+\newblock {\em The Lancet. Oncology}, 14(6):516--524.
+
 \bibitem[Jin et~al., 2022]{jin1681}
 Jin, J., Tang, Y., Hu, C., Jiang, L.-M., Jiang, J., Li, N., Liu, W.-Y., Chen,
   S.-L., Li, S., Lu, N.-N., Cai, Y., Li, Y.-H., Zhu, Y., Cheng, G.-H., Zhang,
@@ -326,16 +325,6 @@ Jin, J., Tang, Y., Hu, C., Jiang, L.-M., Jiang, J., Li, N., Liu, W.-Y., Chen,
   {{Locally Advanced Rectal Cancer}} ({{STELLAR}}).
 \newblock {\em Journal of Clinical Oncology: Official Journal of the American
   Society of Clinical Oncology}, 40(15):1681--1692.
-
-\bibitem[Kalff et~al., 2020]{kalffa}
-Kalff, M.~C., Fransen, L. F.~C., {de Groot}, E.~M., Gisbertz, S.~S.,
-  Nieuwenhuijzen, G. A.~P., Ruurda, J.~P., Verhoeven, R. H.~A., Luyer, M.
-  D.~P., {van Hillegersberg}, R., {van Berge Henegouwen}, M.~I., and {Dutch
-  Upper Gastrointestinal Cancer Audit group} (2020).
-\newblock Long-{{Term Survival After Minimally Invasive Versus Open
-  Esophagectomy}} for {{Esophageal Cancer}}: {{A Nationwide Propensity-Score
-  Matched Analysis}}.
-\newblock {\em Annals of Surgery}, Publish Ahead of Print.
 
 \bibitem[Kapiteijn et~al., 2001]{kapiteijn638}
 Kapiteijn, E., Marijnen, C.~A., Nagtegaal, I.~D., Putter, H., Steup, W.~H.,
@@ -449,12 +438,6 @@ McKeown, K.~C. (1976).
 \newblock Total three-stage oesophagectomy for cancer of the oesophagus.
 \newblock {\em The British Journal of Surgery}, 63(4):259--262.
 
-\bibitem[Mellow and Pinkas, 1985]{mellow1443}
-Mellow, M.~H. and Pinkas, H. (1985).
-\newblock Endoscopic laser therapy for malignancies affecting the esophagus and
-  gastroesophageal junction. {{Analysis}} of technical and functional efficacy.
-\newblock {\em Archives of Internal Medicine}, 145(8):1443--1446.
-
 \bibitem[{MERCURY Study Group}, 2006]{mercurystudygroup779}
 {MERCURY Study Group} (2006).
 \newblock Diagnostic accuracy of preoperative magnetic resonance imaging in
@@ -486,6 +469,13 @@ Nagtegaal, I.~D. and Quirke, P. (2008).
   treatment of rectal cancer?
 \newblock {\em Journal of Clinical Oncology: Official Journal of the American
   Society of Clinical Oncology}, 26(2):303--312.
+
+\bibitem[Nigro et~al., 1983]{nigro1826}
+Nigro, N., Seydel, H., Considine, B., Vaitkevicius, V., Leichman, L., and
+  Kinzie, J. (1983).
+\newblock Combined preoperative radiation and chemotherapy for squamous cell
+  carcinoma of the anal canal.
+\newblock {\em Cancer}, 51(10):1826.
 
 \bibitem[Noh et~al., 2014]{noh1389}
 Noh, S.~H., Park, S.~R., Yang, H.-K., Chung, H.~C., Chung, I.-J., Kim, S.-W.,
@@ -623,8 +613,8 @@ Repici, A., Hassan, C., Carlino, A., Pagano, N., Zullo, A., Rando, G.,
 \newblock {\em Gastrointestinal Endoscopy}, 71(4):715--721.
 
 \bibitem[Rice et~al., 2007]{rice317}
-Rice, T.~W., Mason, D.~P., Murthy, S.~C., Zuccaro, G., J., Adelstein, D.~J.,
-  Rybicki, L.~A., and Blackstone, E.~H. (2007).
+Rice, T.~W., Mason, D.~P., Murthy, S.~C., Zuccaro, G., {\relax Jr}., Adelstein,
+  D.~J., Rybicki, L.~A., and Blackstone, E.~H. (2007).
 \newblock {{T2N0M0}} esophageal cancer.
 \newblock {\em J Thorac Cardiovasc Surg}, 133(2):317--24.
 
@@ -642,13 +632,6 @@ Rusch, V.~W. (2004).
 \newblock Are cancers of the esophagus, gastroesophageal junction, and cardia
   one disease, two, or several?
 \newblock {\em Seminars in Oncology}, 31(4):444--449.
-
-\bibitem[Sarkaria et~al., 2009]{sarkaria764}
-Sarkaria, I.~S., Rizk, N.~P., Bains, M.~S., Tang, L.~H., Ilson, D.~H., Minsky,
-  B.~I., and Rusch, V.~W. (2009).
-\newblock Post-treatment endoscopic biopsy is a poor-predictor of pathologic
-  response in patients undergoing chemoradiation therapy for esophageal cancer.
-\newblock {\em Annals of Surgery}, 249(5):764--767.
 
 \bibitem[Sauer et~al., 2001]{sauer173}
 Sauer, R., Fietkau, R., Wittekind, C., Martus, P., R{\"o}del, C., Hohenberger,
@@ -825,7 +808,7 @@ Taketa, T., Correa, A.~M., Suzuki, A., Blum, M.~A., Chien, P., Lee, J.~H.,
   Ajani, J.~A. (2012).
 \newblock Outcome of trimodality-eligible esophagogastric cancer patients who
   declined surgery after preoperative chemoradiation.
-\newblock {\em Oncology}, 83(5):300--4.
+\newblock {\em Oncology}, 83(5):300--304.
 
 \bibitem[Taketa et~al., 2014]{taketa1139}
 Taketa, T., Sudo, K., Correa, A.~M., Wadhwa, R., Shiozaki, H., Elimova, E.,
@@ -899,16 +882,16 @@ Vakil, N., Morris, A.~I., Marcon, N., Segalin, A., Peracchia, A., Bethge, N.,
 \newblock {\em The Lancet. Oncology}, 12(6):575--582.
 
 \bibitem[{van Hagen} et~al., 2012]{vanhagen2074}
-{van Hagen}, P., Hulshof, M.~C., {van Lanschot}, J.~J., Steyerberg, E.~W., {van
-  Berge Henegouwen}, M.~I., Wijnhoven, B.~P., Richel, D.~J., Nieuwenhuijzen,
-  G.~A., Hospers, G.~A., Bonenkamp, J.~J., Cuesta, M.~A., Blaisse, R.~J.,
-  Busch, O.~R., {ten Kate}, F.~J., Creemers, G.~J., Punt, C.~J., Plukker,
-  J.~T., Verheul, H.~M., Spillenaar~Bilgen, E.~J., {van Dekken}, H., {van der
-  Sangen}, M.~J., Rozema, T., Biermann, K., Beukema, J.~C., Piet, A.~H., {van
-  Rij}, C.~M., Reinders, J.~G., Tilanus, H.~W., {van der Gaast}, A., and Group,
-  C. (2012).
+{van Hagen}, P., Hulshof, M. C. C.~M., {van Lanschot}, J. J.~B., Steyerberg,
+  E.~W., {van Berge Henegouwen}, M.~I., Wijnhoven, B. P.~L., Richel, D.~J.,
+  Nieuwenhuijzen, G. a.~P., Hospers, G. a.~P., Bonenkamp, J.~J., Cuesta, M.~A.,
+  Blaisse, R. J.~B., Busch, O. R.~C., {ten Kate}, F. J.~W., Creemers, G.-J.,
+  Punt, C. J.~A., Plukker, J. T.~M., Verheul, H. M.~W., Spillenaar~Bilgen,
+  E.~J., {van Dekken}, H., {van der Sangen}, M. J.~C., Rozema, T., Biermann,
+  K., Beukema, J.~C., Piet, A. H.~M., {van Rij}, C.~M., Reinders, J.~G.,
+  Tilanus, H.~W., {van der Gaast}, A., and {CROSS Group} (2012).
 \newblock Preoperative chemoradiotherapy for esophageal or junctional cancer.
-\newblock {\em N Engl J Med}, 366(22):2074--84.
+\newblock {\em The New England Journal of Medicine}, 366(22):2074--2084.
 
 \bibitem[{van Vliet} et~al., 2008]{vanvliet547}
 {van Vliet}, E. P.~M., {Heijenbrok-Kal}, M.~H., Hunink, M. G.~M., Kuipers,
@@ -928,14 +911,6 @@ Worrell, S.~G., Alicuben, E.~T., Oh, D.~S., Hagen, J.~A., and DeMeester, S.~R.
 \newblock Accuracy of {{Clinical Staging}} and {{Outcome With Primary
   Resection}} for {{Local-Regionally Limited Esophageal Adenocarcinoma}}.
 \newblock {\em Annals of Surgery}, 267(3):484--488.
-
-\bibitem[Wouters et~al., 2009]{wouters1789}
-Wouters, M. W. J.~M., {Karim-Kos}, H.~E., {le Cessie}, S., Wijnhoven, B. P.~L.,
-  Stassen, L. P.~S., Steup, W.~H., Tilanus, H.~W., and Tollenaar, R. a. E.~M.
-  (2009).
-\newblock Centralization of esophageal cancer surgery: Does it improve clinical
-  outcome?
-\newblock {\em Annals of Surgical Oncology}, 16(7):1789--1798.
 
 \bibitem[Yang et~al., 2018]{yang2796}
 Yang, H., Liu, H., Chen, Y., Zhu, C., Fang, W., Yu, Z., Mao, W., Xiang, J.,
