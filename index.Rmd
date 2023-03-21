@@ -33,6 +33,11 @@ install.packages("bookdown")
 
 
 ```
+
+# Welcome
+
+Welcome to the GI Surgical Oncology service. This orientation manual is designed to provide an introduction to the service, its workflow, and an introduction to relevant literature. Please let us know about additional information which could be included may be helpful to others. 
+
 # Overview {#Intro}
 
 ## Absences
@@ -41,7 +46,7 @@ Please notify Dr Hill, Dr Salo and Dr Squires before the beginning of the rotati
 
 ## Communication
 
-Please use Haiku for messaging service attendings rather than SMS. Please check our status prior to messaging nights and weekends. If we are listed as unavailable, please contact *GI Surg Onc Attending LCI CMC*.
+Please use Haiku for messaging service attendings rather than text. Please check our status prior to messaging nights and weekends. If we are listed as unavailable, please contact *GI Surg Onc Attending LCI CMC*.
 
 
 ## Medical Records
