@@ -1,0 +1,9 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# Non-operative management of Rectal Cancer
+
+MSKCC published an experience of 113 patients with cCR after chemoradiation for rectal cancer who elected non-operative management [@smithe185896]. Among this group, 22 developed a local recurrence, and 8% developed metastatic disease.[@smith657]
+

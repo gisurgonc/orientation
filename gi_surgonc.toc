@@ -124,7 +124,7 @@
 \contentsline {chapter}{\numberline {42}Colostomy SCORE}{135}{chapter.42}%
 \contentsline {chapter}{\numberline {43}Total Colectomy SCORE}{137}{chapter.43}%
 \contentsline {chapter}{\numberline {44}Stage IV Colon Cancer}{139}{chapter.44}%
-\contentsline {section}{\numberline {44.1}Carcinomatosis}{139}{section.44.1}%
+\contentsline {section}{\numberline {44.1}Stent vs colostomy}{139}{section.44.1}%
 \contentsline {section}{\numberline {44.2}Colon resection in stage IV colon cancer}{139}{section.44.2}%
 \contentsline {section}{\numberline {44.3}Immunotherapy for dMMR (MSI high)}{139}{section.44.3}%
 \contentsline {chapter}{\numberline {45}Colectomy}{141}{chapter.45}%
@@ -149,17 +149,22 @@
 \contentsline {section}{\numberline {48.6}Complications}{150}{section.48.6}%
 \contentsline {chapter}{\numberline {49}Rectal Cancer Staging}{151}{chapter.49}%
 \contentsline {section}{\numberline {49.1}MRI staging}{151}{section.49.1}%
+\contentsline {section}{\numberline {49.2}EUS}{151}{section.49.2}%
 \contentsline {chapter}{\numberline {50}Rectal Cancer Surgery}{153}{chapter.50}%
-\contentsline {chapter}{\numberline {51}Rectal Adjuvant Therapy}{155}{chapter.51}%
-\contentsline {subsection}{\numberline {51.0.1}Short-course preoperative therapy}{155}{subsection.51.0.1}%
-\contentsline {subsection}{\numberline {51.0.2}Total Neoadjuvant therapy}{156}{subsection.51.0.2}%
-\contentsline {section}{\numberline {51.1}Neoadjuvant immunotherapy (MSI high)}{156}{section.51.1}%
-\contentsline {section}{\numberline {51.2}Non-operative management of Rectal Cancer}{157}{section.51.2}%
-\contentsline {chapter}{\numberline {52}Anal Squamous Cell Carcinoma}{159}{chapter.52}%
-\contentsline {section}{\numberline {52.1}Chemoradiation}{159}{section.52.1}%
-\contentsline {subsection}{\numberline {52.1.1}Restaging after chemoRT}{159}{subsection.52.1.1}%
-\contentsline {part}{Sarcoma}{163}{part*.9}%
-\contentsline {chapter}{\numberline {53}Soft Tissue Sarcomas}{163}{chapter.53}%
-\contentsline {section}{\numberline {53.1}Desmoid Tumors}{163}{section.53.1}%
-\contentsline {section}{\numberline {53.2}Retroperitoneal}{163}{section.53.2}%
-\contentsline {section}{\numberline {53.3}Peritoneal mesothelioma}{163}{section.53.3}%
+\contentsline {chapter}{\numberline {51}Rectal Cancer Surgery}{155}{chapter.51}%
+\contentsline {chapter}{\numberline {52}Rectal Adjuvant Therapy}{157}{chapter.52}%
+\contentsline {section}{\numberline {52.1}Surgery \(\Rightarrow \) Radiation}{157}{section.52.1}%
+\contentsline {section}{\numberline {52.2}Radiation \(\Rightarrow \) Surgery}{157}{section.52.2}%
+\contentsline {section}{\numberline {52.3}Short-course preoperative therapy}{158}{section.52.3}%
+\contentsline {section}{\numberline {52.4}Total Neoadjuvant therapy}{158}{section.52.4}%
+\contentsline {section}{\numberline {52.5}Selective adjuvant therapy}{159}{section.52.5}%
+\contentsline {section}{\numberline {52.6}Neoadjuvant immunotherapy (MSI high)}{159}{section.52.6}%
+\contentsline {chapter}{\numberline {53}Non-operative management of Rectal Cancer}{161}{chapter.53}%
+\contentsline {chapter}{\numberline {54}Anal Squamous Cell Carcinoma}{163}{chapter.54}%
+\contentsline {section}{\numberline {54.1}Chemoradiation}{163}{section.54.1}%
+\contentsline {subsection}{\numberline {54.1.1}Restaging after chemoRT}{163}{subsection.54.1.1}%
+\contentsline {part}{Sarcoma}{167}{part*.9}%
+\contentsline {chapter}{\numberline {55}Soft Tissue Sarcomas}{167}{chapter.55}%
+\contentsline {section}{\numberline {55.1}Desmoid Tumors}{167}{section.55.1}%
+\contentsline {section}{\numberline {55.2}Retroperitoneal}{167}{section.55.2}%
+\contentsline {section}{\numberline {55.3}Peritoneal mesothelioma}{167}{section.55.3}%

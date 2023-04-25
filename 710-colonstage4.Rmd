@@ -1,6 +1,11 @@
 # Stage IV Colon Cancer
 
-## Carcinomatosis
+## Stent vs colostomy
+
+CREST trial[@crestcollaborativegroup1073] stent as bridge to surgery in obstructing left colon cancers. 246 patients randomized to colostomy vs stent as bridge to surgery. Lower rate of stoma formation in stent group. 
+
+Average patency of stent duration is 120 days
+
 
 ## Colon resection in stage IV colon cancer
 

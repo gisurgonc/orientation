@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.1.27)  21 MAR 2023 07:49
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.1.27)  25 APR 2023 08:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -957,11 +957,11 @@ Chapter 43.
 
 ]
 Chapter 44.
-[139] [140
-
-]
+[139] [140]
 Chapter 45.
-[141] [142
+[141
+
+] [142
 
 ]
 Chapter 46.
@@ -987,43 +987,88 @@ Chapter 50.
 
 ]
 Chapter 51.
-[155] [156] [157] [158
+[155] [156
 
 ]
 Chapter 52.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 14.4pt on input line 3905.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 14.4013pt on input line 3905.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 14.39845pt on input line 3905.
+[157] [158]
+
+Package natbib Warning: Citation `garcia-aguilar2546' on page 159 undefined on input line 3944.
+
+
+Package natbib Warning: Citation `taylor711' on page 159 undefined on input line 3949.
+
+
+Package natbib Warning: Citation `strassburg2790' on page 159 undefined on input line 3949.
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 3949--3950
+\TU/lmr/m/n/10 MERCURY study group has examined selective approaches to adjuvant
+ []
+
+
+Package natbib Warning: Citation `kreis25' on page 159 undefined on input line 3951.
+
+
+Package natbib Warning: Citation `ruppert1519' on page 159 undefined on input line 3951.
+
+
+Overfull \hbox (4.21999pt too wide) in paragraph at lines 3953--3954
+[]\TU/lmr/m/n/10 Canadian [Quicksilver Trial] ([]$[][][][][] [] [] [] [][][][][][][][][][][] [] [][][] [] [][][][][][][][] [] [][][][][][][][][][][][] []
+ []
+
 [159] [160
 
-] [161] [162]
+]
 Chapter 53.
-(./gi_surgonc.bbl [163
+[161]
+Overfull \hbox (13.46562pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 162 \TU/lmr/m/sl/10 CHAPTER 53.  NON-OPERATIVE MANAGEMENT OF RECTAL CANCER
+ []
 
-] [164
+[162
 
-] [165] [166] [167] [168]
-Underfull \hbox (badness 1005) in paragraph at lines 274--278
+]
+Chapter 54.
+[163] [164
+
+] [165] [166]
+Chapter 55.
+(./gi_surgonc.bbl [167
+
+] [168
+
+] [169] [170] [171] [172]
+Underfull \hbox (badness 1005) in paragraph at lines 266--270
 \TU/lmr/m/n/10 tal mesorectal excision for rectal cancer.  \TU/lmr/m/it/10 Lancet (London, England)\TU/lmr/m/n/10 ,
  []
 
-[169] [170] [171] [172] [173] [174] [175]
-Underfull \hbox (badness 2005) in paragraph at lines 758--766
+[173] [174] [175] [176] [177] [178] [179]
+Underfull \hbox (badness 2005) in paragraph at lines 750--758
 []\TU/lmr/m/n/10 Stahl, M., Walz, M. K., Stuschke, M., Lehmann, N., Meyer, H.-J.,
  []
 
-[176] [177] [178])
+[180] [181] [182])
 
 Package natbib Warning: There were undefined citations.
 
-[179] (./gi_surgonc.aux)
+[183] (./gi_surgonc.aux)
 Package rerunfilecheck Info: File `gi_surgonc.out' has not changed.
-(rerunfilecheck)             Checksum: 0C95ACCEEFCEDD732964D7D4A5DC60D5;8141.
+(rerunfilecheck)             Checksum: 32D6BC0DA752C9155D57D877ED944F7E;8573.
  ) 
 Here is how much of TeX's memory you used:
- 17411 strings out of 478723
- 322560 string characters out of 5847881
+ 17425 strings out of 478723
+ 322997 string characters out of 5847881
  1857960 words of memory out of 5000000
- 37252 multiletter control sequences out of 15000+600000
- 518746 words of font info for 86 fonts, out of 8000000 for 9000
+ 37263 multiletter control sequences out of 15000+600000
+ 519707 words of font info for 92 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 86i,6n,121p,1698b,643s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 86i,6n,121p,1698b,645s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on gi_surgonc.pdf (179 pages).
+Output written on gi_surgonc.pdf (183 pages).

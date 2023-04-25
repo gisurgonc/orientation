@@ -1,13 +1,17 @@
 ---
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 # Rectal Adjuvant Therapy
 
+## Surgery $\Rightarrow$ Radiation
+
 The original approach to adjuvant therapy for rectal cancer was surgery followed by chemoradiation.
 
-The tnext innovation to adjuvant therapy for rectal cancer was chemoradiation prior to surgery, followed by adjuvant chemotherapy.
+## Radiation $\Rightarrow$ Surgery
+
+The next innovation to adjuvant therapy for rectal cancer was chemoradiation prior to surgery, followed by adjuvant chemotherapy.
 
 German Rectal Cancer Study (AIO-94) compared preop and postop chemoradiation in locally-advanced rectal cancer [@sauer173]. Among 823 patients, local recurrence was 6% in the preoperative group vs 13% in the postop group (p=0.0006). Overall survival was not different, but preop chemoradiation was less toxic. Pathologic complete response rate in the preoperative group as 8%.
 
@@ -15,19 +19,21 @@ NSABP R-03 clinical trial [@roh5124] randomized 267 patients with T3 or T4 or no
 
 Dutch Rectal Cancer Trial (CKVO 95-04): Demonstrated the benefit of preop radiation in combination with TME[@kapiteijn638]. Radiation reduced local recurrence form 10.9% to 5.6%
 
-### Short-course preoperative therapy
+The Dutch trial found a reduction in local recurrence form 10.9% to 5.6% with preoperative radiation with no difference in survival[@kapiteijn638]. A later update[@vangijn575] The Medical Research Council C07 trial compared preoperative short-course radiation with selective post-operative chemoradiation and found no difference in local recurrence (4.4% vs 10.6%) and no difference in overall survival.[@sebag-montefiore811]
+
+## Short-course preoperative therapy
 
 An alternative to preoperative chemoradiation over 6 weeks is to administer radiation alone properative over a five day period.
 
-Swedish Rectal Cancer Trial compared surgery alone with preoperative short-course therapy consisting of 500cGy of radiation without chemotherapy administered in one week prior to surgery. Local recurrence was 9% in the therapy group vs 26% in the control group, with an improvement in overall survival of 38% vs 80%[@swedishrectalcancertrial980]. Of note, this trial was performed in the era prioro to the widespread use of total mesorectal excision.
+Swedish Rectal Cancer Trial compared surgery alone with preoperative short-course therapy consisting of 5 doses of 500cGy of radiation without chemotherapy administered in one week prior to surgery. Local recurrence was 9% in the therapy group vs 26% in the control group, with an improvement in overall survival of 38% vs 80%[@swedishrectalcancertrial980]. Of note, this trial was performed in the era prioro to the widespread use of total mesorectal excision.
 
 Stockholm III trial showed that short-course radiation therapy performed 4-8 weeks prior to surgery resulted in imporved rates of pathologic complete response (12% vs 2%) compared with short-course radiation therapy performed the week prior to surgery [@pettersson972]
 
-The Dutch trial found a reduction in local recurrence form 10.9% to 5.6% with preoperative radiation with no difference in survival[@kapiteijn638]. A later update[@vangijn575] The Medical Research Council C07 trial compared preoperative short-course radiation with selective post-operative chemoradiation and found no difference in local recurrence (4.4% vs 10.6%) and no difference in overall survival.[@sebag-montefiore811]
-
-### Total Neoadjuvant therapy
+## Total Neoadjuvant therapy
 
 A more modern approach has been to administer chemotherapy in addition to chemoradiation prior to surgery. 
+
+Advantages
 
 RAPIDO trial randomized 920 patients with T4 or node-positive disease to long-course chemoradiation followed by surgery  vs short-course radiation followed by chemotherapy and surgery. The pCR rate was significantly higher in the short course/chemotherapy/surgery group (28% vs 14%) and disease-specific surival at 3years was higher (30% vs 24%).[@bahadoer29]  [@vandervalk75]
 
@@ -35,7 +41,16 @@ PRODIGE 23 randomized 461 patients with T3 or T4 recta cancers to long-course ra
 
 STELLAR trial [@jin1681] TNT with short-course radiation (5Gy x 5 days) + CAPEOX chemotherapy vs long-course chemoRT with capecitibine.  No differences in relapse-free survival or metastasis free survival. Overall survival better with TNT (p=0.03). On subgroup analysis, no group appeared to have more benefit. pCR rate 17% with TNT vs 13.9% with conventional chemoradiation. Positive margins (R1) occurred in 8.5% of TNT patients vs 12.5% in the conventional chemoRT group.
 
-OPRA clinical trial [@garcia-aguilarJCO2200032]. 324 rectal cancer patients staged with MRI randomized to INCT (induction chemo followed by chemoRT) vs CNCT (Chemoradiation followed by chemotherapy). Patients with a resopnse were offered watch and wait. Patients without a response were treated with surgery. No difference in disease-free survival or overall survival. Among patients in watch and wait, somewhat more patients with INCT had recurrences (42 patients vs 32 patients). More organ preservation with CNCT. See also [@smith767]
+OPRA clinical trial [@garcia-aguilar2546]. 324 rectal cancer patients staged with MRI randomized to INCT (induction chemo followed by chemoRT) vs CNCT (Chemoradiation followed by chemotherapy). Patients with a response were offered watch and wait. Patients without a response were treated with surgery. No difference in disease-free survival or overall survival or metastasis-free survival. 304 patients were restaged and only 26% were recommended to have surgery. Among 225 patients in watch and wait, somewhat more patients with INCT had recurrences (40% of 105 = 42 patients vs 27% of 102 =32 patients). More organ preservation at 3 years with CNCT (60% CNCT vs 47% INCT).See also [@smith767]
+
+## Selective adjuvant therapy
+
+MERCURY study group has examined selective approaches to adjuvant chemoradiation in low-risk patients with rectal cancer. [@taylor711], [@strassburg2790]
+
+German OCUM group [@kreis25] [@ruppert1519]
+
+Canadian [Quicksilver Trial] (https://jamanetwork.com/journals/jamaoncology/fullarticle/2730134) 
+
 
 ## Neoadjuvant immunotherapy (MSI high)
 
@@ -43,7 +58,5 @@ MSKCC trial of neoadjuvant PD-1 blockade with 6 months of dostarlimab for 12 pat
 
 PICC trial [@hu38] Chinese trial of PD-1 blockade with neoadjvant toripalimab + colecoxib vs toripalimab for 3 months in 34 patients with MMR-deficient locally-advanced (T3/4 or N+) colorectal cancer. All patients were then treated with surgery.   Pathologic complete response in 88% of dual-therapy patients and 65% of monotherapy. Grade 3 toxicity in 1/34 patients. Previous neoadjuvant chemo in 25%. Rectal cancer in 18%.
 
-## Non-operative management of Rectal Cancer
 
-MSKCC published an experience of 113 patients with cCR after chemoradiation for rectal cancer who elected non-operative management [@smithe185896]. Among this group, 22 developed a local recurrence, and 8% developed metastatic disease.[@smith657]
 

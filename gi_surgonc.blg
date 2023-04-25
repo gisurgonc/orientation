@@ -11,45 +11,50 @@ Warning--I didn't find a database entry for "kalffa"
 Warning--I didn't find a database entry for "baker987"
 Warning--I didn't find a database entry for "wang20"
 Warning--I didn't find a database entry for "sasako4387"
+Warning--I didn't find a database entry for "garcia-aguilar2546"
+Warning--I didn't find a database entry for "taylor711"
+Warning--I didn't find a database entry for "strassburg2790"
+Warning--I didn't find a database entry for "kreis25"
+Warning--I didn't find a database entry for "ruppert1519"
 You've used 112 entries,
             1935 wiz_defined-function locations,
-            1098 strings with 50101 characters,
-and the built_in function-call counts, 80476 in all, are:
-= -- 6942
-> -- 7007
+            1104 strings with 49371 characters,
+and the built_in function-call counts, 79087 in all, are:
+= -- 6842
+> -- 6801
 < -- 14
-+ -- 2680
-- -- 2670
-* -- 8702
-:= -- 14437
++ -- 2598
+- -- 2588
+* -- 8549
+:= -- 14190
 add.period$ -- 336
 call.type$ -- 112
-change.case$ -- 1895
+change.case$ -- 1854
 chr.to.int$ -- 112
 cite$ -- 112
-duplicate$ -- 1589
-empty$ -- 3523
-format.name$ -- 2800
-if$ -- 14554
+duplicate$ -- 1568
+empty$ -- 3522
+format.name$ -- 2718
+if$ -- 14304
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 112
 newline$ -- 563
 num.names$ -- 336
-pop$ -- 1661
+pop$ -- 1616
 preamble$ -- 1
-purify$ -- 1895
+purify$ -- 1854
 quote$ -- 0
-skip$ -- 1163
+skip$ -- 1135
 stack$ -- 0
-substring$ -- 4566
-swap$ -- 133
-text.length$ -- 1
+substring$ -- 4577
+swap$ -- 112
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 672
 warning$ -- 0
-while$ -- 429
+while$ -- 430
 width$ -- 0
 write$ -- 1458
-(There were 8 warnings)
+(There were 13 warnings)
