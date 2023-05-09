@@ -10,7 +10,7 @@ MAGIC study randomized 503 patients to perioperative 'sandwich' therapy consisti
 
 CLASSIC clinical trial randomized 1033 patients with stage II or III gastric cancer after D2 gastrectomy to 6 months of adjuvant chemotherapy versus surgery alone. Three-year survival was improved in the chemotherapy group (74% *v* 59%).[@bang315]
 
-The FFCD trial randomized patients to preoperative chemotherapy with 2 or 3 yccles of cisplatin and 5-FU versus surgery alone. Tumors of the lower esophagus or gastroesophageal junction comprised 75% of the study population. Survival at 5 years was longer in the chemotherapy group (38%) versus 24% in the surgery alone group (p=0.02).[@ychou1715]
+The FFCD trial randomized patients to preoperative chemotherapy with 2 or 3 cycles of cisplatin and 5-FU versus surgery alone. Tumors of the lower esophagus or gastroesophageal junction comprised 75% of the study population. Survival at 5 years was longer in the chemotherapy group (38%) versus 24% in the surgery alone group (p=0.02).[@ychou1715]
 
 RESONANCE-II trial of Oxaliplatin + S-1 (SOX) [@wang20]
 
