@@ -12,15 +12,15 @@
 
   - Assessment of sphincter function
 
-## Operative Treatment
+## Operative Tx
 
-### Total mesorectal excision
+### [Total mesorectal excision](767-rectal_surgery.html)
 
 ### Transanal excision
 
-### Isolated liver metastasis
+### Isolated liver mets
 
-## Adjuvant therapy
+## [Adjuvant therapy](770-rectal_RT.html)
 
   - Standard course chemoRT
   - Swedish preop RT
