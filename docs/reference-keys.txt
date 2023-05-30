@@ -58,6 +58,7 @@ lap_gastrostomy_salo
 esophagectomy-1-stage
 indications
 room-prep
+position
 time-out
 gastric-mobilization
 distal-mobilization
@@ -114,6 +115,7 @@ proximal-gastrectomy
 gastric-gist
 genetics
 ColonObjCR
+ColonGenetics
 PColectomyObj
 ColostomyObj
 TColectomyObj

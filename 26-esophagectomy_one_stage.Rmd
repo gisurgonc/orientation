@@ -16,12 +16,24 @@ MI Ivor Lewis (“One Stage”) esophagectomy is the most common approach to eso
 
 ## Room Prep
 
-Confirm positioning equipment (Salo positioner 'bucket'):
+Double-decker Back Table
+
+EGD Cart (check w/ Salo regarding adult vs neonatal scope)
+
+Doppler box with foot pedal
+
+BK Ultrasound (with laparoscopic probe)
+
+Walter 'Long Arm' retractor
+
+Salo Positioning Cart:
 
 - Four black side-rail clamps
 - Four rectangular lateral positioners
-- Yassargil socket OR large-bore Clark socket
+- Yassargil socket
 - Well-leg holder (used as an arm holder)
+
+Harmonic Scalpel generator box
 
 Critical supplies (chek prior to pt in room)
 
@@ -32,8 +44,7 @@ Critical supplies (chek prior to pt in room)
 - Echelon 60mm stapler with 10 gold loads and 2 gray loads
 - Gel Port
 
-
-Review inital PET images
+\newpage
 
 **Anesthesia**
 
@@ -41,13 +52,13 @@ Review inital PET images
 - Arterial line (left arm will be on arm board)
 - Anesthesia may place paraspinal muscle blocks on right side. 
 
-##Position
+## Position
 
 Supine on blue foam pad. 
 
-Mark upper midline with non-sterile skin marker 
+Mark upper midline with skin marker 
 
-Foley catheter (with Criticor temperature sensor) 
+Foley catheter (with Criticor temp sensor) 
 
 Bovie pad 
 
@@ -109,7 +120,7 @@ Anticipated Intraop Problems:
 
 ## Gastric Mobilization
 
-After infiltration of 1% marcaine, 7cm upper midline incision made for handport. Small incision is made and pylorus palpated, if possible. Incision is centered over pylorus. GelPort inserted, and abdomen insufflated to 15mmHg. Two 5mm ports placed LUQ. Medial LUQ 5mm port placed in angle between left costal margin and superior edge of GelPort ring. Lateral LUQ 5mm port placed as far lateral as possible. Depending upon visualization, a third port may be required between these two and somewhat more inferior.
+7cm upper midline incision for handport. Incision is centered over pylorus. GelPort inserted, and abdomen insufflated to 15mmHg. Two 5mm ports placed LUQ. Medial LUQ 5mm port placed in angle between left costal margin and superior edge of GelPort ring. Lateral LUQ 5mm port placed as far lateral as possible. Depending upon visualization, a third port may be required between these two and somewhat more inferior.
 
 If feasible, division of gastrocolic omentum starts by delivering transverse colon into GelPort and dividing ligament with cautery and LigaSure in the avascular plane just cephalad to transverse colon. Dissection proceeds as far proximal and distal and feasible. It is important to avoid damage to the right gastroepiploic artery.
 
