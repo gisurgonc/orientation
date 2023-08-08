@@ -163,12 +163,13 @@
 \contentsline {section}{\numberline {53.4}Total Neoadjuvant}{162}{section.53.4}%
 \contentsline {section}{\numberline {53.5}Selective Adjuvant}{163}{section.53.5}%
 \contentsline {section}{\numberline {53.6}Neoadjuvant ITx}{163}{section.53.6}%
-\contentsline {chapter}{\numberline {54}Non-operative management of Rectal Cancer}{165}{chapter.54}%
-\contentsline {chapter}{\numberline {55}Anal Squamous Cell Carcinoma}{167}{chapter.55}%
-\contentsline {section}{\numberline {55.1}Chemoradiation}{167}{section.55.1}%
-\contentsline {subsection}{\numberline {55.1.1}Restaging after chemoRT}{167}{subsection.55.1.1}%
-\contentsline {part}{Sarcoma}{171}{part*.9}%
-\contentsline {chapter}{\numberline {56}Soft Tissue Sarcomas}{171}{chapter.56}%
-\contentsline {section}{\numberline {56.1}Desmoid Tumors}{171}{section.56.1}%
-\contentsline {section}{\numberline {56.2}Retroperitoneal}{171}{section.56.2}%
-\contentsline {section}{\numberline {56.3}Peritoneal mesothelioma}{171}{section.56.3}%
+\contentsline {chapter}{\numberline {54}Neoadjuvant Chemotherapy}{165}{chapter.54}%
+\contentsline {chapter}{\numberline {55}Non-operative management of Rectal Cancer}{167}{chapter.55}%
+\contentsline {chapter}{\numberline {56}Anal Squamous Cell Carcinoma}{169}{chapter.56}%
+\contentsline {section}{\numberline {56.1}Chemoradiation}{169}{section.56.1}%
+\contentsline {subsection}{\numberline {56.1.1}Restaging after chemoRT}{169}{subsection.56.1.1}%
+\contentsline {part}{Sarcoma}{173}{part*.9}%
+\contentsline {chapter}{\numberline {57}Soft Tissue Sarcomas}{173}{chapter.57}%
+\contentsline {section}{\numberline {57.1}Desmoid Tumors}{173}{section.57.1}%
+\contentsline {section}{\numberline {57.2}Retroperitoneal}{173}{section.57.2}%
+\contentsline {section}{\numberline {57.3}Peritoneal mesothelioma}{173}{section.57.3}%
