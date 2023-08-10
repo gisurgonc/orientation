@@ -66,6 +66,7 @@ left-gastric-artery
 mediastinal-dissection
 division-of-esophagus-four-phase
 entry-into-right-chest
+node_salo
 EsoObjJB
 EsoObjCR
 EsoIntro

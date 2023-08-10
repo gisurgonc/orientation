@@ -1,0 +1,16 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
+```{r, include=F}
+# Placeholder for clinical evaluation
+# = history and physical
+# Nutritional evaluation
+```
+
+# Lymph Node Bioppsy  {#node_salo}
+
+When lymph node biopsies are obtain for a possible diagnosis of lymphoma, it is important that the pathology specimen be sent fresh and labeled for "lymphoma workup"
+
+Workup for lymphoma requires flow cytomety, which requires special handling of of the fresh specimen. Preparaton for flow cytometry also requires that a technician be available to process the specimen.  For biopsies which occur on weekends or evenings, it is critical to contact pathology before the case to be certain that specimen handling for flow cytometry can be performed.
