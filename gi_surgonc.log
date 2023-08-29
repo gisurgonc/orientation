@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.1.27)  22 AUG 2023 07:54
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.1.27)  29 AUG 2023 07:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -764,196 +764,196 @@ Chapter 15.
 
 ]
 Chapter 16.
-[53] [54] [55] [56] [57
-
-] [58]
+[53] [54] [55] [56]
 Chapter 17.
-[59
+[57
 
-] [60
+] [58] [59
 
-] [61] [62]
+] [60]
 Chapter 18.
-[63
+[61
 
-] [64] [65] [66
+] [62
+
+] [63] [64]
+Chapter 19.
+[65
+
+] [66] [67] [68
 
 ]
-Chapter 19.
-[67]
-Underfull \hbox (badness 1028) in paragraph at lines 2172--2173
+Chapter 20.
+[69]
+Underfull \hbox (badness 1028) in paragraph at lines 2207--2208
 \TU/lmr/m/n/10 Patients with metastatic esophageal cancer who need enteral access are
  []
 
-[68]
+[70]
 Missing character: There is no ″ (U+2033) in font [lmroman10-regular]:mapping=tex-text;!
-[69] [70]
-Chapter 20.
-[71
-
-] [72] [73] [74] [75] [76
-
-]
+[71] [72]
 Chapter 21.
-[77] [78] [79] [80] [81]
-Missing character: There is no ″ (U+2033) in font [lmroman10-regular]:mapping=tex-text;!
-[82] [83] [84] [85] [86
+[73
+
+] [74] [75] [76] [77] [78
 
 ]
 Chapter 22.
-[87] [88
+[79] [80] [81] [82] [83]
+Missing character: There is no ″ (U+2033) in font [lmroman10-regular]:mapping=tex-text;!
+[84] [85] [86] [87] [88
 
-] [89] [90]
+]
 Chapter 23.
-[91
+[89] [90
 
-] [92]
+] [91] [92]
 Chapter 24.
 [93
 
 ] [94]
 Chapter 25.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 2907.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 2907.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00092pt on input line 2907.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.00064pt on input line 2907.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00046pt on input line 2907.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 2907.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 2907.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 2907.
 [95
 
-] [96
+] [96]
+Chapter 26.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 2942.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 5.0pt on input line 2942.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 10.00092pt on input line 2942.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 7.00064pt on input line 2942.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.00046pt on input line 2942.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 9.99893pt on input line 2942.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 6.99925pt on input line 2942.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 4.99947pt on input line 2942.
+[97
+
+] [98
 
 ]
-Chapter 26.
-[97] [98]
 Chapter 27.
-[99
-
-] [100]
+[99] [100]
 Chapter 28.
-
-Underfull \vbox (badness 1635) has occurred while \output is active []
-
 [101
 
 ] [102]
 Chapter 29.
+
+Underfull \vbox (badness 1635) has occurred while \output is active []
+
 [103
+
+] [104]
+Chapter 30.
+[105
 
 ]
 
-Package natbib Warning: Citation `sarkaria764' on page 104 undefined on input line 3093.
+Package natbib Warning: Citation `sarkaria764' on page 106 undefined on input line 3128.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3101--3101
+Underfull \hbox (badness 10000) in paragraph at lines 3136--3136
 []\TU/lmr/bx/n/14.4 Induction chemotherapy followed by
  []
 
-[104] [105] [106
+[106] [107] [108
 
 ]
-Chapter 30.
-
-Package natbib Warning: Citation `furlong107' on page 107 undefined on input line 3124.
-
-[107]
-
-Package natbib Warning: Citation `sarkaria764' on page 108 undefined on input line 3141.
-
-[108]
 Chapter 31.
-[109
 
-] [110
+Package natbib Warning: Citation `furlong107' on page 109 undefined on input line 3159.
 
-]
+[109]
+
+Package natbib Warning: Citation `sarkaria764' on page 110 undefined on input line 3176.
+
+[110]
 Chapter 32.
-[111]
+[111
 
-Package natbib Warning: Citation `wouters1789' on page 112 undefined on input line 3165.
-
-
-Package natbib Warning: Citation `mellow1443' on page 112 undefined on input line 3177.
-
-
-Package natbib Warning: Citation `kalffa' on page 112 undefined on input line 3196.
-
-[112] [113] [114
+] [112
 
 ]
 Chapter 33.
-[115] [116
+[113]
+
+Package natbib Warning: Citation `wouters1789' on page 114 undefined on input line 3200.
+
+
+Package natbib Warning: Citation `mellow1443' on page 114 undefined on input line 3212.
+
+
+Package natbib Warning: Citation `kalffa' on page 114 undefined on input line 3231.
+
+[114] [115] [116
 
 ]
 Chapter 34.
+[117] [118
 
-Underfull \hbox (badness 2671) in paragraph at lines 3236--3236
+]
+Chapter 35.
+
+Underfull \hbox (badness 2671) in paragraph at lines 3271--3271
 []\TU/lmr/bx/n/14.4 Nutritional consequences of esophagec-
  []
 
 
-Package natbib Warning: Citation `baker987' on page 117 undefined on input line 3259.
+Package natbib Warning: Citation `baker987' on page 119 undefined on input line 3294.
 
-[117] [118] [119
-
-] [120]
-Chapter 35.
-[121
+[119] [120] [121
 
 ] [122]
 Chapter 36.
 [123
 
-] [124
-
-]
+] [124]
 Chapter 37.
+[125
 
-Package natbib Warning: Citation `wang20' on page 125 undefined on input line 3460.
-
-[125]
-
-Package natbib Warning: Citation `sasako4387' on page 126 undefined on input line 3467.
-
-[126]
-Chapter 38.
-[127
-
-] [128
+] [126
 
 ]
+Chapter 38.
+
+Package natbib Warning: Citation `wang20' on page 127 undefined on input line 3495.
+
+[127]
+
+Package natbib Warning: Citation `sasako4387' on page 128 undefined on input line 3502.
+
+[128]
 Chapter 39.
-File: images/Double-tract_Q640.jpg Graphic file (type bmp)
-<images/Double-tract_Q640.jpg>
-[129] [130
+[129
+
+] [130
 
 ]
 Chapter 40.
+File: images/Double-tract_Q640.jpg Graphic file (type bmp)
+<images/Double-tract_Q640.jpg>
 [131] [132
 
-] [133] [134]
+]
 Chapter 41.
-[135
+[133] [134
 
-] [136]
+] [135] [136]
 Chapter 42.
 [137
 
-] [138
-
-]
+] [138]
 Chapter 43.
-[139] [140
+[139
+
+] [140
 
 ]
 Chapter 44.
@@ -965,125 +965,129 @@ Chapter 45.
 
 ]
 Chapter 46.
-[145] [146]
-Chapter 47.
-[147
-
-] [148
+[145] [146
 
 ]
+Chapter 47.
+[147] [148]
 Chapter 48.
-[149] [150
+[149
+
+] [150
 
 ]
 Chapter 49.
 [151] [152
 
-] [153] [154]
+]
 Chapter 50.
-[155
+[153] [154
 
-] [156
-
-]
+] [155] [156]
 Chapter 51.
-[157] [158]
-Chapter 52.
-[159
+[157
 
-] [160
+] [158
 
 ]
+Chapter 52.
+[159] [160]
 Chapter 53.
-[161] [162
+[161
+
+] [162
 
 ]
 Chapter 54.
+[163] [164
+
+]
+Chapter 55.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 3955.
+(Font)              scaled to size 14.4pt on input line 3990.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 14.4013pt on input line 3955.
+(Font)              scaled to size 14.4013pt on input line 3990.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 14.39845pt on input line 3955.
-[163] [164]
+(Font)              scaled to size 14.39845pt on input line 3990.
+[165] [166]
 
-Package natbib Warning: Citation `garcia-aguilar2546' on page 165 undefined on input line 3992.
-
-
-Package natbib Warning: Citation `taylor711' on page 165 undefined on input line 3999.
+Package natbib Warning: Citation `garcia-aguilar2546' on page 167 undefined on input line 4027.
 
 
-Package natbib Warning: Citation `strassburg2790' on page 165 undefined on input line 3999.
+Package natbib Warning: Citation `taylor711' on page 167 undefined on input line 4034.
 
 
-Underfull \hbox (badness 1158) in paragraph at lines 3999--4000
+Package natbib Warning: Citation `strassburg2790' on page 167 undefined on input line 4034.
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 4034--4035
 []\TU/lmr/m/n/10 MERCURY study group has examined selective approaches to adjuvant
  []
 
 
-Package natbib Warning: Citation `kreis25' on page 165 undefined on input line 4001.
+Package natbib Warning: Citation `kreis25' on page 167 undefined on input line 4036.
 
 
-Package natbib Warning: Citation `ruppert1519' on page 165 undefined on input line 4001.
+Package natbib Warning: Citation `ruppert1519' on page 167 undefined on input line 4036.
 
 
-Overfull \hbox (4.21999pt too wide) in paragraph at lines 4003--4004
+Overfull \hbox (4.21999pt too wide) in paragraph at lines 4038--4039
 []\TU/lmr/m/n/10 Canadian [Quicksilver Trial] ([]$[][][][][] [] [] [] [][][][][][][][][][][] [] [][][] [] [][][][][][][][] [] [][][][][][][][][][][][] []
  []
-
-[165] [166
-
-]
-Chapter 55.
-
-Package natbib Warning: Citation `schrag322' on page 167 undefined on input line 4017.
 
 [167] [168
 
 ]
 Chapter 56.
-[169]
-Overfull \hbox (13.46562pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 170 \TU/lmr/m/sl/10 CHAPTER 56.  NON-OPERATIVE MANAGEMENT OF RECTAL CANCER
- []
 
-[170
+Package natbib Warning: Citation `schrag322' on page 169 undefined on input line 4052.
+
+[169] [170
 
 ]
 Chapter 57.
-[171] [172
+[171]
+Overfull \hbox (13.46562pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 172 \TU/lmr/m/sl/10 CHAPTER 57.  NON-OPERATIVE MANAGEMENT OF RECTAL CANCER
+ []
 
-] [173] [174]
+[172
+
+]
 Chapter 58.
-(./gi_surgonc.bbl [175
+[173] [174
 
-] [176
+] [175] [176]
+Chapter 59.
+(./gi_surgonc.bbl [177
 
-] [177] [178] [179] [180]
+] [178
+
+] [179] [180] [181] [182]
 Underfull \hbox (badness 1005) in paragraph at lines 266--270
 \TU/lmr/m/n/10 tal mesorectal excision for rectal cancer.  \TU/lmr/m/it/10 Lancet (London, England)\TU/lmr/m/n/10 ,
  []
 
-[181] [182] [183] [184] [185] [186] [187]
+[183] [184] [185] [186] [187] [188] [189]
 Underfull \hbox (badness 2005) in paragraph at lines 750--758
 []\TU/lmr/m/n/10 Stahl, M., Walz, M. K., Stuschke, M., Lehmann, N., Meyer, H.-J.,
  []
 
-[188] [189] [190])
+[190] [191] [192])
 
 Package natbib Warning: There were undefined citations.
 
-[191] (./gi_surgonc.aux)
+[193] (./gi_surgonc.aux)
 Package rerunfilecheck Info: File `gi_surgonc.out' has not changed.
-(rerunfilecheck)             Checksum: BF39AB73B6DC5836B1E1EC358939DE82;8973.
+(rerunfilecheck)             Checksum: 4B0FCDAAEC298B441961F5E287D4D9AF;9113.
  ) 
 Here is how much of TeX's memory you used:
- 17431 strings out of 478723
- 323007 string characters out of 5847881
+ 17434 strings out of 478723
+ 323078 string characters out of 5847881
  1857960 words of memory out of 5000000
- 37269 multiletter control sequences out of 15000+600000
+ 37272 multiletter control sequences out of 15000+600000
  519707 words of font info for 92 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  86i,6n,121p,1698b,645s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on gi_surgonc.pdf (191 pages).
+Output written on gi_surgonc.pdf (193 pages).

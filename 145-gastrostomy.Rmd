@@ -1,0 +1,35 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+```{r, include=F}
+# Placeholder for clinical evaluation
+# = history and physical
+# Nutritional evaluation
+```
+# Gastrostomy Feeds
+
+Gastrostomy feeds are generally given via bolus feeds 3-4 times per day. Feeds can be given 1-2 cartons at a time. 
+
+Patients with severe reflux may require gastrostomy feeds via infusion pump, but this is much less common.
+
+Osmolite 1.5 is generally used as an initial formula. Glucerna is formulated with carbohydrates with low glycemic index, which is particularly helpful for bolus feeding (via gastrostomy). However, the high fiber context of Glucerna may make this formula more prone to causing clogging of gastrostomy tubes.
+
+
+## Free Water Flushes
+
+Most patients require free water in addition to tube feeds.  Most patients require 240mL 4 times per day via gastrostomy
+
+
+## Med Administration via G-Tubes
+
+Patients who have difficulty with dysphagia or complete esophageal obstruction will need to have their medicines administered via jejunostomy tube. The process of designing a medicine regimen which can safely be administered via enteral tube can be a challenge and may require a consultation with the hospital pharmacist. One the other hand, the financial consequences of a clogged feeding tube are substantial. **Flomax is never given via enteral feeding tubes due to risk of clogging**.
+
+Several common medicines are available in liquid form:
+
+- Acetaminophen (pediatric formulation)
+- Gabapentin
+- Oxycodone
+- Hydrocodone + acetaminophen
+- Reglan
