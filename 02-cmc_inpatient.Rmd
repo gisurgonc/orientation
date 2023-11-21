@@ -32,7 +32,7 @@ Attending rounds for both services (CR and SurgOnc) start at 6am in STICU or 11T
 
 It is critical that you notify service attendings before the start of the month to adjust the resident call schedule. Each “shift” is 5:50am to 6pm. At 6pm the resident Epic Teams will be forwarded to the night team.
 
-Please append a text block to the bottom of each progress note specifying the Epic Team *GI Surgical Oncology LCI CMC* for that patient to facilitate communication from nursing.
+Please append a text block to the bottom of each progress note specifying the Epic Team *GI Surgical Oncology Colorectal LCI CMC* for that patient to facilitate communication from nursing.
 
 
 ## Consults
@@ -88,6 +88,10 @@ The scheduler will respond with a message to the discharging resident AND to the
 
 ## Conferences
 
-- GI Tumor Planning Conf Mon 7-8am (online and LCI I 3rd floor Conf Rm)
+- GI Tumor Planning Conf Mon 7-8am (via Teams and LCI I 3rd floor Conf Rm)
 - Resident Teaching Conf Tues 7-8am 5th floor LCI II. Please review the upcoming clinic schedule and choose a case to present.
-- Bone and Soft Tissue Conf Fri 7-8am
+- Bone and Soft Tissue Conf Fri 7-8am (via Teams)
+
+## Medicine Consults
+
+For medicine consults, please use "CHG Service Hospitalists CMC" for all *new* consult requests as of 11/2023 due to merging of CHG and Staff Medicine services.

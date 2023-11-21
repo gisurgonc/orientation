@@ -46,3 +46,6 @@ Higher lymph node yield with MIE vs open approach [@kalffa]
 
 [ERAS Society Guidlines](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7098920/)
 
+## Colon Interposition
+
+Left colon technique based upon blood supply [@peter858]

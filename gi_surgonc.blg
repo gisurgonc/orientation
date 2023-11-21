@@ -8,6 +8,7 @@ Warning--I didn't find a database entry for "furlong107"
 Warning--I didn't find a database entry for "wouters1789"
 Warning--I didn't find a database entry for "mellow1443"
 Warning--I didn't find a database entry for "kalffa"
+Warning--I didn't find a database entry for "peter858"
 Warning--I didn't find a database entry for "baker987"
 Warning--I didn't find a database entry for "wang20"
 Warning--I didn't find a database entry for "sasako4387"
@@ -17,9 +18,10 @@ Warning--I didn't find a database entry for "strassburg2790"
 Warning--I didn't find a database entry for "kreis25"
 Warning--I didn't find a database entry for "ruppert1519"
 Warning--I didn't find a database entry for "schrag322"
+Warning--I didn't find a database entry for "beets1562"
 You've used 112 entries,
             1935 wiz_defined-function locations,
-            1105 strings with 49380 characters,
+            1107 strings with 49397 characters,
 and the built_in function-call counts, 79087 in all, are:
 = -- 6842
 > -- 6801
@@ -58,4 +60,4 @@ warning$ -- 0
 while$ -- 430
 width$ -- 0
 write$ -- 1458
-(There were 14 warnings)
+(There were 16 warnings)

@@ -73,6 +73,7 @@ node_salo
 EsoObjJB
 EsoObjCR
 EsoIntro
+esophagectomy
 staging
 superficial
 emr
@@ -91,11 +92,12 @@ eso_dcrt
 phase-ii-studies
 chemort-vs-trimodality-therapy
 radiation
-esophagectomy
+esophagectomy-1
 ge-junction-adenocarcinoma
 preoperative-evaluation
 minimally-invasive-esophagectomy
 early-recovery-pathways
+colon-interposition
 salvage-esophagectomy
 eso_metastatic
 palliative-radiation
@@ -169,4 +171,3 @@ soft-tissue-sarcomas
 desmoid-tumors
 retroperitoneal
 peritoneal-mesothelioma
-diagnosis
