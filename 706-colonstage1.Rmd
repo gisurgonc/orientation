@@ -1,27 +1,4 @@
-# Stage IV Colon Cancer
+# Stage I Colon Cancer
 
-## Stent vs colostomy
-
-CREST trial[@crestcollaborativegroup1073] stent as bridge to surgery in obstructing left colon cancers. 246 patients randomized to colostomy vs stent as bridge to surgery. Lower rate of stoma formation in stent group. 
-
-Average patency of stent duration is 120 days
-
-
-## Colon resection in stage IV colon cancer
-
-MSKCC: Colon surgery patients with bilobar liver metastasis treated with chemotherapy with primary tumor in place. Surgical intervention needed in 7% of cases [@poultsides35]
-
-## Immunotherapy for dMMR (MSI high)
-
-Colorectal cancers deficient in mismatch-repair proteins (dMMR) respond poorly to 5FU-based chemotherapy but do respond to immune-checkpoint inhibitors ($\alpha$-PD-1, ($\alpha$PD-L1, ($\alpha$-CTLA-4).
-
-[Review](https://www.frontiersin.org/articles/10.3389/fimmu.2022.795972/full) of immune checkpoint inhibitors in colorectal cancer
-
-Blockade of the PD-1 (Programmed Death-1) ligand with monoclonal antibody as shows efficacy in colorectal cancer, especially those deficient in mismatch repair protein expression, as manifested by microsatellite instability (MSI-High) on pathologic exam.
-
-Keynote-177 trial [@andre2207] randomized 307 patients with MSI-High dMMR colorectal cancer patients to receive either pembrolizumab or 5-FU based chemeotherapy and found superior survival with pembro.
-
-## Peritoneal Colon Cancer
-
-Prodige - Cytoreductive surgery vs cytoreductive surgery + HPIEC
+## Malignant colon polyp
 

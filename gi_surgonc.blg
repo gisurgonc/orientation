@@ -5,59 +5,52 @@ The style file: apalike.bst
 Database file #1: zotero.bib
 Warning--I didn't find a database entry for "sarkaria764"
 Warning--I didn't find a database entry for "furlong107"
-Warning--I didn't find a database entry for "wouters1789"
-Warning--I didn't find a database entry for "mellow1443"
 Warning--I didn't find a database entry for "kalffa"
 Warning--I didn't find a database entry for "peter858"
 Warning--I didn't find a database entry for "baker987"
-Warning--I didn't find a database entry for "wang20"
-Warning--I didn't find a database entry for "sasako4387"
 Warning--I didn't find a database entry for "garcia-aguilar2546"
 Warning--I didn't find a database entry for "taylor711"
 Warning--I didn't find a database entry for "strassburg2790"
 Warning--I didn't find a database entry for "kreis25"
-Warning--I didn't find a database entry for "ruppert1519"
-Warning--I didn't find a database entry for "schrag322"
-Warning--I didn't find a database entry for "beets1562"
-You've used 112 entries,
+You've used 119 entries,
             1935 wiz_defined-function locations,
-            1107 strings with 49397 characters,
-and the built_in function-call counts, 79087 in all, are:
-= -- 6842
-> -- 6801
-< -- 14
-+ -- 2598
-- -- 2588
-* -- 8549
-:= -- 14190
-add.period$ -- 336
-call.type$ -- 112
-change.case$ -- 1854
-chr.to.int$ -- 112
-cite$ -- 112
-duplicate$ -- 1568
-empty$ -- 3522
-format.name$ -- 2718
-if$ -- 14304
+            1132 strings with 52227 characters,
+and the built_in function-call counts, 84399 in all, are:
+= -- 7291
+> -- 7292
+< -- 15
++ -- 2790
+- -- 2776
+* -- 9132
+:= -- 15150
+add.period$ -- 357
+call.type$ -- 119
+change.case$ -- 1983
+chr.to.int$ -- 119
+cite$ -- 119
+duplicate$ -- 1666
+empty$ -- 3737
+format.name$ -- 2915
+if$ -- 15253
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 112
-newline$ -- 563
-num.names$ -- 336
-pop$ -- 1616
+missing$ -- 119
+newline$ -- 598
+num.names$ -- 357
+pop$ -- 1730
 preamble$ -- 1
-purify$ -- 1854
+purify$ -- 1983
 quote$ -- 0
-skip$ -- 1135
+skip$ -- 1206
 stack$ -- 0
-substring$ -- 4577
-swap$ -- 112
+substring$ -- 4851
+swap$ -- 119
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 672
+type$ -- 714
 warning$ -- 0
-while$ -- 430
+while$ -- 457
 width$ -- 0
-write$ -- 1458
-(There were 16 warnings)
+write$ -- 1549
+(There were 9 warnings)

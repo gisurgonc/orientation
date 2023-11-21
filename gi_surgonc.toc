@@ -14,6 +14,7 @@
 \contentsline {section}{\numberline {3.4}Consults}{12}{section.3.4}%
 \contentsline {section}{\numberline {3.5}Postop Clinic Appt}{12}{section.3.5}%
 \contentsline {section}{\numberline {3.6}Conferences}{13}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Medicine Consults}{13}{section.3.7}%
 \contentsline {chapter}{\numberline {4}Pineville Inpatient}{15}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Rounds}{15}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Resident Epic teams:}{15}{section.4.2}%
@@ -131,51 +132,53 @@
 \contentsline {chapter}{\numberline {45}Partial Colectomy SCORE}{143}{chapter.45}%
 \contentsline {chapter}{\numberline {46}Colostomy SCORE}{145}{chapter.46}%
 \contentsline {chapter}{\numberline {47}Total Colectomy SCORE}{147}{chapter.47}%
-\contentsline {chapter}{\numberline {48}Stage IV Colon Cancer}{149}{chapter.48}%
-\contentsline {section}{\numberline {48.1}Stent vs colostomy}{149}{section.48.1}%
-\contentsline {section}{\numberline {48.2}Colon resection in stage IV colon cancer}{149}{section.48.2}%
-\contentsline {section}{\numberline {48.3}Immunotherapy for dMMR (MSI high)}{149}{section.48.3}%
-\contentsline {section}{\numberline {48.4}Peritoneal Colon Cancer}{150}{section.48.4}%
-\contentsline {chapter}{\numberline {49}Colectomy}{151}{chapter.49}%
-\contentsline {section}{\numberline {49.1}Extended Node dissection}{151}{section.49.1}%
-\contentsline {chapter}{\numberline {50}Chemotherapy}{153}{chapter.50}%
-\contentsline {section}{\numberline {50.1}Neoadjuvant Chemotherapy}{153}{section.50.1}%
-\contentsline {chapter}{\numberline {51}Appendiceal Ca}{155}{chapter.51}%
-\contentsline {section}{\numberline {51.1}Categories:}{155}{section.51.1}%
-\contentsline {part}{Rectal Cancer}{159}{part*.8}%
-\contentsline {chapter}{\numberline {52}RectalCa SCORE}{159}{chapter.52}%
-\contentsline {section}{\numberline {52.1}Anatomy}{159}{section.52.1}%
-\contentsline {section}{\numberline {52.2}Presentation}{159}{section.52.2}%
-\contentsline {section}{\numberline {52.3}Operative Tx}{159}{section.52.3}%
-\contentsline {subsection}{\numberline {52.3.1}\href {767-rectal_surgery.html}{Total mesorectal excision}}{159}{subsection.52.3.1}%
-\contentsline {subsection}{\numberline {52.3.2}Transanal excision}{159}{subsection.52.3.2}%
-\contentsline {subsection}{\numberline {52.3.3}Isolated liver mets}{159}{subsection.52.3.3}%
-\contentsline {section}{\numberline {52.4}\href {770-rectal_RT.html}{Adjuvant therapy}}{159}{section.52.4}%
-\contentsline {chapter}{\numberline {53}Objectives - APR/Exent}{161}{chapter.53}%
-\contentsline {section}{\numberline {53.1}Indications}{161}{section.53.1}%
-\contentsline {section}{\numberline {53.2}Operative Anatomy}{161}{section.53.2}%
-\contentsline {section}{\numberline {53.3}Preop Prep}{161}{section.53.3}%
-\contentsline {section}{\numberline {53.4}Key Steps}{161}{section.53.4}%
-\contentsline {section}{\numberline {53.5}Intraop Decisions}{161}{section.53.5}%
-\contentsline {section}{\numberline {53.6}Complications}{162}{section.53.6}%
-\contentsline {chapter}{\numberline {54}Rectal Cancer Staging}{163}{chapter.54}%
-\contentsline {section}{\numberline {54.1}MRI staging}{163}{section.54.1}%
-\contentsline {section}{\numberline {54.2}EUS}{163}{section.54.2}%
-\contentsline {chapter}{\numberline {55}Rectal Ca Surgery}{165}{chapter.55}%
-\contentsline {chapter}{\numberline {56}Rectal Adjuvant Therapy}{167}{chapter.56}%
-\contentsline {section}{\numberline {56.1}Surgery \(\Rightarrow \) CRT}{167}{section.56.1}%
-\contentsline {section}{\numberline {56.2}CRT \(\Rightarrow \) Surgery}{167}{section.56.2}%
-\contentsline {section}{\numberline {56.3}Short-course RT}{168}{section.56.3}%
-\contentsline {section}{\numberline {56.4}Total Neoadjuvant}{168}{section.56.4}%
-\contentsline {section}{\numberline {56.5}Selective Adjuvant}{169}{section.56.5}%
-\contentsline {section}{\numberline {56.6}Neoadjuvant ITx}{169}{section.56.6}%
-\contentsline {chapter}{\numberline {57}Neoadjuvant Chemotherapy}{171}{chapter.57}%
-\contentsline {chapter}{\numberline {58}Non-operative management of Rectal Cancer}{173}{chapter.58}%
-\contentsline {chapter}{\numberline {59}Anal Squamous Cell Carcinoma}{175}{chapter.59}%
-\contentsline {section}{\numberline {59.1}Chemoradiation}{175}{section.59.1}%
-\contentsline {subsection}{\numberline {59.1.1}Restaging after chemoRT}{175}{subsection.59.1.1}%
-\contentsline {part}{Sarcoma}{179}{part*.9}%
-\contentsline {chapter}{\numberline {60}Soft Tissue Sarcomas}{179}{chapter.60}%
-\contentsline {section}{\numberline {60.1}Desmoid Tumors}{179}{section.60.1}%
-\contentsline {section}{\numberline {60.2}Retroperitoneal}{179}{section.60.2}%
-\contentsline {section}{\numberline {60.3}Peritoneal mesothelioma}{179}{section.60.3}%
+\contentsline {chapter}{\numberline {48}Stage I Colon Cancer}{149}{chapter.48}%
+\contentsline {section}{\numberline {48.1}Malignant colon polyp}{149}{section.48.1}%
+\contentsline {chapter}{\numberline {49}Stage IV Colon Cancer}{151}{chapter.49}%
+\contentsline {section}{\numberline {49.1}Stent vs colostomy}{151}{section.49.1}%
+\contentsline {section}{\numberline {49.2}Colon resection in stage IV colon cancer}{151}{section.49.2}%
+\contentsline {section}{\numberline {49.3}Immunotherapy for dMMR (MSI high)}{151}{section.49.3}%
+\contentsline {section}{\numberline {49.4}Peritoneal Colon Cancer}{152}{section.49.4}%
+\contentsline {chapter}{\numberline {50}Colectomy}{153}{chapter.50}%
+\contentsline {section}{\numberline {50.1}Extended Node dissection}{153}{section.50.1}%
+\contentsline {chapter}{\numberline {51}Chemotherapy}{155}{chapter.51}%
+\contentsline {section}{\numberline {51.1}Neoadjuvant Chemotherapy}{155}{section.51.1}%
+\contentsline {chapter}{\numberline {52}Appendiceal Ca}{157}{chapter.52}%
+\contentsline {section}{\numberline {52.1}Categories:}{157}{section.52.1}%
+\contentsline {part}{Rectal Cancer}{161}{part*.8}%
+\contentsline {chapter}{\numberline {53}RectalCa SCORE}{161}{chapter.53}%
+\contentsline {section}{\numberline {53.1}Anatomy}{161}{section.53.1}%
+\contentsline {section}{\numberline {53.2}Presentation}{161}{section.53.2}%
+\contentsline {section}{\numberline {53.3}Operative Tx}{161}{section.53.3}%
+\contentsline {subsection}{\numberline {53.3.1}\href {767-rectal_surgery.html}{Total mesorectal excision}}{161}{subsection.53.3.1}%
+\contentsline {subsection}{\numberline {53.3.2}Transanal excision}{161}{subsection.53.3.2}%
+\contentsline {subsection}{\numberline {53.3.3}Isolated liver mets}{161}{subsection.53.3.3}%
+\contentsline {section}{\numberline {53.4}\href {770-rectal_RT.html}{Adjuvant therapy}}{161}{section.53.4}%
+\contentsline {chapter}{\numberline {54}Objectives - APR/Exent}{163}{chapter.54}%
+\contentsline {section}{\numberline {54.1}Indications}{163}{section.54.1}%
+\contentsline {section}{\numberline {54.2}Operative Anatomy}{163}{section.54.2}%
+\contentsline {section}{\numberline {54.3}Preop Prep}{163}{section.54.3}%
+\contentsline {section}{\numberline {54.4}Key Steps}{163}{section.54.4}%
+\contentsline {section}{\numberline {54.5}Intraop Decisions}{163}{section.54.5}%
+\contentsline {section}{\numberline {54.6}Complications}{164}{section.54.6}%
+\contentsline {chapter}{\numberline {55}Rectal Cancer Staging}{165}{chapter.55}%
+\contentsline {section}{\numberline {55.1}MRI staging}{165}{section.55.1}%
+\contentsline {section}{\numberline {55.2}EUS}{165}{section.55.2}%
+\contentsline {chapter}{\numberline {56}Rectal Ca Surgery}{167}{chapter.56}%
+\contentsline {chapter}{\numberline {57}Rectal Adjuvant Therapy}{169}{chapter.57}%
+\contentsline {section}{\numberline {57.1}Surgery \(\Rightarrow \) CRT}{169}{section.57.1}%
+\contentsline {section}{\numberline {57.2}CRT \(\Rightarrow \) Surgery}{169}{section.57.2}%
+\contentsline {section}{\numberline {57.3}Short-course RT}{170}{section.57.3}%
+\contentsline {section}{\numberline {57.4}Total Neoadjuvant}{170}{section.57.4}%
+\contentsline {section}{\numberline {57.5}Selective Adjuvant}{171}{section.57.5}%
+\contentsline {section}{\numberline {57.6}Neoadjuvant ITx}{171}{section.57.6}%
+\contentsline {chapter}{\numberline {58}Neoadjuvant Chemotherapy}{173}{chapter.58}%
+\contentsline {chapter}{\numberline {59}Non-operative management of Rectal Cancer}{175}{chapter.59}%
+\contentsline {chapter}{\numberline {60}Anal Squamous Cell Carcinoma}{177}{chapter.60}%
+\contentsline {section}{\numberline {60.1}Chemoradiation}{177}{section.60.1}%
+\contentsline {subsection}{\numberline {60.1.1}Restaging after chemoRT}{177}{subsection.60.1.1}%
+\contentsline {part}{Sarcoma}{181}{part*.9}%
+\contentsline {chapter}{\numberline {61}Soft Tissue Sarcomas}{181}{chapter.61}%
+\contentsline {section}{\numberline {61.1}Desmoid Tumors}{181}{section.61.1}%
+\contentsline {section}{\numberline {61.2}Retroperitoneal}{181}{section.61.2}%
+\contentsline {section}{\numberline {61.3}Peritoneal mesothelioma}{181}{section.61.3}%
