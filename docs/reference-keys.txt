@@ -25,9 +25,13 @@ rounds-2
 progress-notes
 discharges
 education
+medical-student-duty-hours
 proceduresdiseases
 ask-a-resident-5min-discussion
 medical-student-resources
+recommended-resources
+shelf-exam
+entrustable-professional-activities
 clinic-1
 salo-clinic
 mie_postop

@@ -10,11 +10,33 @@ output:
 ```
 # Education
 
-The service will host Third- and Fourth-year medical students.
+The service will host Third- and Fourth-year medical students from Wake Forest University as well as externs.
 
 Student notes should be forwarded to the patient's attending for attestation and signature.
 
-Third year students will have a 'green card' of diagnoses and procedures which need to be checked off (and signed) during the rotation.  Please remind the chief resident and attendings about items which remain to be completed.
+Third year students will have a 'green card' of diagnoses and procedures which need to be checked off (and signed) during the rotation. Students: Please remind the chief resident and attendings about items which remain to be completed.
+
+## Medical Student Duty Hours
+
+Hours:
+
+- Students will not work longer hours than residents on the same service
+- Students will not work more than 80 hours/week averaged over 4 weeks.
+
+Breaks: Students will
+
+- have 4 24-hour periods free from assigned activities over a 4 week period
+- not work longer than 16 continuous hoours
+- have a 8 hour break from clinical/academic hours following a 16-hour shift
+- can only work a maximum of 5 sequential overnight shifts
+
+Exams:
+
+- Must be excused no later than midnight prior to the day of the shift or final exam
+
+Holidays:
+
+- Must be excused from responsibilities from 5pm on the day prior to the holiday on the academic calendar through the holiday^[From Faculty as Teacher 2023]
 
 ## Procedures/Diseases
 
@@ -45,3 +67,33 @@ Third year students will have a 'green card' of diagnoses and procedures which n
 ## Medical Student Resources
 
 [Subcuticular suturing video](https://www.youtube.com/watch?v=M3vISruyFkI)
+
+
+## Recommended Resources:^[from Spring 2023 Surgery Syllabus]
+- Essentials of general surgery, 6th edition, [edited by] Peter F. Lawrence
+- Surgery: A Case Based Clinical Review (Christian de Virgilio) 
+- Kaplan Surgery Notes
+- NMS Surgery CaseBook
+- Surgical Recall (Lorne H. Blackbourne)
+- UWorld QBank
+- Aquifer / Wise-MD
+- OnlineMedEd
+
+## SHELF exam
+
+[SHELF exam topic areas](https://www.nbme.org/subject-exams/clinical-science/surgery)
+
+## Entrustable Professional Activities
+1. Gather a history and perform a physical examination
+2. Prioritize a differential diagnosis following a clinical encounter
+3. Recommend and interpret common diagnostic and screening tests
+4. Enter and discuss orders and prescriptions
+5. Document a clinical encounter in the patient record
+6. Provide an oral presentation of a clinical encounter
+7. Form clinical questions and retrieve evidence to advance patient care
+8. Give or receive a patient handover to transition care responsibility
+9. Collaborate as a member of an interprofessional team
+10. Recognize a patient requiring urgent or emergent care and initiate evaluation and management
+11. Obtain informed consent for tests and/or procedures
+12. Perform general procedures of a physician
+13. Identify system failures and contribute to a culture of safety and improvement
