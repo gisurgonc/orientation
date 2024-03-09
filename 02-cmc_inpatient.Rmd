@@ -22,7 +22,7 @@ Patient List is CMC GI Surgical Oncology
 
 ## Rounds
 
-Attending rounds for both services (CR and SurgOnc) start at 6am in STICU or 11T.  Dr Salo rounds M-Tu and Drs Squires and Hill round  W/Th/F alternate weeks
+Work rounds for both services (CR and SurgOnc) start at 6am in STICU or 11T.  Service attendings will be updated after rounds. 
 
 ## Resident Epic teams:
 
