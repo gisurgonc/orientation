@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.23)  8 MAR 2024 21:03
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.23)  17 MAR 2024 18:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -896,10 +896,7 @@ Chapter 15.
 
 ]
 Chapter 16.
-[55]
-Underfull \vbox (badness 1163) has occurred while \output is active []
-
-[56] [57] [58]
+[55] [56] [57] [58]
 Chapter 17.
 [59
 
@@ -920,7 +917,7 @@ Chapter 19.
 ]
 Chapter 20.
 [71]
-Underfull \hbox (badness 1028) in paragraph at lines 2307--2308
+Underfull \hbox (badness 1028) in paragraph at lines 2315--2316
 \TU/lmr/m/n/10 Patients with metastatic esophageal cancer who need enteral acce
 ss are
  []
@@ -980,10 +977,10 @@ Chapter 31.
 ]
 
 Package natbib Warning: Citation `sarkaria764' on page 108 undefined on input l
-ine 3231.
+ine 3239.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3239--3239
+Underfull \hbox (badness 10000) in paragraph at lines 3247--3247
 []\TU/lmr/bx/n/14.4 Induction chemotherapy followed by
  []
 
@@ -993,12 +990,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 3239--3239
 Chapter 32.
 
 Package natbib Warning: Citation `furlong107' on page 111 undefined on input li
-ne 3262.
+ne 3270.
 
 [111]
 
 Package natbib Warning: Citation `sarkaria764' on page 112 undefined on input l
-ine 3279.
+ine 3287.
 
 [112]
 Chapter 33.
@@ -1011,11 +1008,11 @@ Chapter 34.
 [115]
 
 Package natbib Warning: Citation `kalffa' on page 116 undefined on input line 3
-334.
+342.
 
 
 Package natbib Warning: Citation `peter858' on page 116 undefined on input line
- 3344.
+ 3352.
 
 [116] [117] [118
 
@@ -1026,13 +1023,13 @@ Chapter 35.
 ]
 Chapter 36.
 
-Underfull \hbox (badness 2671) in paragraph at lines 3379--3379
+Underfull \hbox (badness 2671) in paragraph at lines 3387--3387
 []\TU/lmr/bx/n/14.4 Nutritional consequences of esophagec-
  []
 
 
 Package natbib Warning: Citation `baker987' on page 121 undefined on input line
- 3402.
+ 3410.
 
 [121] [122] [123
 
@@ -1129,26 +1126,26 @@ Chapter 57.
 [169]
 
 Package natbib Warning: Citation `garcia-aguilar2546' on page 170 undefined on 
-input line 4141.
+input line 4149.
 
 [170]
 
 Package natbib Warning: Citation `taylor711' on page 171 undefined on input lin
-e 4148.
+e 4156.
 
 
 Package natbib Warning: Citation `strassburg2790' on page 171 undefined on inpu
-t line 4148.
+t line 4156.
 
 
-Underfull \hbox (badness 1189) in paragraph at lines 4148--4149
+Underfull \hbox (badness 1189) in paragraph at lines 4156--4157
 []\TU/lmr/m/n/10 MERCURY study group has examined selective approaches to adjuv
 ant
  []
 
 
 Package natbib Warning: Citation `kreis25' on page 171 undefined on input line 
-4150.
+4158.
 
 [171] [172
 

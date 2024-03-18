@@ -49,6 +49,11 @@ Several common medicines are available in liquid form:
 - Hydrocodone + acetaminophen
 - Reglan
 
+
+Apart from delayed-release medicines and Flomax (tamsulosin), most medicines can be crushed and resuspended and administered via gastrostomy tube if needed.
+
+Nexium can be administered by opening the capsule and resuspending the beads in 50mL of water.  The beads are resuspended and administered.  In this case, the beads don't dissolve in the syringe, but can be administered without risk of clogging.
+
 ## Occluded Jejunostomy Tubes
 
 Jejunostomy tubes which are refractory to the usual non-invasive means (warm water, Coca-Cola) will need to be changed over a wire in Interventional Radiology.
