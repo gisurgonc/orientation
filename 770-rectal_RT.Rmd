@@ -52,13 +52,16 @@ German OCUM group [@kreis25] [@ruppert1519]
 Canadian [Quicksilver Trial] (https://jamanetwork.com/journals/jamaoncology/fullarticle/2730134) 
 
 
-## Neoadjuvant ITx
+## Neoadjuvant ImmunoTx
 
 Mismatch repair protein deficient (MSI-high) colorectal cancer (due to either Lynch Syndrome or BRAF-1 mutation) responds pooly to chemotherapy but responds well to immunotherapy with PD-L1 blockade
 
 MSKCC trial of neoadjuvant PD-L1 blockade with 6 months of dostarlimab for 12 patients with MMR-deficient (MSI-high) rectal cancer resulted in 100% clinical response rate [@cercek2363]. No patients were subsequently treated with either chemoradiation or surgery as originally planned.
 
 PICC trial [@hu38] Chinese trial of PD-L1 blockade with neoadjvant toripalimab + colecoxib vs toripalimab for 3 months in 34 patients with MMR-deficient locally-advanced (T3/4 or N+) colorectal cancer. All patients were then treated with surgery.   Pathologic complete response in 88% of dual-therapy patients and 65% of monotherapy. Grade 3 toxicity in 1/34 patients. Previous neoadjuvant chemo in 25%. Rectal cancer in 18%.
+
+NICHE trial [@chalabi1949] 115 patients with dMMR locally-advanced colon cancer treated with a neoadjuvant immunotherapy. Pathologic complete response in 68%. No recurrences with a median followo up of 26 months. 
+
 
 # Neoadjuvant Chemotherapy
 

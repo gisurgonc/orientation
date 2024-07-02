@@ -1,12 +1,19 @@
-# Appendiceal Ca
+# Appendiceal
 
+## Mucinous Lesions
+
+[Up to Date - Appendiceal Mucinous Neoplasms](https://www.uptodate.com/contents/appendiceal-mucinous-lesions)
 
 ## Categories:
 
-- Low grade mucinous neoplasm - Epithelial cells with dysplasia which make mucin. LMN cells are non-invasive yet have implanted within the peritoneum (similar to endometriosis). If implanted within peritoneum, 
+
+- Low grade mucinous neoplasm - Epithelial cells with dysplasia which make mucin. LMN cells are non-invasive yet have implanted within the peritoneum (similar to endometriosis). 
 
 Mucocele - Non-ruptured LAMIN
 
 Well-differentiated mucinous adenocarcinoma.  Treatment is controversial.  Neoadjuvant chemotherapy vs HIPEC. 
 
 Poorly-differentiated adenocarcinoma
+
+
+
