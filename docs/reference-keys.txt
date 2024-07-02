@@ -141,7 +141,8 @@ colectomy-1
 extended-node-dissection
 chemotherapy
 neoadjuvant-chemotherapy
-appendiceal-ca
+appendiceal
+mucinous-lesions
 categories
 rectalca-score
 anatomy
@@ -168,7 +169,7 @@ crt-rightarrow-surgery
 short-course-rt
 total-neoadjuvant
 selective-adjuvant
-neoadjuvant-itx
+neoadjuvant-immunotx
 neoadjuvant-chemotherapy-1
 non-operative-management-of-rectal-cancer
 anal-squamous-cell-carcinoma
@@ -178,6 +179,3 @@ soft-tissue-sarcomas
 desmoid-tumors
 retroperitoneal
 peritoneal-mesothelioma
-diagnosis
-appendiceal
-mucinous-lesions
