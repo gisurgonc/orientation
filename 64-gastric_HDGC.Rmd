@@ -1,2 +1,12 @@
 # Hereditary Diffuse Gastric Cancer
 
+HDGC is a syndrome characterized by early-onset diffuse gastric cancer and increased risk of lobular breast cancer.
+
+Hereditary diffuse gastric cancer was first reported in a New Zealand Maori cohort.  The genetic cause was subsequently found to the a deletion in the CDH1 gene.
+
+### Penetrance estimates for lifetime risk of DGC
+
+The original estimates of lifetime risk of gastric cancer in those with pathogenic CDH1 mutations were made from a population of patients with strong familiy histories of DGC[@hansford23], in this group, 
+the cumulative risk of gastric cancer by 80 years of age was estimated to be to be 70% in men and 56% in women.
+
+The lifetime risk of gastric cancer in more modern cohorts[@roberts1325] [@xicola838], in whom a minority of patients have a family history of gastric cancer, are much lower: 42% in men and 33% in women

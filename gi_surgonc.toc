@@ -126,6 +126,7 @@
 \contentsline {section}{\numberline {39.3}Postoperative chemoradiation}{130}{section.39.3}%
 \contentsline {section}{\numberline {39.4}Preoperative chemoradiation}{130}{section.39.4}%
 \contentsline {chapter}{\numberline {40}Hereditary Diffuse Gastric Cancer}{131}{chapter.40}%
+\contentsline {subsection}{\numberline {40.0.1}Penetrance estimates for lifetime risk of DGC}{131}{subsection.40.0.1}%
 \contentsline {chapter}{\numberline {41}Gastrectomy}{133}{chapter.41}%
 \contentsline {section}{\numberline {41.1}Proximal gastrectomy}{133}{section.41.1}%
 \contentsline {chapter}{\numberline {42}Gastric GIST}{135}{chapter.42}%

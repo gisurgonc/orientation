@@ -121,6 +121,7 @@ postoperative-chemotherapy
 postoperative-chemoradiation-1
 preoperative-chemoradiation
 hereditary-diffuse-gastric-cancer
+penetrance-estimates-for-lifetime-risk-of-dgc
 gastrectomy
 proximal-gastrectomy
 gastric-gist

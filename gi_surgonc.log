@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.23)  2 JUL 2024 07:54
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.23)  6 JUL 2024 20:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -988,10 +988,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 3247--3247
 
 ]
 Chapter 32.
-
-Package natbib Warning: Citation `furlong107' on page 111 undefined on input li
-ne 3270.
-
 [111]
 
 Package natbib Warning: Citation `sarkaria764' on page 112 undefined on input l
@@ -1126,11 +1122,11 @@ Chapter 55.
 Chapter 56.
 
 Package natbib Warning: Citation `nagtegaal303' on page 167 undefined on input 
-line 4111.
+line 4123.
 
 
 Package natbib Warning: Citation `paty365' on page 167 undefined on input line 
-4111.
+4123.
 
 [167] [168
 
@@ -1139,38 +1135,34 @@ Chapter 57.
 [169]
 
 Package natbib Warning: Citation `garcia-aguilar2546' on page 170 undefined on 
-input line 4154.
+input line 4166.
 
 
 Package natbib Warning: Citation `smith767' on page 170 undefined on input line
- 4154.
+ 4166.
 
 [170]
 
 Package natbib Warning: Citation `taylor711' on page 171 undefined on input lin
-e 4161.
+e 4173.
 
 
 Package natbib Warning: Citation `strassburg2790' on page 171 undefined on inpu
-t line 4161.
+t line 4173.
 
 
-Underfull \hbox (badness 1189) in paragraph at lines 4161--4162
+Underfull \hbox (badness 1189) in paragraph at lines 4173--4174
 []\TU/lmr/m/n/10 MERCURY study group has examined selective approaches to adjuv
 ant
  []
 
 
 Package natbib Warning: Citation `kreis25' on page 171 undefined on input line 
-4163.
+4175.
 
 
 Package natbib Warning: Citation `ruppert1519' on page 171 undefined on input l
-ine 4163.
-
-
-Package natbib Warning: Citation `chalabi1949' on page 171 undefined on input l
-ine 4176.
+ine 4175.
 
 [171] [172
 
@@ -1178,7 +1170,7 @@ ine 4176.
 Chapter 58.
 
 Package natbib Warning: Citation `schrag322' on page 173 undefined on input lin
-e 4181.
+e 4193.
 
 [173] [174
 
@@ -1186,15 +1178,11 @@ e 4181.
 Chapter 59.
 
 Package natbib Warning: Citation `smithe185896' on page 175 undefined on input 
-line 4186.
+line 4198.
 
 
 Package natbib Warning: Citation `smith657' on page 175 undefined on input line
- 4186.
-
-
-Package natbib Warning: Citation `beets1562' on page 175 undefined on input lin
-e 4189.
+ 4198.
 
 [175]
 Overfull \hbox (13.46562pt too wide) has occurred while \output is active
@@ -1214,28 +1202,28 @@ Chapter 61.
 
 ] [182
 
-] [183] [184]
-Invalid UTF-8 byte or sequence at line 176 replaced by U+FFFD.
+] [183] [184] [185]
+Invalid UTF-8 byte or sequence at line 196 replaced by U+FFFD.
 Missing character: There is no � (U+FFFD) in font [lmroman10-regular]:mapping=t
 ex-text;!
-[185] [186] [187] [188] [189] [190] [191] [192]
-Underfull \hbox (badness 2158) in paragraph at lines 724--732
+[186] [187] [188] [189] [190] [191] [192] [193]
+Underfull \hbox (badness 2158) in paragraph at lines 771--779
 []\TU/lmr/m/n/10 Stahl, M., Walz, M. K., Stuschke, M., Lehmann, N., Meyer, H.-J
 .,
  []
 
-[193] [194] [195] [196])
+[194] [195] [196])
 
 Package natbib Warning: There were undefined citations.
 
 [197] (./gi_surgonc.aux) ) 
 Here is how much of TeX's memory you used:
- 19535 strings out of 476683
- 359722 string characters out of 5804046
- 1859018 words of memory out of 5000000
- 39495 multiletter control sequences out of 15000+600000
+ 19554 strings out of 476683
+ 360093 string characters out of 5804046
+ 1860018 words of memory out of 5000000
+ 39514 multiletter control sequences out of 15000+600000
  519731 words of font info for 95 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 86i,8n,121p,1698b,661s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 86i,8n,121p,1698b,663s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on gi_surgonc.pdf (197 pages).
