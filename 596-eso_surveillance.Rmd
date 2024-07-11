@@ -1,4 +1,4 @@
-## Surveillance {#eso_surveillance}
+# Surveillance {#eso_surveillance}
 
 **T1a treated with endoscopic resection**
 EGD every 3 mo for first year, then every 6 months for second year, then annually[@shaheen30]
@@ -20,3 +20,7 @@ These patients are at risk for local recurrence [@sudo3400] and some may be cand
 Local/regional relapses are uncommon. [@dorth2099] [@oppedijk385] [@sudo4306] => NCCN does not recommend EGD. 90% of relapses occur within 36 months of surgery.
 
 CT every 6 months up to 2 years (if patient is a candidate for additional curative-intent therapy)
+
+### Recurrence Profile
+
+Dutch cancer registry [@kalff806]

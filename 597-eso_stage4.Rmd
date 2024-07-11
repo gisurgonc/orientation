@@ -1,0 +1,14 @@
+# Stage IV {#eso_stage4}
+
+## Perc Esophagostomy
+
+Percutaneous transesophageal gastrostomy (PTEG) can be used as an alternative to nasogastric decompression, particularly in malignant obstruction.
+
+Systematic review of 14 studies[@zhu262]
+3 cases of PTEG for malignant obstruction, all placed under sedation. [@singal402]
+10 patients treated with PTEG for malignant bowel obstruction. Time from placement to death median 15 days.  Unlike venting gastrostomy, all patients required suction to maintain resolution of malignent bowel obstruction symptoms. [@selby306]
+38 patients treated with perc transesophageal gastrostomy (PTEG) which was successful in 35/38. Mean catheter duration 61 days with 5/35 requiring tube exchanges. [@rotellini-coltvet1901]
+
+17 patients treated with PTEG [@udomsawaengsup2314]
+
+## Endoluminal Stent

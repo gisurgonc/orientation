@@ -3,61 +3,47 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: gi_surgonc.aux
 The style file: apalike.bst
 Database file #1: zotero.bib
-Warning--I didn't find a database entry for "sarkaria764"
-Warning--I didn't find a database entry for "mellow1443"
-Warning--I didn't find a database entry for "kalffa"
-Warning--I didn't find a database entry for "peter858"
-Warning--I didn't find a database entry for "sasako4387"
-Warning--I didn't find a database entry for "nagtegaal303"
-Warning--I didn't find a database entry for "paty365"
 Warning--I didn't find a database entry for "garcia-aguilar2546"
-Warning--I didn't find a database entry for "smith767"
-Warning--I didn't find a database entry for "taylor711"
-Warning--I didn't find a database entry for "strassburg2790"
 Warning--I didn't find a database entry for "kreis25"
-Warning--I didn't find a database entry for "ruppert1519"
-Warning--I didn't find a database entry for "schrag322"
-Warning--I didn't find a database entry for "smithe185896"
-Warning--I didn't find a database entry for "smith657"
-You've used 116 entries,
+You've used 138 entries,
             1935 wiz_defined-function locations,
-            1131 strings with 51421 characters,
-and the built_in function-call counts, 83329 in all, are:
-= -- 7231
-> -- 7228
-< -- 13
-+ -- 2770
-- -- 2754
-* -- 9019
-:= -- 14959
-add.period$ -- 362
-call.type$ -- 116
-change.case$ -- 1957
-chr.to.int$ -- 116
-cite$ -- 116
-duplicate$ -- 1624
-empty$ -- 3648
-format.name$ -- 2886
-if$ -- 15026
-int.to.chr$ -- 1
+            1226 strings with 60187 characters,
+and the built_in function-call counts, 98576 in all, are:
+= -- 8565
+> -- 8514
+< -- 15
++ -- 3259
+- -- 3242
+* -- 10661
+:= -- 17688
+add.period$ -- 429
+call.type$ -- 138
+change.case$ -- 2311
+chr.to.int$ -- 137
+cite$ -- 138
+duplicate$ -- 1932
+empty$ -- 4339
+format.name$ -- 3400
+if$ -- 17787
+int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 116
-newline$ -- 597
-num.names$ -- 348
-pop$ -- 1698
+missing$ -- 138
+newline$ -- 708
+num.names$ -- 414
+pop$ -- 2005
 preamble$ -- 1
-purify$ -- 1957
+purify$ -- 2311
 quote$ -- 0
-skip$ -- 1174
+skip$ -- 1395
 stack$ -- 0
-substring$ -- 4802
-swap$ -- 116
+substring$ -- 5708
+swap$ -- 138
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 696
+type$ -- 828
 warning$ -- 0
-while$ -- 460
+while$ -- 547
 width$ -- 0
-write$ -- 1538
-(There were 16 warnings)
+write$ -- 1826
+(There were 2 warnings)

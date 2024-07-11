@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.23)  6 JUL 2024 20:32
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.23)  10 JUL 2024 20:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -792,7 +792,10 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 
 ] [2
 
-] (./gi_surgonc.toc [3] [4] [5])
+] (./gi_surgonc.toc [3] [4]
+Underfull \vbox (badness 1603) has occurred while \output is active []
+
+[5])
 \tf@toc=\write3
 \openout3 = `gi_surgonc.toc'.
 
@@ -966,264 +969,215 @@ Chapter 28.
 Chapter 29.
 [103
 
-] [104]
-Chapter 30.
-[105
+] [104
 
-] [106]
+]
+Chapter 30.
+[105] [106]
 Chapter 31.
 [107
 
+] [108]
+Chapter 32.
+[109
+
 ]
-
-Package natbib Warning: Citation `sarkaria764' on page 108 undefined on input l
-ine 3239.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3247--3247
+Underfull \hbox (badness 10000) in paragraph at lines 3257--3257
 []\TU/lmr/bx/n/14.4 Induction chemotherapy followed by
  []
 
-[108] [109] [110
+[110] [111] [112
 
 ]
-Chapter 32.
-[111]
-
-Package natbib Warning: Citation `sarkaria764' on page 112 undefined on input l
-ine 3287.
-
-[112]
 Chapter 33.
-[113
-
-] [114
-
-]
+[113] [114]
 Chapter 34.
-[115]
+[115
 
-Package natbib Warning: Citation `mellow1443' on page 116 undefined on input li
-ne 3323.
-
-
-Package natbib Warning: Citation `kalffa' on page 116 undefined on input line 3
-342.
-
-
-Package natbib Warning: Citation `peter858' on page 116 undefined on input line
- 3352.
-
-[116] [117] [118
+] [116
 
 ]
 Chapter 35.
-[119] [120
+[117] [118]
+Chapter 36.
+[119
+
+] [120
 
 ]
-Chapter 36.
+Chapter 37.
+[121] [122
 
-Underfull \hbox (badness 2671) in paragraph at lines 3387--3387
+]
+Chapter 38.
+
+Underfull \hbox (badness 2671) in paragraph at lines 3397--3397
 []\TU/lmr/bx/n/14.4 Nutritional consequences of esophagec-
  []
 
-[121] [122] [123
-
-] [124]
-Chapter 37.
-[125
-
-] [126]
-Chapter 38.
-[127
-
-] [128
+[123] [124
 
 ]
 Chapter 39.
-[129]
+[125] [126
 
-Package natbib Warning: Citation `sasako4387' on page 130 undefined on input li
-ne 3618.
-
-[130]
+]
 Chapter 40.
+[127] [128
+
+] [129] [130]
+Chapter 41.
 [131
 
-] [132
-
-]
-Chapter 41.
-File: images/Double-tract_Q640.jpg Graphic file (type bmp)
-<images/Double-tract_Q640.jpg>
-[133] [134
-
-]
+] [132]
 Chapter 42.
-[135] [136
+[133
 
-] [137] [138]
+] [134
+
+]
 Chapter 43.
-[139
-
-] [140]
+[135] [136]
 Chapter 44.
-[141
+[137
 
-] [142
+] [138
 
 ]
 Chapter 45.
-[143] [144
+File: images/Double-tract_Q640.jpg Graphic file (type bmp)
+<images/Double-tract_Q640.jpg>
+[139] [140
 
 ]
 Chapter 46.
-[145] [146
+[141] [142
 
-]
+] [143] [144]
 Chapter 47.
-[147] [148
+[145
 
-]
+] [146]
 Chapter 48.
-[149] [150
+[147
+
+] [148
 
 ]
 Chapter 49.
-[151] [152]
-Chapter 50.
-[153
+[149] [150
 
-] [154
+]
+Chapter 50.
+[151] [152
 
 ]
 Chapter 51.
-[155] [156
+[153] [154
 
 ]
 Chapter 52.
-[157] [158
-
-] [159] [160]
-Chapter 53.
-[161
-
-] [162
+[155] [156
 
 ]
+Chapter 53.
+[157] [158]
 Chapter 54.
-[163] [164]
-Chapter 55.
-[165
+[159
 
-] [166
+] [160
+
+]
+Chapter 55.
+[161] [162
 
 ]
 Chapter 56.
+[163] [164
 
-Package natbib Warning: Citation `nagtegaal303' on page 167 undefined on input 
-line 4123.
+] [165] [166]
+Chapter 57.
+[167
 
-
-Package natbib Warning: Citation `paty365' on page 167 undefined on input line 
-4123.
-
-[167] [168
+] [168
 
 ]
-Chapter 57.
-[169]
+Chapter 58.
+[169] [170]
+Chapter 59.
+[171
 
-Package natbib Warning: Citation `garcia-aguilar2546' on page 170 undefined on 
-input line 4166.
+] [172
 
+]
+Chapter 60.
+[173] [174
 
-Package natbib Warning: Citation `smith767' on page 170 undefined on input line
- 4166.
+]
+Chapter 61.
+[175]
 
-[170]
+Package natbib Warning: Citation `garcia-aguilar2546' on page 176 undefined on 
+input line 4199.
 
-Package natbib Warning: Citation `taylor711' on page 171 undefined on input lin
-e 4173.
-
-
-Package natbib Warning: Citation `strassburg2790' on page 171 undefined on inpu
-t line 4173.
-
-
-Underfull \hbox (badness 1189) in paragraph at lines 4173--4174
+[176]
+Underfull \hbox (badness 1189) in paragraph at lines 4206--4207
 []\TU/lmr/m/n/10 MERCURY study group has examined selective approaches to adjuv
 ant
  []
 
 
-Package natbib Warning: Citation `kreis25' on page 171 undefined on input line 
-4175.
+Package natbib Warning: Citation `kreis25' on page 177 undefined on input line 
+4208.
 
-
-Package natbib Warning: Citation `ruppert1519' on page 171 undefined on input l
-ine 4175.
-
-[171] [172
+[177] [178
 
 ]
-Chapter 58.
-
-Package natbib Warning: Citation `schrag322' on page 173 undefined on input lin
-e 4193.
-
-[173] [174
+Chapter 62.
+[179] [180
 
 ]
-Chapter 59.
-
-Package natbib Warning: Citation `smithe185896' on page 175 undefined on input 
-line 4198.
-
-
-Package natbib Warning: Citation `smith657' on page 175 undefined on input line
- 4198.
-
-[175]
+Chapter 63.
+[181]
 Overfull \hbox (13.46562pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 176 \TU/lmr/m/sl/10 CHAPTER 59.  NON-OPERATIVE MANAGEMENT OF REC
+\TU/lmr/m/n/10 182 \TU/lmr/m/sl/10 CHAPTER 63.  NON-OPERATIVE MANAGEMENT OF REC
 TAL CANCER
  []
 
-[176]
-Chapter 60.
-[177
+[182]
+Chapter 64.
+[183
 
-] [178
+] [184
 
-] [179] [180]
-Chapter 61.
-(./gi_surgonc.bbl [181
+] [185] [186]
+Chapter 65.
+(./gi_surgonc.bbl [187
 
-] [182
+] [188
 
-] [183] [184] [185]
+] [189] [190] [191]
 Invalid UTF-8 byte or sequence at line 196 replaced by U+FFFD.
 Missing character: There is no � (U+FFFD) in font [lmroman10-regular]:mapping=t
 ex-text;!
-[186] [187] [188] [189] [190] [191] [192] [193]
-Underfull \hbox (badness 2158) in paragraph at lines 771--779
+[192] [193] [194] [195] [196] [197] [198] [199] [200] [201]
+Underfull \hbox (badness 2158) in paragraph at lines 925--933
 []\TU/lmr/m/n/10 Stahl, M., Walz, M. K., Stuschke, M., Lehmann, N., Meyer, H.-J
 .,
  []
 
-[194] [195] [196])
+[202] [203] [204] [205])
 
 Package natbib Warning: There were undefined citations.
 
-[197] (./gi_surgonc.aux) ) 
+[206] (./gi_surgonc.aux) ) 
 Here is how much of TeX's memory you used:
- 19554 strings out of 476683
- 360093 string characters out of 5804046
+ 19630 strings out of 476683
+ 361446 string characters out of 5804046
  1860018 words of memory out of 5000000
- 39514 multiletter control sequences out of 15000+600000
+ 39590 multiletter control sequences out of 15000+600000
  519731 words of font info for 95 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 86i,8n,121p,1698b,663s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 86i,8n,121p,1698b,711s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on gi_surgonc.pdf (197 pages).
+Output written on gi_surgonc.pdf (206 pages).

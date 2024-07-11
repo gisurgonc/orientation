@@ -1,0 +1,8 @@
+# Nutrition {#eso_nutrition}
+
+## Gastrostomy tubes
+
+PEG in esophageal cancer [@margolis1694]. PEG placement planned in 119/179 patients with new diagnosis of esophageal cancer.  Successful in 103/119. No incidence of tumor inoculation metastasis noted. 61 patients underwent surgery and none had difficulty with gastrostomy closure. PEG patients were more likely to complete chemoRT and had better survival at 12 months.
+
+
+Case report of PEG causing injury to right gastroepiploic artery [@ohnmacht311]

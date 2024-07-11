@@ -80,6 +80,8 @@ EsoObjCR
 EsoIntro
 esophagectomy
 staging
+eso_nutrition
+gastrostomy-tubes
 superficial
 emr
 localized
@@ -113,6 +115,10 @@ nutritional-consequences-of-esophagectomy
 vitamin-d-deficiency
 cardiac-toxicity-of-radiation
 eso_surveillance
+recurrence-profile
+eso_stage4
+perc-esophagostomy
+endoluminal-stent
 gastric-ca-score
 gast_superficial
 locally-advanced-gastric

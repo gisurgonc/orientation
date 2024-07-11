@@ -40,7 +40,7 @@ Dysphagia can be scored according to Mellow et al [@mellow1443]:
 
 ## Minimally-invasive Esophagectomy
 
-Higher lymph node yield with MIE vs open approach [@kalffa]
+Higher lymph node yield with MIE vs open approach [@kalffe749]
 
 ## Early Recovery Pathways
 
@@ -48,4 +48,4 @@ Higher lymph node yield with MIE vs open approach [@kalffa]
 
 ## Colon Interposition
 
-Left colon technique based upon blood supply [@peter858]
+Left colon technique based upon blood supply [@peters858]
