@@ -12,7 +12,7 @@ output:
 
 **Evening Signout**
 
-The Handoff Tool should be completed for all inpatients, and the responsible attending designated. This tool is critical for the safe care of patients by the nigh team. If there are studies which are pending at the time of signout (CT scan, follow-up Hb), it is critical that a plan be in place for whom to notify with an abnormal or critical study. In general, Drs Hill and Salo are always available until 10pm. Attending notification plans (service attending vs covering attending) for unstable patients should be negotiated before nightfall.
+The Handoff Tool should be completed for all inpatients, and the responsible attending designated. This tool is critical for the safe care of patients by the nigh team. If there are studies which are pending at the time of signout (CT scan, follow-up Hb), it is critical that a plan be in place for whom to notify with an abnormal or critical study. In general, Drs Hill, Squires, and Salo are always available until 10pm. Attending notification plans (service attending vs covering attending) for unstable patients should be negotiated before nightfall.
 
 **Weekend Signout**
 

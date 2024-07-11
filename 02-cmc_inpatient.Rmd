@@ -58,8 +58,6 @@ Discharge appointments are made by sending a message in Canopy the evening prior
 
 
 - LCI CMC GI, Clerical
-- Marsha Sukhdeo (Salo and Squires)
-- Carmen Davis (Hill)
 - Mychal Lacombe (Salo and Squires) 
 - Rebecca Wicks (Hill) 
 - Brandon Galloway
@@ -75,16 +73,13 @@ Please include the following information in the Epic Message:
   - Chest X-ray
   - Modified Barium Swallow
 
-If messages cannot be sent in time, clinic schedulers can be reached at: Marsha Sukhdeo (Salo and Squires): 980-442-6110 or Carmen Davis  (Hill): 980-442-6183.
-
-If schedulers are not available, clinic RNs can be reached at: (Hill) 980-442-6146 or (Salo and Squires) 980-442-6143.
+Clinic RNs can be reached at: (Hill) 980-442-6146 or (Salo and Squires) 980-442-6143.
 
 For patients likely to go home over the weekend or holidays, please plan to send a canopy message before 3pm on Friday or the day prior.
 
 The scheduler will respond with a message to the discharging resident AND to the ward CNL with the appointment time, which can be included within the discharge summary. Copies of the message will also be sent to clinical nurse leaders:
 
 - 11Tower: Sharon Hood
-- 6Tower: Amy Peterson
 
 ## Conferences
 

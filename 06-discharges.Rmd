@@ -14,6 +14,8 @@ output:
 
 Prescriptions should be ideally be prepared the day prior to anticipated discharge and sent to the patient's pharmacy. According to [North Carolina STOP guidelines](https://www.ncmedboard.org/images/uploads/license_applications/STOPAct-focusedFAQs-Sept2019.pdf), opioid prescriptions for postoperative patients should be for no more than a 7 day supply. At the same time, patients taking narcotics in the hospital should have the same dosages for their outpatient prescription, to avoid patients running out of narcotics between the time of discharge and their first clinic visit.
 
+Note that metoprolol is available in liquid form in the hospital, but is not available for outpatient prescription
+
 
 **Additional Appointments**
 
