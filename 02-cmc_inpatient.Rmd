@@ -26,8 +26,7 @@ Work rounds for both services (CR and SurgOnc) start at 6am in STICU or 11T.  Se
 
 ## Resident Epic teams:
 
-- GI Surgical Oncology LCI CMC
-- Colorectal CMC
+- GI Surgical Oncology Colorectal LCI CMC
 - Colorectal Surgery Pineville
 
 It is critical that you notify service attendings before the start of the month to adjust the resident call schedule. Each “shift” is 5:50am to 6pm. At 6pm the resident Epic Teams will be forwarded to the night team.
@@ -41,7 +40,7 @@ Established patients and directed should be discussed with the attending surgeon
 
 Unassigned Colorectal: Contact Attending directly
 
-Unassigned Surgical Oncology: “GI Surgical Oncology LCI CMC”
+Unassigned Surgical Oncology: “Gi Surg Onc Attending LCI CMC”
 
 In general, benign colorectal consults are staffed by Dr Davis. Colorectal malignancies are staffed as below. Esophageal and GE junction staffed by Dr Salo. Adenocarcinoma of distal stomach: Drs Salo/Squires. Gastric GIST: Drs Hill/Salo/Squires. Squires/Hill alternate week
  
