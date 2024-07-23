@@ -3,46 +3,44 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: gi_surgonc.aux
 The style file: apalike.bst
 Database file #1: zotero.bib
-Warning--I didn't find a database entry for "gorgec137"
-You've used 140 entries,
+You've used 141 entries,
             1935 wiz_defined-function locations,
-            1233 strings with 61587 characters,
-and the built_in function-call counts, 101097 in all, are:
-= -- 8769
-> -- 8790
+            1236 strings with 62777 characters,
+and the built_in function-call counts, 102797 in all, are:
+= -- 8894
+> -- 9013
 < -- 15
-+ -- 3367
-- -- 3350
-* -- 10954
-:= -- 18143
-add.period$ -- 435
-call.type$ -- 140
-change.case$ -- 2375
-chr.to.int$ -- 139
-cite$ -- 140
-duplicate$ -- 1960
-empty$ -- 4417
-format.name$ -- 3510
-if$ -- 18229
++ -- 3455
+- -- 3438
+* -- 11159
+:= -- 18463
+add.period$ -- 438
+call.type$ -- 141
+change.case$ -- 2424
+chr.to.int$ -- 140
+cite$ -- 141
+duplicate$ -- 1974
+empty$ -- 4447
+format.name$ -- 3599
+if$ -- 18516
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 140
-newline$ -- 718
-num.names$ -- 420
-pop$ -- 2065
+missing$ -- 141
+newline$ -- 723
+num.names$ -- 423
+pop$ -- 2112
 preamble$ -- 1
-purify$ -- 2375
+purify$ -- 2424
 quote$ -- 0
-skip$ -- 1415
+skip$ -- 1425
 stack$ -- 0
-substring$ -- 5840
-swap$ -- 140
+substring$ -- 5877
+swap$ -- 141
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 840
+type$ -- 846
 warning$ -- 0
-while$ -- 556
+while$ -- 560
 width$ -- 0
-write$ -- 1852
-(There was 1 warning)
+write$ -- 1865
