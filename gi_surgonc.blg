@@ -3,47 +3,46 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: gi_surgonc.aux
 The style file: apalike.bst
 Database file #1: zotero.bib
-Warning--I didn't find a database entry for "garcia-aguilar2546"
-Warning--I didn't find a database entry for "kreis25"
-You've used 138 entries,
+Warning--I didn't find a database entry for "gorgec137"
+You've used 140 entries,
             1935 wiz_defined-function locations,
-            1226 strings with 60187 characters,
-and the built_in function-call counts, 98576 in all, are:
-= -- 8565
-> -- 8514
+            1233 strings with 61587 characters,
+and the built_in function-call counts, 101097 in all, are:
+= -- 8769
+> -- 8790
 < -- 15
-+ -- 3259
-- -- 3242
-* -- 10661
-:= -- 17688
-add.period$ -- 429
-call.type$ -- 138
-change.case$ -- 2311
-chr.to.int$ -- 137
-cite$ -- 138
-duplicate$ -- 1932
-empty$ -- 4339
-format.name$ -- 3400
-if$ -- 17787
++ -- 3367
+- -- 3350
+* -- 10954
+:= -- 18143
+add.period$ -- 435
+call.type$ -- 140
+change.case$ -- 2375
+chr.to.int$ -- 139
+cite$ -- 140
+duplicate$ -- 1960
+empty$ -- 4417
+format.name$ -- 3510
+if$ -- 18229
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 138
-newline$ -- 708
-num.names$ -- 414
-pop$ -- 2005
+missing$ -- 140
+newline$ -- 718
+num.names$ -- 420
+pop$ -- 2065
 preamble$ -- 1
-purify$ -- 2311
+purify$ -- 2375
 quote$ -- 0
-skip$ -- 1395
+skip$ -- 1415
 stack$ -- 0
-substring$ -- 5708
-swap$ -- 138
+substring$ -- 5840
+swap$ -- 140
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 828
+type$ -- 840
 warning$ -- 0
-while$ -- 547
+while$ -- 556
 width$ -- 0
-write$ -- 1826
-(There were 2 warnings)
+write$ -- 1852
+(There was 1 warning)

@@ -140,6 +140,7 @@ TColectomyObj
 stage-i-colon-cancer
 malignant-colon-polyp
 stage-iv-colon-cancer
+workup-of-colon-cancer
 stent-vs-colostomy
 colon-resection-in-stage-iv-colon-cancer
 immunotherapy-for-dmmr-msi-high

@@ -146,10 +146,11 @@
 \contentsline {chapter}{\numberline {52}Stage I Colon Cancer}{155}{chapter.52}%
 \contentsline {section}{\numberline {52.1}Malignant colon polyp}{155}{section.52.1}%
 \contentsline {chapter}{\numberline {53}Stage IV Colon Cancer}{157}{chapter.53}%
-\contentsline {section}{\numberline {53.1}Stent vs colostomy}{157}{section.53.1}%
-\contentsline {section}{\numberline {53.2}Colon resection in stage IV colon cancer}{157}{section.53.2}%
-\contentsline {section}{\numberline {53.3}Immunotherapy for dMMR (MSI high)}{157}{section.53.3}%
-\contentsline {section}{\numberline {53.4}Peritoneal Colon Cancer}{158}{section.53.4}%
+\contentsline {section}{\numberline {53.1}Workup of Colon Cancer}{157}{section.53.1}%
+\contentsline {section}{\numberline {53.2}Stent vs colostomy}{157}{section.53.2}%
+\contentsline {section}{\numberline {53.3}Colon resection in stage IV colon cancer}{157}{section.53.3}%
+\contentsline {section}{\numberline {53.4}Immunotherapy for dMMR (MSI high)}{157}{section.53.4}%
+\contentsline {section}{\numberline {53.5}Peritoneal Colon Cancer}{158}{section.53.5}%
 \contentsline {chapter}{\numberline {54}Colectomy}{159}{chapter.54}%
 \contentsline {section}{\numberline {54.1}Extended Node dissection}{159}{section.54.1}%
 \contentsline {chapter}{\numberline {55}Chemotherapy}{161}{chapter.55}%

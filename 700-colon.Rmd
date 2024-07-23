@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # (PART\*) Colon Cancer {-}
 
 # ColonCa SCORE  {#ColonObjCR}
@@ -17,6 +22,8 @@
   - Sporadic vs hereditary vs familial
   
 **Screening**
+
+USPTF recommends colon cancer screening from ages 45-75
 
   - Colonoscopy
   - Flex sig
@@ -57,3 +64,4 @@
 
 [ASCRS Guidelines for treatment of Colorectal Cancer 2022](https://fascrs.org/ascrs/media/files/downloads/2022-Colon-Cancer-CPG.pdf)
 
+[USPTF Colon Cancer Screening Guidelines](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/colorectal-cancer-screening)

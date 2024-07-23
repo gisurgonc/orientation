@@ -1,5 +1,9 @@
 # Stage IV Colon Cancer
 
+## Workup of Colon Cancer
+
+CAMINO trial - Advantage of MRI over CT scan in detecting liver metastasis [@gorgec137]
+
 ## Stent vs colostomy
 
 CREST trial[@crestcollaborativegroup1073] stent as bridge to surgery in obstructing left colon cancers. 246 patients randomized to colostomy vs stent as bridge to surgery. Lower rate of stoma formation in stent group. 

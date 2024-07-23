@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.23)  23 JUL 2024 07:06
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.23)  23 JUL 2024 07:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1081,6 +1081,10 @@ Chapter 52.
 
 ]
 Chapter 53.
+
+Package natbib Warning: Citation `gorgec137' on page 157 undefined on input lin
+e 3940.
+
 [157] [158]
 Chapter 54.
 [159
@@ -1115,20 +1119,11 @@ Chapter 60.
 
 ]
 Chapter 61.
-[175]
-
-Package natbib Warning: Citation `garcia-aguilar2546' on page 176 undefined on 
-input line 4191.
-
-[176]
-Underfull \hbox (badness 1189) in paragraph at lines 4198--4199
+[175] [176]
+Underfull \hbox (badness 1189) in paragraph at lines 4207--4208
 []\TU/lmr/m/n/10 MERCURY study group has examined selective approaches to adjuv
 ant
  []
-
-
-Package natbib Warning: Citation `kreis25' on page 177 undefined on input line 
-4200.
 
 [177] [178
 
@@ -1160,24 +1155,24 @@ Chapter 65.
 Invalid UTF-8 byte or sequence at line 196 replaced by U+FFFD.
 Missing character: There is no � (U+FFFD) in font [lmroman10-regular]:mapping=t
 ex-text;!
-[192] [193] [194] [195] [196] [197] [198] [199] [200] [201]
-Underfull \hbox (badness 2158) in paragraph at lines 925--933
+[192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202]
+Underfull \hbox (badness 2158) in paragraph at lines 951--959
 []\TU/lmr/m/n/10 Stahl, M., Walz, M. K., Stuschke, M., Lehmann, N., Meyer, H.-J
 .,
  []
 
-[202] [203] [204] [205])
+[203] [204] [205] [206])
 
 Package natbib Warning: There were undefined citations.
 
-[206] (./gi_surgonc.aux) ) 
+[207] (./gi_surgonc.aux) ) 
 Here is how much of TeX's memory you used:
- 19630 strings out of 476683
- 361446 string characters out of 5804046
+ 19637 strings out of 476683
+ 361593 string characters out of 5804046
  1860018 words of memory out of 5000000
- 39590 multiletter control sequences out of 15000+600000
+ 39597 multiletter control sequences out of 15000+600000
  519731 words of font info for 95 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 86i,8n,121p,1698b,711s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 86i,8n,121p,1698b,723s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on gi_surgonc.pdf (206 pages).
+Output written on gi_surgonc.pdf (207 pages).
