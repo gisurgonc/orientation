@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.23)  10 JUL 2024 20:32
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.23)  23 JUL 2024 07:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -832,7 +832,7 @@ Chapter 6.
 ] [20]
 Chapter 7.
 
-Overfull \hbox (3.61646pt too wide) in paragraph at lines 519--519
+Overfull \hbox (3.61646pt too wide) in paragraph at lines 517--517
 []|\TU/lmr/m/n/10 Endo|  
  []
 
@@ -841,30 +841,30 @@ Overfull \hbox (3.61646pt too wide) in paragraph at lines 519--519
 ] [22]
 Chapter 8.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 577.
+(Font)              scaled to size 7.0pt on input line 575.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 577.
+(Font)              scaled to size 5.0pt on input line 575.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00092pt on input line 577.
+(Font)              scaled to size 10.00092pt on input line 575.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.00064pt on input line 577.
+(Font)              scaled to size 7.00064pt on input line 575.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00046pt on input line 577.
+(Font)              scaled to size 5.00046pt on input line 575.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 577.
+(Font)              scaled to size 9.99893pt on input line 575.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 577.
+(Font)              scaled to size 6.99925pt on input line 575.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 577.
+(Font)              scaled to size 4.99947pt on input line 575.
 [23
 
 ]
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 640.
+(Font)              scaled to size 14.4pt on input line 638.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 14.4013pt on input line 640.
+(Font)              scaled to size 14.4013pt on input line 638.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 14.39845pt on input line 640.
+(Font)              scaled to size 14.39845pt on input line 638.
 [24] [25] [26
 
 ]
@@ -920,7 +920,7 @@ Chapter 19.
 ]
 Chapter 20.
 [71]
-Underfull \hbox (badness 1028) in paragraph at lines 2309--2310
+Underfull \hbox (badness 1028) in paragraph at lines 2307--2308
 \TU/lmr/m/n/10 Patients with metastatic esophageal cancer who need enteral acce
 ss are
  []
@@ -982,7 +982,7 @@ Chapter 32.
 [109
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 3251--3251
+Underfull \hbox (badness 10000) in paragraph at lines 3249--3249
 []\TU/lmr/bx/n/14.4 Induction chemotherapy followed by
  []
 
@@ -1011,7 +1011,7 @@ Chapter 37.
 ]
 Chapter 38.
 
-Underfull \hbox (badness 2671) in paragraph at lines 3391--3391
+Underfull \hbox (badness 2671) in paragraph at lines 3389--3389
 []\TU/lmr/bx/n/14.4 Nutritional consequences of esophagec-
  []
 
@@ -1118,17 +1118,17 @@ Chapter 61.
 [175]
 
 Package natbib Warning: Citation `garcia-aguilar2546' on page 176 undefined on 
-input line 4193.
+input line 4191.
 
 [176]
-Underfull \hbox (badness 1189) in paragraph at lines 4200--4201
+Underfull \hbox (badness 1189) in paragraph at lines 4198--4199
 []\TU/lmr/m/n/10 MERCURY study group has examined selective approaches to adjuv
 ant
  []
 
 
 Package natbib Warning: Citation `kreis25' on page 177 undefined on input line 
-4202.
+4200.
 
 [177] [178
 
