@@ -7,7 +7,7 @@ Trans-thoracic or Ivor Lewis esophagectomy[@visbal1803] removes the intrathoraci
 
 A McKeown esophagectomy utilizes three surgical fields: abdomen, right chest, and neck.  The right chest approach allows dissection of peri-esophageal lymph nodes, and the cervical incision allows removal of the total esophagus.[@mckeown259] This approach is useful for tumors which involve the proximal thoracic esophagus, to ensure a negative margin. The cervical anastomosis carries a higher risk of anastomotic leak than a thoracic anastomosis, although the morbidity of a cervical anastomosis leak is less serious than that of a leak of a thoracic anastomosis.
 
-A transhiatal esohpagectomy approaches the esophagus from the abdomen through the hiatus and from neck.  By blunt dissection the esophagus is freed up without the need for thoracotomy.  An esophageal substute is then brought from the abdomen to the neck through the mediastinum[@orringer643] [@orringer363]<! -- Orringer Ann Surg 2007 --> The operation is designed to avoid the pulmonary toxicity of the right chest approach. On the other hand, the blunt nature of the mediastinal dissection means that fewer lymph nodes are harvested than with a trans-thoracic approach.
+A transhiatal esohpagectomy approaches the esophagus from the abdomen through the hiatus and from neck.  By blunt dissection the esophagus is freed up without the need for thoracotomy.  An esophageal substute is then brought from the abdomen to the neck through the mediastinum.[@orringer643] [@orringer363] The operation is designed to avoid the pulmonary toxicity of the right chest approach. On the other hand, the blunt nature of the mediastinal dissection means that fewer lymph nodes are harvested than with a trans-thoracic approach.
 
 Randomized trial of transthoracic esophagectomy with extended lymph node dissection versus transhiatal esohpagectomy showed fewer pulmonary complications with the transhiatal approach. [@hulscher1662] Fewer lymph nodes were havested with a transhiatal appraoch. A post-hoc analysis showed that among patients with 1-8 positive lymph nodes, survival with improved with the extended lymph node dissection.[@omloo992]
 
@@ -24,7 +24,7 @@ Dutch randomized trial (n=262) cervical vs thoracic anastomosis.[@vanworkum601] 
 
 ### GE Junction Adenocarcinoma
 
-Siwert III lesions are considered gastric cancers [@rusch444]  [@siewert260] <!--- Scand J surg--->
+Siwert III lesions are considered gastric cancers [@rusch444]  [@siewert260] 
 
 Laparoscopy may be helpful in Siewert III tumors [@degraaf988]
 
