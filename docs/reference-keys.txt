@@ -187,3 +187,8 @@ soft-tissue-sarcomas
 desmoid-tumors
 retroperitoneal
 peritoneal-mesothelioma
+diagnosis
+trans-thoracic-vs-transhiatal-esophagectomy
+small-bowel-neoplasms
+carcinoid
+adenocarcinoma

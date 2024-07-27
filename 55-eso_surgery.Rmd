@@ -17,6 +17,10 @@ Randomized trial of a hybrid MIE (with laparoscopy and thoracotomy) was associat
 
 High volume centers have lower mortality for esophageal cancer than low-volume centers. [@birkmeyer2117] [@wouters1789] 
 
+### Trans-thoracic vs Transhiatal Esophagectomy
+
+Dutch randomized trial (n=262) cervical vs thoracic anastomosis.[@vanworkum601] Thoracic anastomosis associated with lower leak rate (12% vs 34%) and lower rate of recurrent laryngeal nerve injury (0% vs 7.3% ) and better quality of life (dysphagia, choking while swallowing, and talking)
+
 
 ### GE Junction Adenocarcinoma
 
