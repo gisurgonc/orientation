@@ -7,6 +7,8 @@ output:
 
 [NCCN Guidelines](https://www.nccn.org/professionals/physician_gls/pdf/anal_blocks.pdf)
 
+Surgical Clinics Review Article: [@young629]
+
 ## Chemoradiation
 
 Chemoradiation is now the standard for anal squamous cell carcinoma of the anal canal and for perianal cancers (except for small T1 lesions). Nigro protocol is the standard approach.[@nigro1826]
