@@ -1,0 +1,105 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
+```{r, include=F}
+# Placeholder for clinical evaluation
+# = history and physical
+# Nutritional evaluation
+```
+
+# Subtotal Gastrectomy  {#robo_stgastrectomy_salo}
+
+**Room Prep**
+
+- EGD cart near patient’s LEFT SHOULDER (with ADULT EGD scope)
+
+**Instruments**
+
+- 5mm 30 degree scope AND 5mm 0 degree scope
+- SRI laparoscopic Pan (available)
+
+**Disposables/Meds**
+
+- Veress needle (with 10mL syringe and saline)
+- 5mm Z-thread optical port 
+- Robot prostatectomy drape
+- 1000 drape x4 AND blue plastic adhesive drapes 2 packs of 2 each = 8 total
+
+**Endoscope Setup –Adult EGD scope**
+
+- Valves attached and working (suction/aspiration/biopsy cap)
+- Suction tubing attached
+- Connect water bottle to left-hand port
+- Gauze sponges, lubricant, plastic “tray” from gauze filled with water
+- **Yellow** (small) bite block
+- “First step” sanitizer
+- ICG bottle reconstituted with 10ml Water (ask first)
+- 25% albumin (to mix with ICG)
+  - Will mix 2mL of ICG solution with 5mL of 25% albumin
+
+
+
+**Position**
+
+- Supine arms an arm boards
+- Foley catheter
+- Bovie pad
+- Lower body Bair Hugger on thighs. ONE layer of blankets on top of Bair Hugger. Velcro strap on thighs. NO PILLOW UNDERNEATH LEGS.
+
+**Prep**
+
+Chloroprep of abdomen from midline at the level of the nipples to the pubis, and table to table
+
+
+**Review Clinical Information (Resident)**
+
+Review staging scans (especially PET scan) to identify suspicious areas on imaging which need to be investigated at the time of laparoscopy
+Outpatient anticoagulation use (warfarin, Xaralto, aspirin, Plavix)
+
+**Drape**
+
+Abdomen: Four Blue Adhesive Drapes around perimeter of field (on top of 1000 drapes)
+
+3/4 sheet over thighs
+
+Prostate Drape
+
+**Operation**
+
+**Abdominal access** is obtained in one of two ways:
+
+- Veress needle inserted in left upper quadrant just inferior to costal margin. Abdominal entry with 5mm optical port at lateral border of rectus just superior to umbilicus
+- Infraumbilical approach using modified Hasson technique. If the peritoneum is not easily entered, a Veress needle is used to insufflate, followed by incision of the fascia with a 15 blade, and a 5mm optical port
+
+** Ports**
+
+Location of ports (cephalad-caudad) depends upon proximal extent of tumor.
+
+Abdominal entry in RUQ 8-9cm from midline with OptiView port. This will be upsized to 8mm robot port (#1)
+
+Port #4 as far lateral as possible in LUQ.
+
+Port #3 in LUQ midway between midline and Port #4
+
+Port #2 in midline
+
+Assisting port in LLQ:
+  - 5mm or 12m port inferior to the midway point between Port #3 and Port #4. (Can be used later for robotic stapler port #3A)
+
+Retraction port in RLQ for flexible liver retractor held by Endosopic Bookwalter
+
+Flexible liver retractor can be omitted in very distal lesions.  Other options include suspending the lateral sector of liver with a 10cm Penrose drain or using a 0 silk on Keith needle to suspend falciform ligament and distract it to patient's right
+
+**Porta Hepatis**
+
+- Mark pylorus with cautery by making 2-3 dots 1cm proximal to the pylorus
+- Dissect pylorus off porta hepatis
+- Mobilize duodenum if needed
+
+** Mobilize Greater Curvature**
+
+Can be done with bipolar + monopolar scissors or Extend vessel sealer
+Enter lesser sac and check for peritoneal disease posterior to stomach on an anterior surface of pancreas
+

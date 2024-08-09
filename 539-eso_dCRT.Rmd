@@ -21,6 +21,8 @@ Stahl Locally advanced squamous cell carcinoma randomized to induction chemother
 
 In the French FFCD trial, 444 patients with carcinoma of the esophagus (90% squamous cell) were treated with two cycles of 5-FU and cisplatin with concurrent radiation.[@bedenne1160] Patients with a partial or complete clinical response to chemoradiation were randomized to either surgery or a boost of radiation. Patients who did not respond to chemoradiation were treated with surgery and were eliminated from the study. Only 259 of the original 444 patients (59%) went on to randomization, with the remainder (those not responding to chemoradiation) treated with surgery. Of the randomized group, median survival was 17.7months in the surgery arm versus 19.3months in the definitive chemoradiation arm. Like the Stahl study, treatment-related mortality in the surgical arm was high (9% versus 1%).
 
-\#Active Surveillance
+##Active Surveillance
 
 EGD is poor predictor of pCR [@sarkaria764]
+
+
