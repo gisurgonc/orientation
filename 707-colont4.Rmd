@@ -1,0 +1,7 @@
+# T4 Colon Cancer
+
+## Adjuvant HIPEC
+
+COLOPEC clinlical trial [@klaver761]
+
+>T4 or perforated colon cancer randomized to adjuvant chemotherapy + HIPEC vs adjuvant chemotherapy alone. HIPEC with 5FU and oxliplatin. Primary endpoint was absence of peritoneal disease at laparoscopy at 18 months. 202 patients randomized. No difference in peritoneal disease-free survival at 18months. 12 (14%) of 87 patients who received adjuvant HIPEC developed postoperative complications and one (1%) encapsulating peritoneal sclerosis.

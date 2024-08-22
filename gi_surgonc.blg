@@ -3,44 +3,52 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: gi_surgonc.aux
 The style file: apalike.bst
 Database file #1: zotero.bib
-You've used 141 entries,
+Warning--I didn't find a database entry for "eyck"
+Warning--I didn't find a database entry for "reynolds401"
+Warning--I didn't find a database entry for "klaver761"
+Warning--I didn't find a database entry for "quenet256"
+Warning--I didn't find a database entry for "rovers710"
+Warning--I didn't find a database entry for "feron114"
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+You've used 143 entries,
             1935 wiz_defined-function locations,
-            1236 strings with 62777 characters,
-and the built_in function-call counts, 102797 in all, are:
-= -- 8894
-> -- 9013
+            1253 strings with 63722 characters,
+and the built_in function-call counts, 104306 in all, are:
+= -- 9022
+> -- 9154
 < -- 15
-+ -- 3455
-- -- 3438
-* -- 11159
-:= -- 18463
-add.period$ -- 438
-call.type$ -- 141
-change.case$ -- 2424
-chr.to.int$ -- 140
-cite$ -- 141
-duplicate$ -- 1974
-empty$ -- 4447
-format.name$ -- 3599
-if$ -- 18516
++ -- 3509
+- -- 3492
+* -- 11325
+:= -- 18737
+add.period$ -- 444
+call.type$ -- 143
+change.case$ -- 2461
+chr.to.int$ -- 142
+cite$ -- 143
+duplicate$ -- 2002
+empty$ -- 4507
+format.name$ -- 3655
+if$ -- 18785
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 141
-newline$ -- 723
-num.names$ -- 423
-pop$ -- 2112
+missing$ -- 143
+newline$ -- 733
+num.names$ -- 429
+pop$ -- 2145
 preamble$ -- 1
-purify$ -- 2424
+purify$ -- 2461
 quote$ -- 0
-skip$ -- 1425
+skip$ -- 1445
 stack$ -- 0
-substring$ -- 5877
-swap$ -- 141
+substring$ -- 5951
+swap$ -- 143
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 846
+type$ -- 858
 warning$ -- 0
-while$ -- 560
+while$ -- 568
 width$ -- 0
-write$ -- 1865
+write$ -- 1891
+(There were 6 warnings)

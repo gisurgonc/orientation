@@ -8,7 +8,6 @@ CAMINO trial - Advantage of MRI over CT scan in detecting liver metastasis [@gor
 
 CREST trial[@crestcollaborativegroup1073] stent as bridge to surgery in obstructing left colon cancers. 246 patients randomized to colostomy vs stent as bridge to surgery. Lower rate of stoma formation in stent group. Average patency of stent duration is 120 days
 
-
 ## Colon resection in stage IV colon cancer
 
 MSKCC: Colon surgery patients with bilobar liver metastasis treated with chemotherapy with primary tumor in place. Surgical intervention needed in 7% of cases [@poultsides35]
@@ -25,5 +24,17 @@ Keynote-177 trial [@andre2207] randomized 307 patients with MSI-High dMMR colore
 
 ## Peritoneal Colon Cancer
 
-Prodige - Cytoreductive surgery vs cytoreductive surgery + HPIEC
+## HIPEC
 
+Prodige 7- Cytoreductive surgery vs cytoreductive surgery + HPIEC [@quenet256]
+
+> Patients with stage IV colorectal cancer randomized: 133 to the cytoreductive surgery plus HIPEC group and 132 to the cytoreductive surgery alone group. No difference in overall survival. Grade 3 or worse adverse events at 30 days were similar in frequency between groups (56 [42%] of 133 patients in the cytoreductive surgery plus HIPEC group vs 42 [32%] of 132 patients in the cytoreductive surgery group; p=0·083); however, at 60 days, grade 3 or worse adverse events were more common in the cytoreductive surgery plus HIPEC group (34 [26%] of 131 vs 20 [15%] of 130; p=0·035). Chemotherapy with oxaliplatin for 30min.
+
+CAIRO-6 Phase II Trial [@rovers710]
+
+>Phase II Trial of adjuvant chemotherapy Randomization to perioperative systemic therapy or CRS-HIPEC alone. Perioperative systemic therapy with CAPOX, FOLFOX, or FOLFIRI.
+
+
+### Peritoneal Carcinoma Index (PCI)
+
+Linear relationship between PCI and survival [@feron114]

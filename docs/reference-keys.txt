@@ -63,6 +63,7 @@ colorectal-cases---hillsquires
 cv_port_salo
 lap-jejunostomy
 lap_gastrostomy_salo
+robo_stgastrectomy_salo
 esophagectomy-1-stage
 indications
 room-prep
@@ -100,6 +101,7 @@ phase-ii-studies
 chemort-vs-trimodality-therapy
 radiation
 esophagectomy-1
+trans-thoracic-vs-transhiatal-esophagectomy
 ge-junction-adenocarcinoma
 preoperative-evaluation
 minimally-invasive-esophagectomy
@@ -128,6 +130,7 @@ postoperative-chemoradiation-1
 preoperative-chemoradiation
 hereditary-diffuse-gastric-cancer
 penetrance-estimates-for-lifetime-risk-of-dgc
+surveillance-for-cdh1-carriers
 gastrectomy
 proximal-gastrectomy
 gastric-gist
@@ -139,12 +142,16 @@ ColostomyObj
 TColectomyObj
 stage-i-colon-cancer
 malignant-colon-polyp
+t4-colon-cancer
+adjuvant-hipec
 stage-iv-colon-cancer
 workup-of-colon-cancer
 stent-vs-colostomy
 colon-resection-in-stage-iv-colon-cancer
 immunotherapy-for-dmmr-msi-high
 peritoneal-colon-cancer
+hipec
+peritoneal-carcinoma-index-pci
 colectomy-1
 extended-node-dissection
 chemotherapy
@@ -187,8 +194,6 @@ soft-tissue-sarcomas
 desmoid-tumors
 retroperitoneal
 peritoneal-mesothelioma
-diagnosis
-trans-thoracic-vs-transhiatal-esophagectomy
 small-bowel-neoplasms
 carcinoid
 adenocarcinoma
