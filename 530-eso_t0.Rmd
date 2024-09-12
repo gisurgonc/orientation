@@ -1,0 +1,12 @@
+# Barrett's Esophagus
+
+AGA recommendations for endoscopic ablation of Barretts:
+
+Strong recommendation for ablation of high grade dysplasia. Recommends surveillance at 3,6,12 months, then annually. 
+
+Shaheen randomized trial of radiofrequency ablation (RFA) for dysplasia [@shaheen2277]. Mean age 66 years. Mean length of Barrett's esophagus 5.3cm. RFA resulted in 77% rate of eradication of Barrett's at one year.
+
+Meta-abalysis suggests ablation can reduce rate of development of cancer from 6.6 per 100 person years to 1.9 [@rastogi394]
+
+## Anti-reflux surgery for Barrett's esophagus
+

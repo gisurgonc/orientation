@@ -19,7 +19,9 @@ NSABP R-03 clinical trial [@roh5124] randomized 267 patients with T3 or T4 or no
 
 Dutch Rectal Cancer Trial (CKVO 95-04): Demonstrated the benefit of preop radiation in combination with TME[@kapiteijn638]. Radiation reduced local recurrence form 10.9% to 5.6%
 
-The Dutch trial found a reduction in local recurrence form 10.9% to 5.6% with preoperative radiation with no difference in survival[@kapiteijn638]. A later update[@vangijn575] The Medical Research Council C07 trial compared preoperative short-course radiation with selective post-operative chemoradiation and found no difference in local recurrence (4.4% vs 10.6%) and no difference in overall survival.[@sebag-montefiore811]
+The Dutch trial found a reduction in local recurrence form 10.9% to 5.6% with preoperative radiation with no difference in survival[@kapiteijn638]. A later update[@vangijn575] 
+
+The Medical Research Council C07 trial compared preoperative short-course radiation with selective post-operative chemoradiation and found no difference in local recurrence (4.4% vs 10.6%) and no difference in overall survival.[@sebag-montefiore811]
 
 ## Short-course RT
 

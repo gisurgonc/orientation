@@ -85,6 +85,8 @@ eso_nutrition
 gastrostomy-tubes
 superficial
 emr
+barretts-esophagus
+anti-reflux-surgery-for-barretts-esophagus
 localized
 t1b-tumors
 t2n0-tumors

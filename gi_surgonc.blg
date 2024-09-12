@@ -3,6 +3,7 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: gi_surgonc.aux
 The style file: apalike.bst
 Database file #1: zotero.bib
+Warning--I didn't find a database entry for "rastogi394"
 Warning--I didn't find a database entry for "eyck"
 Warning--I didn't find a database entry for "reynolds401"
 Warning--I didn't find a database entry for "klaver761"
@@ -12,7 +13,7 @@ Warning--I didn't find a database entry for "feron114"
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 You've used 143 entries,
             1935 wiz_defined-function locations,
-            1253 strings with 63722 characters,
+            1254 strings with 63732 characters,
 and the built_in function-call counts, 104306 in all, are:
 = -- 9022
 > -- 9154
@@ -51,4 +52,4 @@ warning$ -- 0
 while$ -- 568
 width$ -- 0
 write$ -- 1891
-(There were 6 warnings)
+(There were 7 warnings)

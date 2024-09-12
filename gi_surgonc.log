@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.23)  21 AUG 2024 21:59
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.23)  12 SEP 2024 19:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -976,43 +976,47 @@ Chapter 30.
 Chapter 31.
 [109] [110]
 Chapter 32.
+
+Package natbib Warning: Citation `rastogi394' on page 111 undefined on input li
+ne 3310.
+
 [111
 
-] [112]
+] [112
+
+]
 Chapter 33.
+[113] [114]
+Chapter 34.
 
-Package natbib Warning: Citation `eyck' on page 113 undefined on input line 336
-3.
+Package natbib Warning: Citation `eyck' on page 115 undefined on input line 337
+7.
 
-[113
+[115
 
 ]
 
-Package natbib Warning: Citation `reynolds401' on page 114 undefined on input l
-ine 3387.
+Package natbib Warning: Citation `reynolds401' on page 116 undefined on input l
+ine 3401.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3399--3399
+Underfull \hbox (badness 10000) in paragraph at lines 3413--3413
 []\TU/lmr/bx/n/14.4 Induction chemotherapy followed by
  []
 
-[114] [115] [116
+[116] [117] [118
 
 ]
-Chapter 34.
-[117] [118]
 Chapter 35.
-[119
-
-] [120
-
-]
+[119] [120]
 Chapter 36.
-[121] [122] [123] [124
+[121
+
+] [122
 
 ]
 Chapter 37.
-[125] [126
+[123] [124] [125] [126
 
 ]
 Chapter 38.
@@ -1020,62 +1024,62 @@ Chapter 38.
 
 ]
 Chapter 39.
-
-Underfull \hbox (badness 2671) in paragraph at lines 3544--3544
-[]\TU/lmr/bx/n/14.4 Nutritional consequences of esophagec-
- []
-
 [129] [130
 
 ]
 Chapter 40.
+
+Underfull \hbox (badness 2671) in paragraph at lines 3558--3558
+[]\TU/lmr/bx/n/14.4 Nutritional consequences of esophagec-
+ []
+
 [131] [132
 
 ]
 Chapter 41.
 [133] [134
 
-] [135] [136]
+]
 Chapter 42.
-[137
+[135] [136
 
-] [138]
+] [137] [138]
 Chapter 43.
 [139
 
-] [140
+] [140]
+Chapter 44.
+[141
+
+] [142
 
 ]
-Chapter 44.
-[141] [142]
 Chapter 45.
-[143
-
-] [144]
+[143] [144]
 Chapter 46.
-File: images/Double-tract_Q640.jpg Graphic file (type bmp)
-<images/Double-tract_Q640.jpg>
 [145
 
-] [146
+] [146]
+Chapter 47.
+File: images/Double-tract_Q640.jpg Graphic file (type bmp)
+<images/Double-tract_Q640.jpg>
+[147
+
+] [148
 
 ]
-Chapter 47.
-[147] [148
-
-] [149] [150]
 Chapter 48.
-[151
+[149] [150
 
-] [152]
+] [151] [152]
 Chapter 49.
 [153
 
-] [154
-
-]
+] [154]
 Chapter 50.
-[155] [156
+[155
+
+] [156
 
 ]
 Chapter 51.
@@ -1091,128 +1095,132 @@ Chapter 53.
 
 ]
 Chapter 54.
-
-Package natbib Warning: Citation `klaver761' on page 163 undefined on input lin
-e 4100.
-
 [163] [164
 
 ]
 Chapter 55.
-[165]
 
-Package natbib Warning: Citation `quenet256' on page 166 undefined on input lin
-e 4141.
+Package natbib Warning: Citation `klaver761' on page 165 undefined on input lin
+e 4114.
 
-
-Package natbib Warning: Citation `rovers710' on page 166 undefined on input lin
-e 4147.
-
-
-Package natbib Warning: Citation `feron114' on page 166 undefined on input line
- 4156.
-
-[166]
-Chapter 56.
-[167
-
-] [168
+[165] [166
 
 ]
+Chapter 56.
+[167]
+
+Package natbib Warning: Citation `quenet256' on page 168 undefined on input lin
+e 4155.
+
+
+Package natbib Warning: Citation `rovers710' on page 168 undefined on input lin
+e 4161.
+
+
+Package natbib Warning: Citation `feron114' on page 168 undefined on input line
+ 4170.
+
+[168]
 Chapter 57.
-[169] [170
+[169
+
+] [170
 
 ]
 Chapter 58.
 [171] [172
 
-] [173] [174]
+]
 Chapter 59.
-[175
+[173] [174
 
-] [176
-
-]
+] [175] [176]
 Chapter 60.
-[177] [178]
-Chapter 61.
-[179
+[177
 
-] [180
+] [178
 
 ]
+Chapter 61.
+[179] [180]
 Chapter 62.
-[181] [182
+[181
+
+] [182
 
 ]
 Chapter 63.
-[183] [184]
-Underfull \hbox (badness 1189) in paragraph at lines 4395--4396
+[183] [184
+
+]
+Chapter 64.
+[185] [186]
+Underfull \hbox (badness 1189) in paragraph at lines 4411--4412
 []\TU/lmr/m/n/10 MERCURY study group has examined selective approaches to adjuv
 ant
  []
 
-[185] [186
-
-]
-Chapter 64.
-[187] [188
-
-]
+[187] [188]
 Chapter 65.
-[189]
+[189
+
+] [190
+
+]
+Chapter 66.
+[191]
 Overfull \hbox (13.46562pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 190 \TU/lmr/m/sl/10 CHAPTER 65.  NON-OPERATIVE MANAGEMENT OF REC
+\TU/lmr/m/n/10 192 \TU/lmr/m/sl/10 CHAPTER 66.  NON-OPERATIVE MANAGEMENT OF REC
 TAL CANCER
  []
 
-[190]
-Chapter 66.
-[191
-
-] [192
-
-] [193] [194]
+[192]
 Chapter 67.
-[195
+[193
 
-] [196
+] [194
 
-] [197] [198]
+] [195] [196]
 Chapter 68.
-(./gi_surgonc.bbl [199
+[197
 
-] [200
+] [198
 
-] [201] [202] [203]
+] [199] [200]
+Chapter 69.
+(./gi_surgonc.bbl [201
+
+] [202
+
+] [203] [204] [205]
 Invalid UTF-8 byte or sequence at line 196 replaced by U+FFFD.
 Missing character: There is no � (U+FFFD) in font [lmroman10-regular]:mapping=t
 ex-text;!
-[204]
+[206]
 Invalid UTF-8 byte or sequence at line 308 replaced by U+FFFD.
 Missing character: There is no � (U+FFFD) in font [lmroman10-regular]:mapping=t
 ex-text;!
-[205] [206]
+[207] [208]
 Underfull \vbox (badness 2698) has occurred while \output is active []
 
-[207] [208] [209] [210] [211] [212] [213] [214]
+[209] [210] [211] [212] [213] [214] [215] [216]
 Underfull \hbox (badness 2158) in paragraph at lines 967--975
 []\TU/lmr/m/n/10 Stahl, M., Walz, M. K., Stuschke, M., Lehmann, N., Meyer, H.-J
 .,
  []
 
-[215] [216] [217] [218])
+[217] [218] [219] [220])
 
 Package natbib Warning: There were undefined citations.
 
-[219] (./gi_surgonc.aux) ) 
+[221] (./gi_surgonc.aux) ) 
 Here is how much of TeX's memory you used:
- 19661 strings out of 476683
- 362018 string characters out of 5804046
+ 19664 strings out of 476683
+ 362088 string characters out of 5804046
  1864018 words of memory out of 5000000
- 39621 multiletter control sequences out of 15000+600000
+ 39624 multiletter control sequences out of 15000+600000
  519731 words of font info for 95 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  86i,8n,121p,3750b,719s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on gi_surgonc.pdf (219 pages).
+Output written on gi_surgonc.pdf (221 pages).
