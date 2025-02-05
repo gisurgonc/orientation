@@ -1,4 +1,5 @@
 orientation-manual-has-moved
+the-orientation-manual-can-now-be-found-here.-please-let-others-in-your-circle-know-of-the-changes
 cmc-inpatient
 admissions
 rounds
