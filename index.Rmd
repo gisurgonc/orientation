@@ -34,5 +34,5 @@ install.packages("bookdown")
 
 # Orientation Manual has Moved!
 
-The orientation manual can now be found [here](https://gisurgonc.github.io/handbook/).  Please let others in your circle know.
+The orientation manual can now be found [here](https://gisurgonc.github.io/handbook/).  Please let others in your circle know of the changes
 
