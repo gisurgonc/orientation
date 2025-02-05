@@ -1,16 +1,14 @@
 --- 
 title: "GI Surgical Oncology"
-#author: "Jonathan C Salo MD"
-#date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [zotero.bib]
+bibliography: zotero.bib
 biblio-style: apalike
-link-citations: yes
-description: "Orientation Manual for GI Surgical Oncology Service"
-apple-touch-icon: "images/icon120.png"
+link-citations: true
+description: Orientation Manual for GI Surgical Oncology Service
+apple-touch-icon: images/icon120.png
 apple-touch-icon-size: 120
-favicon: "images/favicon.io"
+favicon: images/favicon.io
 url: https://github.com/gisurgonc/orientation
 ---
 
@@ -34,40 +32,7 @@ install.packages("bookdown")
 
 ```
 
-# Welcome
+# Orientation Manual has Moved!
 
-Welcome to the GI Surgical Oncology service. This orientation manual is designed to provide an introduction to the service, its workflow, and an introduction to relevant literature. Please let us know about additional information which could be included may be helpful to others. 
-
-# Overview {#Intro}
-
-## Absences
-
-Please notify Dr Hill, Dr Salo and Dr Squires before the beginning of the rotation if you will be away during the month. This includes vacations, meetings, interview trips, and other absences.
-
-## Communication
-
-Please use Haiku for messaging service attendings rather than text. Please check our status prior to messaging nights and weekends. If we are listed as unavailable, please contact *GI Surg Onc Attending LCI CMC*.
-
-
-## Medical Records
-
-Completing medical records in a timely fashion is critical for patient safety, billing, and compliance. Timeliness also demonstrates an understanding of how the world of surgery for which residents are being prepared functions.
-
-## Operative Logs
-
-Completion of operative logs is critical for board certification of the individual resident but also has implications for the appropriate assignment of residents to surgical rotations AND impacts the ability of the residency to maintain accreditation and recruit resident candidates. Residents who find it difficult to find time to maintain operative logs may find themselves excused from the operating room to complete them. Residents are expected to complete operative logs within two weeks of the end of the rotation.
-
-## Case Assignment
-
-The senior resident will be expected to make case assignments for junior residents and students. It in not necessary split the month by attending - splitting by case is acceptable as well. We also expect that both residents know all the patients rather than just for one attending. This helps with nursing questions, etc.
-
-## Clinic
-
-Clinic is an important part of a surgeon's education, where decisions are made regarding diagnostic workup, patient evaluation, and treatment planning. The expectation is that all residents on the service attend clinic once per week.
-
-## Work Hours
-
-If the service workload jeopardizes your ability to abide by the work hour restrictions, you must notify an attending so that arrangements can be made. The service attendings are committed to abiding by work hour restrictions. Service residents are *not* expected to cover late cases (after 6pm)
-
-
+The orientation manual can now be found [here](https://gisurgonc.github.io/handbook/).  Please let others in your circle know.
 

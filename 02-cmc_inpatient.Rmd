@@ -38,16 +38,7 @@ Please append a text block to the bottom of each progress note specifying the Ep
 
 Established patients and directed should be discussed with the attending surgeon.
 
-Unassigned Colorectal: Contact Attending directly
-
-Unassigned Surgical Oncology: “Gi Surg Onc Attending LCI CMC”
-
-In general, benign colorectal consults are staffed by Dr Davis. Colorectal malignancies are staffed as below. Esophageal and GE junction staffed by Dr Salo. Adenocarcinoma of distal stomach: Drs Salo/Squires. Gastric GIST: Drs Hill/Salo/Squires. Squires/Hill alternate week
- 
-|  | Mon | Tues | Weds | Thu | Fri |
-|---|---|---|---|---|---|
-| CR Malig | JSH | MHS | MHS<br>JSH | JCS | MHS<br>JSH |
-| GI Surg Onc | JSH | MHS | MHS<br>JSH | JCS | MHS<br>JSH |
+All new inpatient, PCL, and ER consults will be evaluated by the Red Team instead of the surgical oncology team. Established patients will be directed to either the Red Team or surgical oncology team depending on the time since surgery. Those within the three-month global period after surgery will continue to be evaluated by the surgical oncology team, while patients outside of the 90-day global period will be managed by the Red Team. This change aims to streamline patient care. All established patients will be listed on the surgical oncology list, though residents will not be responsible for management if the Red Team is primary.
 
 ## Postop Clinic Appt
 

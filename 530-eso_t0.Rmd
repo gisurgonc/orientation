@@ -8,5 +8,9 @@ Shaheen randomized trial of radiofrequency ablation (RFA) for dysplasia [@shahee
 
 Meta-abalysis suggests ablation can reduce rate of development of cancer from 6.6 per 100 person years to 1.9 [@rastogi394]
 
+RFA for Barrett's national registry [@ganz35]
+
+RFA for low-grade dysplasia [@phoa1209] resulted in 25% risk reduction in progression to HGD.
+
 ## Anti-reflux surgery for Barrett's esophagus
 

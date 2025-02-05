@@ -199,3 +199,5 @@ peritoneal-mesothelioma
 small-bowel-neoplasms
 carcinoid
 adenocarcinoma
+orientation-manual-has-moved
+diagnosis
