@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2023)
+This is BibTeX, Version 0.99d (TeX Live 2024)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: gi_surgonc.aux
 The style file: apalike.bst
@@ -11,45 +11,45 @@ Warning--I didn't find a database entry for "quenet256"
 Warning--I didn't find a database entry for "rovers710"
 Warning--I didn't find a database entry for "feron114"
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
-You've used 143 entries,
+You've used 142 entries,
             1935 wiz_defined-function locations,
-            1254 strings with 63732 characters,
-and the built_in function-call counts, 104306 in all, are:
-= -- 9022
-> -- 9154
+            1249 strings with 63458 characters,
+and the built_in function-call counts, 103846 in all, are:
+= -- 8977
+> -- 9131
 < -- 15
-+ -- 3509
-- -- 3492
-* -- 11325
-:= -- 18737
-add.period$ -- 444
-call.type$ -- 143
-change.case$ -- 2461
-chr.to.int$ -- 142
-cite$ -- 143
-duplicate$ -- 2002
-empty$ -- 4507
-format.name$ -- 3655
-if$ -- 18785
++ -- 3501
+- -- 3484
+* -- 11280
+:= -- 18657
+add.period$ -- 441
+call.type$ -- 142
+change.case$ -- 2452
+chr.to.int$ -- 141
+cite$ -- 142
+duplicate$ -- 1988
+empty$ -- 4477
+format.name$ -- 3646
+if$ -- 18698
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 143
-newline$ -- 733
-num.names$ -- 429
-pop$ -- 2145
+missing$ -- 142
+newline$ -- 728
+num.names$ -- 426
+pop$ -- 2138
 preamble$ -- 1
-purify$ -- 2461
+purify$ -- 2452
 quote$ -- 0
-skip$ -- 1445
+skip$ -- 1435
 stack$ -- 0
-substring$ -- 5951
-swap$ -- 143
+substring$ -- 5914
+swap$ -- 142
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 858
+type$ -- 852
 warning$ -- 0
-while$ -- 568
+while$ -- 564
 width$ -- 0
-write$ -- 1891
+write$ -- 1878
 (There were 7 warnings)

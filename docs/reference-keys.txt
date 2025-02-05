@@ -1,12 +1,4 @@
-welcome
-Intro
-absences
-communication
-medical-records
-operative-logs
-case-assignment
-clinic
-work-hours
+orientation-manual-has-moved
 cmc-inpatient
 admissions
 rounds
@@ -32,7 +24,7 @@ medical-student-resources
 recommended-resources
 shelf-exam
 entrustable-professional-activities
-clinic-1
+clinic
 salo-clinic
 mie_postop
 weaning-tube-feeds-in-diabetics
@@ -199,5 +191,3 @@ peritoneal-mesothelioma
 small-bowel-neoplasms
 carcinoid
 adenocarcinoma
-orientation-manual-has-moved
-diagnosis
